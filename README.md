@@ -93,7 +93,8 @@ Maybe they should because bloat?
 - [`@Holben888/svelte-starter-template`](https://github.com/Holben888/svelte-starter-template) -
   A small starter template to get up and running with Svelte v3
 - [`@marcograhl/tailwindcss-svelte-starter`](https://github.com/marcograhl/tailwindcss-svelte-starter) -
-  Tailwindcss v1 + Svelte v3 = <3 
+  Tailwindcss v1 + Svelte v3 = <3
+- [`@geakstr/svelte-3-rollup-typescript-vscode`](https://github.com/geakstr/svelte-3-rollup-typescript-vscode) - Starter for svelte 3/rollup/typescript/vscode
 
 ### electron
 
