@@ -3,7 +3,7 @@
 > multitudes of [Svelte](https://svelte.dev) v3+ links
 
 This is like an
-[awesome list](https://github.com/CalvinWalzel/awesome-svelte#ui-layout)
+[awesome list](https://github.com/CalvinWalzel/awesome-svelte)
 but less awesome, because curation is going to be looser than the norm.
 
 Please submit anything that's relevant and not malware! (also version 3+)
@@ -13,7 +13,7 @@ Please submit anything that's relevant and not malware! (also version 3+)
 > These will get out of date. Maybe some scripting is in order.
 > (maybe/probably someone already did that somewhere)
 
-- [main](#main)
+- [official links](#official-links)
 - [integrations](#integrations)
   - [preprocessors](#preprocessors)
   - [editor tools](#editor-tools)
@@ -29,7 +29,7 @@ Please submit anything that's relevant and not malware! (also version 3+)
 - [experiments](#experiments)
 - [other lists](#other-lists)
 
-## main
+## official links
 
 - [svelte.dev](https://svelte.dev/)
 - [FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
@@ -37,10 +37,13 @@ Please submit anything that's relevant and not malware! (also version 3+)
   Cybernetically enhanced web apps
 - [`@sveltejs/integrations`](https://github.com/sveltejs/integrations) -
   Ways to incorporate Svelte into your stack
+- [`@sveltejs/sapper`](https://github.com/sveltejs/sapper) -
+  Military-grade progressive web apps, powered by Svelte
 
 ## integrations
 
-**Official list** at [`@sveltejs/integrations`](https://github.com/sveltejs/integrations).
+The official list of integrations is
+[`@sveltejs/integrations`](https://github.com/sveltejs/integrations).
 Look there first - they're mostly not duplicated here.
 Maybe they should because bloat?
 
@@ -73,7 +76,7 @@ Maybe they should because bloat?
 
 - [`@sveltejs/template`](https://github.com/sveltejs/template) -
   Template for building basic applications with Svelte with rollup
-- [`@sveltejs/template-webpack](https://github.com/sveltejs/template-webpack) -
+- [`@sveltejs/template-webpack`](https://github.com/sveltejs/template-webpack) -
   Template for building basic Svelte applications with webpack 
 - [`@sveltejs/component-template`](https://github.com/sveltejs/component-template) -
   A base for building shareable Svelte components
@@ -146,7 +149,8 @@ Maybe they should because bloat?
 
 ## experiments
 
-- [`@sveltejs/gl`](https://github.com/sveltejs/gl)
+- [`@sveltejs/gl`](https://github.com/sveltejs/gl) -
+  A (very experimental) project to bring WebGL to Svelte 
 
 ## other lists
 
