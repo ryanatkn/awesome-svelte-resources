@@ -1,4 +1,4 @@
-# bloated Svelte
+# bloated Svelte :boar:
 
 > multitudes of [Svelte](https://svelte.dev) v3+ links
 
