@@ -1,0 +1,160 @@
+# bloated Svelte
+
+> multitudes of [Svelte](https://svelte.dev) v3+ links
+
+This is like an
+[awesome list](https://github.com/CalvinWalzel/awesome-svelte#ui-layout)
+but less awesome, because curation is going to be looser than the norm.
+
+Please submit anything that's relevant and not malware! (also version 3+)
+
+> aside: It'd be nice if GitHub had a way to embed
+> a project's summary line in another document. (does it??)
+> These will get out of date. Maybe some scripting is in order.
+> (maybe/probably someone already did that somewhere)
+
+- [main](#main)
+- [integrations](#integrations)
+  - [preprocessors](#preprocessors)
+  - [editor tools](#editor-tools)
+- [frameworks](#frameworks)
+- [templates](#templates)
+- [sample apps](#sample-apps)
+- [routers](#routers)
+- [ui component sets](#ui-component-sets)
+- [misc components](#misc-components)
+- [misc libraries](#misc-libraries)
+- [examples](#examples)
+- [native](#native)
+- [experiments](#experiments)
+- [other lists](#other-lists)
+
+## main
+
+- [svelte.dev](https://svelte.dev/)
+- [FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
+- [`@sveltejs/svelte`](https://github.com/sveltejs/svelte) -
+  Cybernetically enhanced web apps
+- [`@sveltejs/integrations`](https://github.com/sveltejs/integrations) -
+  Ways to incorporate Svelte into your stack
+
+## integrations
+
+**Official list** at [`@sveltejs/integrations`](https://github.com/sveltejs/integrations).
+Look there first - they're mostly not duplicated here.
+Maybe they should because bloat?
+
+### preprocessors
+
+- [`@kaisermann/svelte-preprocess`](https://github.com/kaisermann/svelte-preprocess) -
+  A Svelte preprocessor with baked in support for common used preprocessors 
+- [`@pngwn/MDsveX`](https://github.com/pngwn/MDsveX) -
+  A markdown preprocessor for Svelte.
+- [`@pyoner/svelte-typescript`](https://github.com/pyoner/svelte-typescript) -
+  Typescript monorepo for Svelte v3 (preprocess, template, types)
+- [`@PaulMaly/svelte-ts-preprocess`](https://github.com/PaulMaly/svelte-ts-preprocess) -
+  Typescript preprocessor for Svelte 3
+
+### editor tools
+
+- [`@UnwrittenFun/svelte-vscode`](https://github.com/UnwrittenFun/svelte-vscode) -
+  Svelte language support for VS Code
+- [`@UnwrittenFun/prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte) -
+  Format your svelte components using prettier. 
+- [`@UnwrittenFun/svelte-language-server`](https://github.com/UnwrittenFun/svelte-language-server) -
+  A WIP language server for Svelte
+
+## frameworks
+
+- [`@sveltejs/sapper`](https://github.com/sveltejs/sapper) -
+  Military-grade progressive web apps, powered by Svelte
+
+## templates
+
+- [`@sveltejs/template`](https://github.com/sveltejs/template) -
+  Template for building basic applications with Svelte with rollup
+- [`@sveltejs/template-webpack](https://github.com/sveltejs/template-webpack) -
+  Template for building basic Svelte applications with webpack 
+- [`@sveltejs/component-template`](https://github.com/sveltejs/component-template) -
+  A base for building shareable Svelte components
+- [`@sveltejs/template-custom-element`](https://github.com/sveltejs/template-custom-element) -
+  Template for building basic applications with Svelte and custom elements
+- [`@sveltejs/sapper-template`](https://github.com/sveltejs/sapper-template) -
+  Starter template for Sapper apps
+- [`@pyoner/svelte-typescript`](https://github.com/pyoner/svelte-typescript) -
+  Typescript monorepo for Svelte v3 (preprocess, template, types) 
+- [`@Axelen123/svelte-ts-template`](https://github.com/Axelen123/svelte-ts-template) -
+  Typescript template for Svelte v3 
+- [`@github.com/Shyam-Chen/Svelte-Play`](https://github.com/Shyam-Chen/Svelte-Play) -
+  A boilerplate for Svelte, Material, Babel, and PostCSS. Webpack
+- [`@Holben888/svelte-starter-template`](https://github.com/Holben888/svelte-starter-template) -
+  A small starter template to get up and running with Svelte v3
+- [`@marcograhl/tailwindcss-svelte-starter`](https://github.com/marcograhl/tailwindcss-svelte-starter) -
+  Tailwindcss v1 + Svelte v3 = <3 
+- [`@Rich-Harris/svelte-template-electron`](https://github.com/Rich-Harris/svelte-template-electron) -
+  A template for building Electron apps with Svelte
+  **VERSION 2** <sub>(but included here anyway)</sub>
+- [`@Blade67/Sveltron`](https://github.com/Blade67/Sveltron) -
+  Electron Svelte boilerplate 
+
+## sample apps
+
+- [`@sveltejs/svelte-todomvc`](https://github.com/sveltejs/svelte-todomvc) -
+  TodoMVC implemented in Svelte
+- [`@sveltejs/realworld`](https://github.com/sveltejs/realworld) -
+  Svelte/Sapper implementation of the RealWorld app
+
+## routers
+
+- see [the FAQ](https://github.com/sveltejs/svelte/wiki/faq)
+- maybe include the options here too? it does say "bloated" on the box
+
+## ui component sets
+
+- [`@c0bra/svelma`](https://github.com/c0bra/svelma) -
+  Bulma components for Svelte
+
+## misc components
+
+- [`@sveltejs/svelte-virtual-list`](https://github.com/sveltejs/svelte-virtual-list) -
+  A virtual list component for Svelte apps
+- [`@sveltejs/svelte-scroller`](https://github.com/sveltejs/svelte-scroller) -
+  A `<Scroller>` component for Svelte apps
+- [`@kaisermann/svelte-loadable`](https://github.com/kaisermann/svelte-loadable) -
+  Dynamically load a svelte component
+- ..many many more (TODO)
+
+## misc libraries
+
+- [`@kaisermann/svelte-i18n`](https://github.com/kaisermann/svelte-i18n) -
+  Internationalization library for Svelte 
+- [`@timhall/svelte-apollo`](https://github.com/timhall/svelte-apollo) -
+  Svelte integration for Apollo GraphQL 
+- [`@RobBrazier/svelte-awesome`](https://github.com/RobBrazier/svelte-awesome) -
+  Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
+- [`@meteor-svelte/meteor-svelte`](https://github.com/meteor-svelte/meteor-svelte) -
+  Build cybernetically enhanced web apps with Meteor and Svelte. 
+
+## examples
+
+- send pull requests!
+
+## native
+
+- [`@halfnelson/svelte-native`](https://github.com/halfnelson/svelte-native) -
+  Svelte controlling native components via Nativescript
+
+## experiments
+
+- [`@sveltejs/gl`](https://github.com/sveltejs/gl)
+
+## other lists
+
+- [`@sveltejs/integrations`](https://github.com/sveltejs/integrations) -
+  Ways to incorporate Svelte into your stack
+- [`@CalvinWalzel/awesome-svelte`](https://github.com/CalvinWalzel/awesome-svelte) -
+  A curated list of awesome things related to Svelte
+- [`@mindrones/svelte-sapper-community`](https://github.com/mindrones/svelte-sapper-community) -
+  Svelte/Sapper community map
+
+# :sunflower:
