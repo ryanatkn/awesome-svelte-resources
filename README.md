@@ -94,11 +94,16 @@ Maybe they should because bloat?
   A small starter template to get up and running with Svelte v3
 - [`@marcograhl/tailwindcss-svelte-starter`](https://github.com/marcograhl/tailwindcss-svelte-starter) -
   Tailwindcss v1 + Svelte v3 = <3 
+
+### electron
+
 - [`@Rich-Harris/svelte-template-electron`](https://github.com/Rich-Harris/svelte-template-electron) -
   A template for building Electron apps with Svelte
   **VERSION 2** <sub>(but included here anyway)</sub>
 - [`@Blade67/Sveltron`](https://github.com/Blade67/Sveltron) -
   Electron Svelte boilerplate 
+- [`@chuanqisun/svelte-electron-template`](https://github.com/chuanqisun/svelte-electron-template) -
+  The bare minimum boilerplate to use svelte in electron
 
 ## sample apps
 
