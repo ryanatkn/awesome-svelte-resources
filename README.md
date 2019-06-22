@@ -8,11 +8,6 @@ but less awesome, because curation is going to be looser than the norm.
 
 Please submit anything that's relevant and not malware! (also version 3+)
 
-> aside: It'd be nice if GitHub had a way to embed
-> a project's summary line in another document. (does it??)
-> These will get out of date. Maybe some scripting is in order.
-> (maybe/probably someone already did that somewhere)
-
 - [official links](#official-links)
 - [integrations](#integrations)
   - [preprocessors](#preprocessors)
@@ -28,6 +23,11 @@ Please submit anything that's relevant and not malware! (also version 3+)
 - [native](#native)
 - [experiments](#experiments)
 - [other lists](#other-lists)
+
+> aside: It'd be nice if GitHub had a way to embed
+> a project's summary line in another document. (does it??)
+> These will get out of date. Maybe some scripting is in order.
+> (maybe/probably someone already did that somewhere)
 
 ## official links
 
