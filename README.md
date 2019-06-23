@@ -25,10 +25,13 @@ Sapper resources should probably live in their own space.
 - [experiments](#experiments)
 - [other lists](#other-lists)
 
-> aside: It'd be nice if GitHub had a way to embed
-> a project's summary line in another document. (does it??)
-> These will get out of date. Maybe some scripting is in order.
-> (maybe/probably someone already did that somewhere)
+> possible improvements
+>
+> - Some sections need better organization, or at least more subheadings.
+> - It'd be nice if GitHub had a way to embed
+>   a project's summary line in another document. (does it??)
+>   These will get out of date. Maybe some scripting is in order.
+>   (maybe/probably someone already did that somewhere)
 
 ## official links
 
