@@ -50,7 +50,7 @@ Maybe they should because bloat?
 ### preprocessors
 
 - [`@kaisermann/svelte-preprocess`](https://github.com/kaisermann/svelte-preprocess) -
-  A Svelte preprocessor with baked in support for common used preprocessors 
+  A Svelte preprocessor with baked in support for common used preprocessors
 - [`@pngwn/MDsveX`](https://github.com/pngwn/MDsveX) -
   A markdown preprocessor for Svelte.
 - [`@pyoner/svelte-typescript`](https://github.com/pyoner/svelte-typescript) -
@@ -63,7 +63,7 @@ Maybe they should because bloat?
 - [`@UnwrittenFun/svelte-vscode`](https://github.com/UnwrittenFun/svelte-vscode) -
   Svelte language support for VS Code
 - [`@UnwrittenFun/prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte) -
-  Format your svelte components using prettier. 
+  Format your svelte components using prettier.
 - [`@UnwrittenFun/svelte-language-server`](https://github.com/UnwrittenFun/svelte-language-server) -
   A WIP language server for Svelte
 
@@ -77,7 +77,7 @@ Maybe they should because bloat?
 - [`@sveltejs/template`](https://github.com/sveltejs/template) -
   Template for building basic applications with Svelte with rollup
 - [`@sveltejs/template-webpack`](https://github.com/sveltejs/template-webpack) -
-  Template for building basic Svelte applications with webpack 
+  Template for building basic Svelte applications with webpack
 - [`@sveltejs/component-template`](https://github.com/sveltejs/component-template) -
   A base for building shareable Svelte components
 - [`@sveltejs/template-custom-element`](https://github.com/sveltejs/template-custom-element) -
@@ -85,9 +85,9 @@ Maybe they should because bloat?
 - [`@sveltejs/sapper-template`](https://github.com/sveltejs/sapper-template) -
   Starter template for Sapper apps
 - [`@pyoner/svelte-typescript`](https://github.com/pyoner/svelte-typescript) -
-  Typescript monorepo for Svelte v3 (preprocess, template, types) 
+  Typescript monorepo for Svelte v3 (preprocess, template, types)
 - [`@Axelen123/svelte-ts-template`](https://github.com/Axelen123/svelte-ts-template) -
-  Typescript template for Svelte v3 
+  Typescript template for Svelte v3
 - [`@Shyam-Chen/Svelte-Play`](https://github.com/Shyam-Chen/Svelte-Play) -
   A boilerplate for Svelte, Material, Babel, and PostCSS. Webpack
 - [`@Holben888/svelte-starter-template`](https://github.com/Holben888/svelte-starter-template) -
@@ -102,7 +102,7 @@ Maybe they should because bloat?
   A template for building Electron apps with Svelte
   **VERSION 2** <sub>(but included here anyway)</sub>
 - [`@Blade67/Sveltron`](https://github.com/Blade67/Sveltron) -
-  Electron Svelte boilerplate 
+  Electron Svelte boilerplate
 - [`@chuanqisun/svelte-electron-template`](https://github.com/chuanqisun/svelte-electron-template) -
   The bare minimum boilerplate to use svelte in electron
 
@@ -166,7 +166,7 @@ Maybe they should because bloat?
 ## experiments
 
 - [`@sveltejs/gl`](https://github.com/sveltejs/gl) -
-  A (very experimental) project to bring WebGL to Svelte 
+  A (very experimental) project to bring WebGL to Svelte
 
 ## other lists
 

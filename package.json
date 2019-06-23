@@ -1,0 +1,37 @@
+{
+  "name": "bloated-svelte",
+  "version": "1.0.0",
+  "description": "Svelte links in a bloated list",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanatkn/bloated-svelte.git"
+  },
+  "keywords": [
+    "svelte",
+    "sveltejs"
+  ],
+  "author": "https://github.com/ryanatkn/bloated-svelte/graphs/contributors",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/ryanatkn/bloated-svelte/issues"
+  },
+  "homepage": "https://github.com/ryanatkn/bloated-svelte#readme",
+  "prettier": {
+    "useTabs": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": false,
+    "overrides": [
+      {
+        "files": "*.{json,md}",
+        "options": {
+          "useTabs": false
+        }
+      }
+    ]
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
