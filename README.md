@@ -159,11 +159,11 @@ Maybe they should because bloat?
   Simple and flexible notifications system
 - [`@ValentinH/svelte-easy-crop`](https://github.com/ValentinH/svelte-easy-crop) -
   A Svelte component to crop images with easy interactions
-- ..many many more (TODO)
+- many many more.. [please send help](https://github.com/ryanatkn/bloated-svelte/pulls)
 
 ## examples
 
-- send pull requests!
+- send [pull requests](https://github.com/ryanatkn/bloated-svelte/pulls)!
 
 ## native
 
