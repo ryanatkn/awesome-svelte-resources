@@ -66,8 +66,6 @@ Maybe they should because bloat?
 
 - [`@UnwrittenFun/svelte-vscode`](https://github.com/UnwrittenFun/svelte-vscode) -
   Svelte language support for VS Code
-- [`@UnwrittenFun/prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte) -
-  Format your svelte components using prettier.
 - [`@UnwrittenFun/svelte-language-server`](https://github.com/UnwrittenFun/svelte-language-server) -
   A WIP language server for Svelte
 
@@ -138,6 +136,8 @@ Maybe they should because bloat?
   Font Awesome 5 for svelte.js
 - [`@meteor-svelte/meteor-svelte`](https://github.com/meteor-svelte/meteor-svelte) -
   Build cybernetically enhanced web apps with Meteor and Svelte.
+- [`@UnwrittenFun/prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte) -
+  Format your svelte components using prettier.
 
 ## ui component sets
 
