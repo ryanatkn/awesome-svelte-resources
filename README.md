@@ -146,7 +146,7 @@ Maybe they should because bloat?
   A `<Scroller>` component for Svelte apps
 - [`@kaisermann/svelte-loadable`](https://github.com/kaisermann/svelte-loadable) -
   Dynamically load a svelte component
-- [`@trbrc/svelte-inspect`]](https://github.com/trbrc/svelte-inspect) -
+- [`@trbrc/svelte-inspect`](https://github.com/trbrc/svelte-inspect) -
   console.log()-like interactive inspector for Svelte 3
 - [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar) -
   A multiseries, SVG progressbar component made with Svelte
