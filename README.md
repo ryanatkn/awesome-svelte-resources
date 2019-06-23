@@ -152,6 +152,8 @@ Maybe they should because bloat?
   Svelte toast notifications component that can be used in any JS application
 - [`@keenethics/svelte-notifications`](https://github.com/keenethics/svelte-notifications) -
   Simple and flexible notifications system
+- [`@ValentinH/svelte-easy-crop`](https://github.com/ValentinH/svelte-easy-crop) -
+  A Svelte component to crop images with easy interactions
 - ..many many more (TODO)
 
 ## examples
