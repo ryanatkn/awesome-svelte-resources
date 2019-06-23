@@ -18,6 +18,7 @@ Sapper resources should probably live in their own space.
 - [sample apps](#sample-apps)
 - [routers](#routers)
 - [misc libraries](#misc-libraries)
+  - [integrations with misc libraries](#integrations-with-misc-libraries)
 - [ui component sets](#ui-component-sets)
 - [misc components](#misc-components)
 - [examples](#examples)
@@ -128,6 +129,9 @@ Maybe they should because bloat?
 
 - [`@kaisermann/svelte-i18n`](https://github.com/kaisermann/svelte-i18n) -
   Internationalization library for Svelte
+
+### integrations with misc libraries
+
 - [`@timhall/svelte-apollo`](https://github.com/timhall/svelte-apollo) -
   Svelte integration for Apollo GraphQL
 - [`@RobBrazier/svelte-awesome`](https://github.com/RobBrazier/svelte-awesome) -
