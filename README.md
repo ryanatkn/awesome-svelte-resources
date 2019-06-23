@@ -170,6 +170,8 @@ Maybe they should because bloat?
 
 ## examples
 
+- [@pngwn/svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions) -
+  Native-like Page Transitions with Svelte and Sapper, A Travel App.
 - send [pull requests](https://github.com/ryanatkn/bloated-svelte/pulls)!
 
 ## native
