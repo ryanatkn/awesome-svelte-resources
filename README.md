@@ -16,9 +16,9 @@ Please submit anything that's relevant and not malware! (also version 3+)
 - [templates](#templates)
 - [sample apps](#sample-apps)
 - [routers](#routers)
+- [misc libraries](#misc-libraries)
 - [ui component sets](#ui-component-sets)
 - [misc components](#misc-components)
-- [misc libraries](#misc-libraries)
 - [examples](#examples)
 - [native](#native)
 - [experiments](#experiments)
@@ -118,6 +118,19 @@ Maybe they should because bloat?
 - see [the FAQ](https://github.com/sveltejs/svelte/wiki/faq)
 - maybe include the options here too? it does say "bloated" on the box
 
+## misc libraries
+
+- [`@kaisermann/svelte-i18n`](https://github.com/kaisermann/svelte-i18n) -
+  Internationalization library for Svelte
+- [`@timhall/svelte-apollo`](https://github.com/timhall/svelte-apollo) -
+  Svelte integration for Apollo GraphQL
+- [`@RobBrazier/svelte-awesome`](https://github.com/RobBrazier/svelte-awesome) -
+  Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
+- [`@alphapeter/fa-svelte`](https://github.com/alphapeter/fa-svelte) -
+  Font Awesome 5 for svelte.js
+- [`@meteor-svelte/meteor-svelte`](https://github.com/meteor-svelte/meteor-svelte) -
+  Build cybernetically enhanced web apps with Meteor and Svelte.
+
 ## ui component sets
 
 - [`@c0bra/svelma`](https://github.com/c0bra/svelma) -
@@ -131,18 +144,15 @@ Maybe they should because bloat?
   A `<Scroller>` component for Svelte apps
 - [`@kaisermann/svelte-loadable`](https://github.com/kaisermann/svelte-loadable) -
   Dynamically load a svelte component
+- [`@trbrc/svelte-inspect`]](https://github.com/trbrc/svelte-inspect) -
+  console.log()-like interactive inspector for Svelte 3
+- [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar) -
+  A multiseries, SVG progressbar component made with Svelte
+- [`@beyonk-adventures/svelte-notifications`](https://github.com/beyonk-adventures/svelte-notifications) -
+  Svelte toast notifications component that can be used in any JS application
+- [`@keenethics/svelte-notifications`](https://github.com/keenethics/svelte-notifications) -
+  Simple and flexible notifications system
 - ..many many more (TODO)
-
-## misc libraries
-
-- [`@kaisermann/svelte-i18n`](https://github.com/kaisermann/svelte-i18n) -
-  Internationalization library for Svelte 
-- [`@timhall/svelte-apollo`](https://github.com/timhall/svelte-apollo) -
-  Svelte integration for Apollo GraphQL 
-- [`@RobBrazier/svelte-awesome`](https://github.com/RobBrazier/svelte-awesome) -
-  Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
-- [`@meteor-svelte/meteor-svelte`](https://github.com/meteor-svelte/meteor-svelte) -
-  Build cybernetically enhanced web apps with Meteor and Svelte. 
 
 ## examples
 
@@ -163,7 +173,7 @@ Maybe they should because bloat?
 - [`@sveltejs/integrations`](https://github.com/sveltejs/integrations) -
   Ways to incorporate Svelte into your stack
 - [`@CalvinWalzel/awesome-svelte`](https://github.com/CalvinWalzel/awesome-svelte) -
-  A curated list of awesome things related to Svelte
+  A curated list of awesome things related to Svelte (includes v2 resources)
 - [`@mindrones/svelte-sapper-community`](https://github.com/mindrones/svelte-sapper-community) -
   Svelte/Sapper community map
 
