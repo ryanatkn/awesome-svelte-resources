@@ -95,6 +95,8 @@ Maybe they should because bloat?
 - [`@marcograhl/tailwindcss-svelte-starter`](https://github.com/marcograhl/tailwindcss-svelte-starter) -
   Tailwindcss v1 + Svelte v3 = <3
 - [`@geakstr/svelte-3-rollup-typescript-vscode`](https://github.com/geakstr/svelte-3-rollup-typescript-vscode) - Starter for svelte 3/rollup/typescript/vscode
+- [`@jorgegorka/svelte-firebase`](https://github.com/jorgegorka/svelte-firebase) -
+  A template to help you start developing SPAs with Svelte and Firebase.
 
 ### electron
 
