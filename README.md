@@ -7,6 +7,7 @@ This is like an
 but less awesome, because curation is going to be looser than the norm.
 
 Please submit anything that's relevant and not malware! (also version 3+)
+Sapper resources should probably live in their own space.
 
 - [official links](#official-links)
 - [integrations](#integrations)
