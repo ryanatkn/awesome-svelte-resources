@@ -15,7 +15,7 @@ if you feel otherwise)
 - [integrations](#integrations)
   - [preprocessors](#preprocessors)
   - [editor tools](#editor-tools)
-- [frameworks](#frameworks)
+- [web app frameworks](#web-app-frameworks)
 - [templates](#templates)
 - [sample apps](#sample-apps)
 - [routers](#routers)
@@ -73,7 +73,7 @@ Maybe they should because bloat?
 - [`@UnwrittenFun/svelte-language-server`](https://github.com/UnwrittenFun/svelte-language-server) -
   A WIP language server for Svelte
 
-## frameworks
+## web app frameworks
 
 - [`@sveltejs/sapper`](https://github.com/sveltejs/sapper) -
   Military-grade progressive web apps, powered by Svelte
