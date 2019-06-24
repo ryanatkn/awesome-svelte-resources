@@ -8,6 +8,8 @@ but less awesome, because curation is going to be looser than the norm.
 
 Please submit anything that's relevant and not malware! (also version 3+)
 Sapper resources should probably live in their own space.
+([open an issue](https://github.com/ryanatkn/bloated-svelte/issues)
+if you feel otherwise)
 
 - [official links](#official-links)
 - [integrations](#integrations)
@@ -28,6 +30,7 @@ Sapper resources should probably live in their own space.
 
 > possible improvements
 >
+> - Needs more links. Send pulls and issues!
 > - Some sections need better organization, or at least more subheadings.
 > - It'd be nice if GitHub had a way to embed
 >   a project's summary line in another document. (does it??)
