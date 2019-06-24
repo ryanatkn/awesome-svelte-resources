@@ -127,6 +127,8 @@ Maybe they should because bloat?
 
 ## misc libraries
 
+- [`@pngwn/svelte-adapter`](https://github.com/pngwn/svelte-adapter) -
+  Use Svelte components with Vue and React
 - [`@kaisermann/svelte-i18n`](https://github.com/kaisermann/svelte-i18n) -
   Internationalization library for Svelte
 
