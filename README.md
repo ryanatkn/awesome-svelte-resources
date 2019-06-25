@@ -23,6 +23,7 @@ if you feel otherwise)
   - [integrations with other libraries](#integrations-with-other-libraries)
 - [ui component sets](#ui-component-sets)
 - [misc components](#misc-components)
+  - [non-svelte components](#non-svelte-components)
 - [examples](#examples)
 - [native](#native)
 - [experiments](#experiments)
@@ -172,6 +173,11 @@ Maybe they should because bloat?
 - [`@ValentinH/svelte-easy-crop`](https://github.com/ValentinH/svelte-easy-crop) -
   A Svelte component to crop images with easy interactions
 - many many more.. [please send help](https://github.com/ryanatkn/bloated-svelte/pulls)
+
+### non-svelte components
+
+- [@Pikaday/Pikaday](https://github.com/Pikaday/Pikaday) -
+  A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ## examples
 
