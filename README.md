@@ -186,6 +186,12 @@ Maybe they should because bloat?
   Native-like Page Transitions with Svelte and Sapper, A Travel App.
 - send [pull requests](https://github.com/ryanatkn/bloated-svelte/pulls)!
 
+### closed-source examples
+
+- [NYTimes article: A ‘Bridge’ to China, and Her Family’s Business, in the Trump Cabinet](https://www.nytimes.com/2019/06/02/us/politics/elaine-chao-china.html) -
+  Uses the experimental [`@sveltejs/gl`](https://github.com/sveltejs/gl)
+  to draw a 3d animated globe.
+
 ## native
 
 - [`@halfnelson/svelte-native`](https://github.com/halfnelson/svelte-native) -
@@ -195,12 +201,6 @@ Maybe they should because bloat?
 
 - [`@sveltejs/gl`](https://github.com/sveltejs/gl) -
   A (very experimental) project to bring WebGL to Svelte
-
-### closed-source examples
-
-- [NYTimes article: A ‘Bridge’ to China, and Her Family’s Business, in the Trump Cabinet](https://www.nytimes.com/2019/06/02/us/politics/elaine-chao-china.html) -
-  Uses the experimental [`@sveltejs/gl`](https://github.com/sveltejs/gl)
-  to draw a 3d animated globe.
 
 ## other lists
 
