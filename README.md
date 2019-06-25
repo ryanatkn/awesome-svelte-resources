@@ -137,6 +137,8 @@ Maybe they should because bloat?
   Use Svelte components with Vue and React
 - [`@kaisermann/svelte-i18n`](https://github.com/kaisermann/svelte-i18n) -
   Internationalization library for Svelte
+- [`@sveltejs/gestures`](https://github.com/sveltejs/gestures) -
+  Svelte actions for cross-platform gesture detection (work in progress)
 
 ### integrations with other libraries
 
