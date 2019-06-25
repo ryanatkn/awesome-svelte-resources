@@ -176,12 +176,12 @@ Maybe they should because bloat?
 
 ### non-svelte components
 
-- [@Pikaday/Pikaday](https://github.com/Pikaday/Pikaday) -
+- [`@Pikaday/Pikaday`](https://github.com/Pikaday/Pikaday) -
   A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ## examples
 
-- [@pngwn/svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions) -
+- [`@pngwn/svelte-travel-transitions`](https://github.com/pngwn/svelte-travel-transitions) -
   Native-like Page Transitions with Svelte and Sapper, A Travel App.
 - send [pull requests](https://github.com/ryanatkn/bloated-svelte/pulls)!
 
