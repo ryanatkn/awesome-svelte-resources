@@ -175,6 +175,8 @@ Maybe they should because bloat?
   A Svelte component to crop images with easy interactions
 - [`@beyonk-adventures/gdpr-cookie-consent-banner`](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner) -
   A GDPR compliant cookie consent banner implementation
+- [`@beyonk-adventures/svelte-facebook-pixel`](https://github.com/beyonk-adventures/svelte-facebook-pixel) -
+  A facebook pixel module for Svelte / Sapper
 - many many more.. [please send help](https://github.com/ryanatkn/bloated-svelte/pulls)
 
 ### non-svelte components
