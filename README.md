@@ -21,6 +21,7 @@ if you feel otherwise)
 - [routers](#routers)
 - [misc libraries](#misc-libraries)
   - [integrations with other libraries](#integrations-with-other-libraries)
+  - [easily integrated state libraries](#easily-integrated-state-libraries)
 - [ui component sets](#ui-component-sets)
 - [misc components](#misc-components)
   - [non-svelte components](#non-svelte-components)
@@ -149,6 +150,11 @@ Maybe they should because bloat?
   Build cybernetically enhanced web apps with Meteor and Svelte.
 - [`@UnwrittenFun/prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte) -
   Format your svelte components using prettier.
+
+### easily integrated state libraries
+
+- [`@immerjs/immer`](https://github.com/immerjs/immer) -
+  Create the next immutable state by mutating the current one
 
 ## ui component sets
 
