@@ -173,6 +173,8 @@ Maybe they should because bloat?
   Simple and flexible notifications system
 - [`@ValentinH/svelte-easy-crop`](https://github.com/ValentinH/svelte-easy-crop) -
   A Svelte component to crop images with easy interactions
+- [`@beyonk-adventures/gdpr-cookie-consent-banner`](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner) -
+  A GDPR compliant cookie consent banner implementation
 - many many more.. [please send help](https://github.com/ryanatkn/bloated-svelte/pulls)
 
 ### non-svelte components
