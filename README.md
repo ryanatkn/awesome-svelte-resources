@@ -25,6 +25,7 @@ if you feel otherwise)
 - [misc components](#misc-components)
   - [non-svelte components](#non-svelte-components)
 - [examples](#examples)
+  - [closed-source examples](#closed-source-examples)
 - [native](#native)
 - [experiments](#experiments)
 - [other lists](#other-lists)
@@ -194,6 +195,12 @@ Maybe they should because bloat?
 
 - [`@sveltejs/gl`](https://github.com/sveltejs/gl) -
   A (very experimental) project to bring WebGL to Svelte
+
+### closed-source examples
+
+- [NYTimes article: A ‘Bridge’ to China, and Her Family’s Business, in the Trump Cabinet](https://www.nytimes.com/2019/06/02/us/politics/elaine-chao-china.html) -
+  Uses the experimental [`@sveltejs/gl`](https://github.com/sveltejs/gl)
+  to draw a 3d animated globe.
 
 ## other lists
 
