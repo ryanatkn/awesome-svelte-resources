@@ -108,6 +108,8 @@ Maybe they should because bloat?
 - [`@geakstr/svelte-3-rollup-typescript-vscode`](https://github.com/geakstr/svelte-3-rollup-typescript-vscode) - Starter for svelte 3/rollup/typescript/vscode
 - [`@jorgegorka/svelte-firebase`](https://github.com/jorgegorka/svelte-firebase) -
   A template to help you start developing SPAs with Svelte and Firebase.
+- [`@ricalamino/svelte-firebase-auth`](https://github.com/ricalamino/svelte-firebase-auth) -
+  Svelte App with Firebase Authentication for all purposes
 - [`@YogliB/svelte-component-template`](https://github.com/YogliB/svelte-component-template) -
   A base for building shareable Svelte 3 components
 
