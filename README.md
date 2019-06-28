@@ -185,6 +185,8 @@ Maybe they should because bloat?
   A virtual list component for Svelte apps
 - [`@sveltejs/svelte-scroller`](https://github.com/sveltejs/svelte-scroller) -
   A `<Scroller>` component for Svelte apps
+- [`@beyonk-adventures/svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy) -
+  Scroll Spy component for Svelte
 - [`@kaisermann/svelte-loadable`](https://github.com/kaisermann/svelte-loadable) -
   Dynamically load a svelte component
 - [`@trbrc/svelte-inspect`](https://github.com/trbrc/svelte-inspect) -
