@@ -137,6 +137,8 @@ Maybe they should because bloat?
 
 - [`@testing-library/svelte-testing-library`](https://github.com/testing-library/svelte-testing-library) -
   :chipmunk: Simple and complete Svelte DOM testing utilities that encourage good testing practices
+- [`@rspieker/jest-transform-svelte`](https://github.com/rspieker/jest-transform-svelte) -
+  Jest Transformer for Svelte components
 
 ## routers
 
