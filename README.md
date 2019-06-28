@@ -18,6 +18,7 @@ if you feel otherwise)
 - [web app frameworks](#web-app-frameworks)
 - [templates](#templates)
 - [sample apps](#sample-apps)
+- [testing](#testing)
 - [routers](#routers)
 - [misc libraries](#misc-libraries)
   - [integrations with other libraries](#integrations-with-other-libraries)
@@ -131,6 +132,11 @@ Maybe they should because bloat?
   TodoMVC implemented in Svelte
 - [`@sveltejs/realworld`](https://github.com/sveltejs/realworld) -
   Svelte/Sapper implementation of the RealWorld app
+
+## testing
+
+- [`@testing-library/svelte-testing-library`](https://github.com/testing-library/svelte-testing-library) -
+  :chipmunk: Simple and complete Svelte DOM testing utilities that encourage good testing practices
 
 ## routers
 
