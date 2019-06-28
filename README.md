@@ -112,6 +112,8 @@ Maybe they should because bloat?
   Svelte App with Firebase Authentication for all purposes
 - [`@YogliB/svelte-component-template`](https://github.com/YogliB/svelte-component-template) -
   A base for building shareable Svelte 3 components
+- [`@neighbourhoodie/svelte-pouchdb-couchdb`](https://github.com/neighbourhoodie/svelte-pouchdb-couchdb) -
+  Offline-Capable todo list built with Svelte, PouchDB and CouchDB
 
 ### electron
 
