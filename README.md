@@ -20,6 +20,8 @@ if you feel otherwise)
 - [sample apps](#sample-apps)
 - [testing](#testing)
 - [routers](#routers)
+  - [generic routing](#generic-routing)
+  - [Svelte-specific routing](#svelte-specific-routing)
 - [misc libraries](#misc-libraries)
   - [integrations with other libraries](#integrations-with-other-libraries)
   - [easily integrated state libraries](#easily-integrated-state-libraries)
@@ -115,6 +117,8 @@ Maybe they should because bloat?
   A base for building shareable Svelte 3 components
 - [`@neighbourhoodie/svelte-pouchdb-couchdb`](https://github.com/neighbourhoodie/svelte-pouchdb-couchdb) -
   Offline-Capable todo list built with Svelte, PouchDB and CouchDB
+- [`@OrdinaryJellyfish/svelte-routing-template`](https://github.com/OrdinaryJellyfish/svelte-routing-template) -
+  Svelte webpack template with routing and lazy-loading
 
 ### electron
 
@@ -144,8 +148,37 @@ Maybe they should because bloat?
 
 ## routers
 
-- see [the FAQ](https://github.com/sveltejs/svelte/wiki/faq)
-- maybe include the options here too? it does say "bloated" on the box
+See [the FAQ](https://github.com/sveltejs/svelte/wiki/faq)
+for some good info about Svelte routing solutions.
+Many generic routers work great with Svelte,
+and there are ones that use Svelte-specific idioms too.
+
+### generic routing
+
+- [`@lukeed/navaid`](https://github.com/lukeed/navaid) -
+  A navigation aid (aka, router) for the browser in 850 bytes~!
+- [`@TehShrike/abstract-state-router`](https://github.com/TehShrike/abstract-state-router) -
+  Like ui-router, but without all the Angular. The best way to structure a single-page webapp.
+- [`@visionmedia/page.js`](https://github.com/visionmedia/page.js/) -
+  Micro client-side router inspired by the Express router
+
+### Svelte-specific routing
+
+[Sapper](https://github.com/sveltejs/sapper) includes a nifty
+filesystem-based routing solution along with a full app framework.
+
+- [`@EmilTholin/svelte-routing`](https://github.com/EmilTholin/svelte-routing) -
+  A declarative Svelte routing library with SSR support
+- [`@TehShrike/svelte-state-renderer`](https://github.com/TehShrike/svelte-state-renderer) -
+  abstract-state-router renderer for Svelte
+- [`@ItalyPaleAle/svelte-spa-router`](https://github.com/ItalyPaleAle/svelte-spa-router) -
+  Router for SPAs using Svelte 3
+- [`@kazzkiq/svero`](https://github.com/kazzkiq/svero) -
+  A simple router for Svelte 3
+- [`@qutran/swheel`](https://github.com/qutran/swheel) -
+  Ultimate svelte router
+- [`@jamen/svelte-router`](https://github.com/jamen/svelte-router) -
+  Svelte router using a store and components.
 
 ## misc libraries
 
