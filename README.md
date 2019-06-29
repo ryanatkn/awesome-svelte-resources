@@ -236,6 +236,8 @@ filesystem-based routing solution along with a full app framework.
   A GDPR compliant cookie consent banner implementation
 - [`@beyonk-adventures/svelte-facebook-pixel`](https://github.com/beyonk-adventures/svelte-facebook-pixel) -
   A facebook pixel module for Svelte / Sapper
+- [`@beyonk-adventures/svelte-carousel`](https://github.com/beyonk-adventures/svelte-carousel) -
+  A super lightweight, super simple Carousel for Svelte 3
 - many many more.. [please send help](https://github.com/ryanatkn/bloated-svelte/pulls)
 
 ### non-svelte components
