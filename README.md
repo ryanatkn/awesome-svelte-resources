@@ -161,6 +161,8 @@ and there are ones that use Svelte-specific idioms too.
   Like ui-router, but without all the Angular. The best way to structure a single-page webapp.
 - [`@visionmedia/page.js`](https://github.com/visionmedia/page.js/) -
   Micro client-side router inspired by the Express router
+- [`@router5/router5`](https://github.com/router5/router5) -
+  Flexible and powerful universal routing solution
 
 ### Svelte-specific routing
 
