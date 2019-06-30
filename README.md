@@ -213,6 +213,8 @@ filesystem-based routing solution along with a full app framework.
 
 - [`@c0bra/svelma`](https://github.com/c0bra/svelma) -
   Bulma components for Svelte
+- [`@matyunya/smelte`](https://github.com/matyunya/smelte) -
+  Material design components for Svelte using Tailwind CSS
 
 ## misc components
 
