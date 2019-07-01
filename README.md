@@ -226,6 +226,8 @@ filesystem-based routing solution along with a full app framework.
   Scroll Spy component for Svelte
 - [`@kaisermann/svelte-loadable`](https://github.com/kaisermann/svelte-loadable) -
   Dynamically load a svelte component
+- [`@matyunya/svelte-waypoint`](https://github.com/matyunya/svelte-waypoint) -
+  Lazyload images or anything component for Svelte
 - [`@trbrc/svelte-inspect`](https://github.com/trbrc/svelte-inspect) -
   console.log()-like interactive inspector for Svelte 3
 - [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar) -
