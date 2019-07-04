@@ -32,6 +32,9 @@ if you feel otherwise)
   - [closed-source examples](#closed-source-examples)
 - [native](#native)
 - [experiments](#experiments)
+- [media](#media)
+  - [videos](#videos)
+  - [podcasts](#podcasts)
 - [other lists](#other-lists)
 
 > possible improvements
@@ -272,6 +275,23 @@ filesystem-based routing solution along with a full app framework.
 
 - [`@sveltejs/gl`](https://github.com/sveltejs/gl) -
   A (very experimental) project to bring WebGL to Svelte
+
+## media
+
+- [Svelte's official blog](https://svelte.dev/blog)
+
+### videos
+
+- [Rich Harris - Rethinking reactivity - YGLF 2019](https://www.youtube.com/watch?v=AdNJ3fydeao)
+- [Rich Harris - Computer, build me an app - JSConf EU 2018](https://www.youtube.com/watch?v=qqt6YxAZoOc)
+
+### podcasts
+
+- [Shop Talk #349 - Talking Svelte with Rich Harris](https://shoptalkshow.com/episodes/349/)
+- [devmode.fm #44 - Svelte 3’s radical new approach to web frameworks](https://devmode.fm/episodes/svelte-3s-radical-new-approach-to-web-frameworks)
+- [The Undefined Podcast #8 - Fake News and Frameworks with NYTimes Rich Harris](https://undefined.fm/radio/fake-news-and-frameworks-with-nytimes-rich-harris/)
+- [Toolsday #93 - Svelte](https://spec.fm/podcasts/toolsday/293076)
+- [Harry Wolff - A Svelte Chat with Rich Harris!](https://www.youtube.com/watch?v=48gHuY4w0hY)
 
 ## other lists
 
