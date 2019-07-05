@@ -1,22 +1,22 @@
 {
-  "name": "bloated-svelte",
+  "name": "super-svelte-resources",
   "version": "1.0.0",
-  "description": "Svelte links in a bloated list",
+  "description": "multitudes of Svelte v3+ links",
   "main": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanatkn/bloated-svelte.git"
+    "url": "git+https://github.com/ryanatkn/super-svelte-resources.git"
   },
   "keywords": [
     "svelte",
     "sveltejs"
   ],
-  "author": "https://github.com/ryanatkn/bloated-svelte/graphs/contributors",
+  "author": "https://github.com/ryanatkn/super-svelte-resources/graphs/contributors",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/ryanatkn/bloated-svelte/issues"
+    "url": "https://github.com/ryanatkn/super-svelte-resources/issues"
   },
-  "homepage": "https://github.com/ryanatkn/bloated-svelte#readme",
+  "homepage": "https://github.com/ryanatkn/super-svelte-resources#readme",
   "prettier": {
     "useTabs": true,
     "singleQuote": true,

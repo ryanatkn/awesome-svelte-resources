@@ -1,14 +1,14 @@
-# bloated Svelte :boar:
+# super Svelte resources
 
 > multitudes of [Svelte](https://svelte.dev) v3+ links
 
-This is like an
-[awesome list](https://github.com/CalvinWalzel/awesome-svelte)
-but less awesome, because curation is going to be looser than the norm.
+Like an
+[awesome list](https://github.com/CalvinWalzel/awesome-svelte),
+but named differently to avoid confusion.
 
 Please submit anything that's relevant and not malware! (also version 3+)
 Sapper resources should probably live in their own space.
-([open an issue](https://github.com/ryanatkn/bloated-svelte/issues)
+([open an issue](https://github.com/ryanatkn/super-svelte-resources/issues)
 if you feel otherwise)
 
 - [official links](#official-links)
@@ -64,7 +64,7 @@ if you feel otherwise)
 The official list of integrations is
 [`@sveltejs/integrations`](https://github.com/sveltejs/integrations).
 Look there first - they're mostly not duplicated here.
-Maybe they should because bloat?
+Maybe they [should be](https://github.com/ryanatkn/super-svelte-resources/pulls)?
 
 ### preprocessors
 
@@ -256,7 +256,7 @@ filesystem-based routing solution along with a full app framework.
   A facebook pixel module for Svelte / Sapper
 - [`@beyonk-adventures/svelte-carousel`](https://github.com/beyonk-adventures/svelte-carousel) -
   A super lightweight, super simple Carousel for Svelte 3
-- many many more.. [please send help](https://github.com/ryanatkn/bloated-svelte/pulls)
+- many many more.. [please send help](https://github.com/ryanatkn/super-svelte-resources/pulls)
 
 ### non-svelte components
 
@@ -267,7 +267,7 @@ filesystem-based routing solution along with a full app framework.
 
 - [`@pngwn/svelte-travel-transitions`](https://github.com/pngwn/svelte-travel-transitions) -
   Native-like Page Transitions with Svelte and Sapper, A Travel App.
-- send [pull requests](https://github.com/ryanatkn/bloated-svelte/pulls)!
+- send [pull requests](https://github.com/ryanatkn/super-svelte-resources/pulls)!
 
 ### closed-source examples
 
