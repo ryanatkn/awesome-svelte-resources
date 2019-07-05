@@ -225,6 +225,8 @@ filesystem-based routing solution along with a full app framework.
   Bulma components for Svelte
 - [`@matyunya/smelte`](https://github.com/matyunya/smelte) -
   Material design components for Svelte using Tailwind CSS
+- [`@svelte-toolbox/svelte-toolbox`](https://github.com/svelte-toolbox/svelte-toolbox) -
+  A UI component library for Svelte implementing Google's Material Design specification
 
 ## misc components
 
