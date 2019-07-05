@@ -17,6 +17,8 @@ if you feel otherwise)
   - [editor tools](#editor-tools)
 - [web app frameworks](#web-app-frameworks)
 - [templates](#templates)
+  - [electron](#electron)
+  - [mobile](#mobile)
 - [sample apps](#sample-apps)
 - [testing](#testing)
 - [routers](#routers)
@@ -132,6 +134,11 @@ Maybe they should because bloat?
   Electron Svelte boilerplate
 - [`@chuanqisun/svelte-electron-template`](https://github.com/chuanqisun/svelte-electron-template) -
   The bare minimum boilerplate to use svelte in electron
+
+### mobile
+
+- [`@syonip/svelte-cordova`](https://github.com/syonip/svelte-cordova) -
+  Starter template for Cordova featuring hot reload
 
 ## sample apps
 
