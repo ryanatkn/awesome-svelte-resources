@@ -4,7 +4,7 @@
 
 An [awesome list](https://github.com/sindresorhus/awesome) for
 [Svelte](https://github.com/sveltejs/svelte) alongside
-[awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte).
+[@CalvinWalzel/awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte).
 
 Please submit anything that's relevant and not malware! (also version 3+)
 Sapper resources should probably live in their own space.
