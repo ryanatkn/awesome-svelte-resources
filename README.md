@@ -52,11 +52,11 @@ if you feel otherwise)
 
 - [svelte.dev](https://svelte.dev/)
 - [FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
-- [`svelte`](https://github.com/sveltejs/svelte)<sub>@sveltejs</sub>
+- **[`svelte`](https://github.com/sveltejs/svelte)<sub>@sveltejs</sub>**
   Cybernetically enhanced web apps
-- [`integrations`](https://github.com/sveltejs/integrations)<sub>@sveltejs</sub>
+- **[`integrations`](https://github.com/sveltejs/integrations)<sub>@sveltejs</sub>**
   Ways to incorporate Svelte into your stack
-- [`sapper`](https://github.com/sveltejs/sapper)<sub>@sveltejs</sub>
+- **[`sapper`](https://github.com/sveltejs/sapper)<sub>@sveltejs</sub>**
   Military-grade progressive web apps, powered by Svelte
 
 ## integrations
@@ -86,20 +86,20 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
 
 ## web app frameworks
 
-- [`sapper`](https://github.com/sveltejs/sapper)<sub>@sveltejs</sub>
+- **[`sapper`](https://github.com/sveltejs/sapper)<sub>@sveltejs</sub>**
   Military-grade progressive web apps, powered by Svelte
 
 ## templates
 
-- [`template`](https://github.com/sveltejs/template)<sub>@sveltejs</sub>
+- **[`template`](https://github.com/sveltejs/template)<sub>@sveltejs</sub>**
   Template for building basic applications with Svelte with rollup
-- [`template-webpack`](https://github.com/sveltejs/template-webpack)<sub>@sveltejs</sub>
+- **[`template-webpack`](https://github.com/sveltejs/template-webpack)<sub>@sveltejs</sub>**
   Template for building basic Svelte applications with webpack
-- [`component-template`](https://github.com/sveltejs/component-template)<sub>@sveltejs</sub>
+- **[`component-template`](https://github.com/sveltejs/component-template)<sub>@sveltejs</sub>**
   A base for building shareable Svelte components
-- [`template-custom-element`](https://github.com/sveltejs/template-custom-element)<sub>@sveltejs</sub>
+- **[`template-custom-element`](https://github.com/sveltejs/template-custom-element)<sub>@sveltejs</sub>**
   Template for building basic applications with Svelte and custom elements
-- [`sapper-template`](https://github.com/sveltejs/sapper-template)<sub>@sveltejs</sub>
+- **[`sapper-template`](https://github.com/sveltejs/sapper-template)<sub>@sveltejs</sub>**
   Starter template for Sapper apps
 - [`svelte-typescript`](https://github.com/pyoner/svelte-typescript)<sub>@pyoner</sub>
   Typescript monorepo for Svelte v3 (preprocess, template, types)
@@ -143,9 +143,9 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
 
 ## sample apps
 
-- [`svelte-todomvc`](https://github.com/sveltejs/svelte-todomvc)<sub>@sveltejs</sub>
+- **[`svelte-todomvc`](https://github.com/sveltejs/svelte-todomvc)<sub>@sveltejs</sub>**
   TodoMVC implemented in Svelte
-- [`realworld`](https://github.com/sveltejs/realworld)<sub>@sveltejs</sub>
+- **[`realworld`](https://github.com/sveltejs/realworld)<sub>@sveltejs</sub>**
   Svelte/Sapper implementation of the RealWorld app
 
 ## testing
@@ -195,12 +195,12 @@ filesystem-based routing solution along with a full app framework.
 
 ## misc libraries
 
+- **[`gestures`](https://github.com/sveltejs/gestures)<sub>@sveltejs</sub>**
+  Svelte actions for cross-platform gesture detection (work in progress)
 - [`svelte-adapter`](https://github.com/pngwn/svelte-adapter)<sub>@pngwn</sub>
   Use Svelte components with Vue and React
 - [`svelte-i18n`](https://github.com/kaisermann/svelte-i18n)<sub>@kaisermann</sub>
   Internationalization library for Svelte
-- [`gestures`](https://github.com/sveltejs/gestures)<sub>@sveltejs</sub>
-  Svelte actions for cross-platform gesture detection (work in progress)
 
 ### integrations with other libraries
 
@@ -231,9 +231,9 @@ filesystem-based routing solution along with a full app framework.
 
 ## misc components
 
-- [`svelte-virtual-list`](https://github.com/sveltejs/svelte-virtual-list)<sub>@sveltejs</sub>
+- **[`svelte-virtual-list`](https://github.com/sveltejs/svelte-virtual-list)<sub>@sveltejs</sub>**
   A virtual list component for Svelte apps
-- [`svelte-scroller`](https://github.com/sveltejs/svelte-scroller)<sub>@sveltejs</sub>
+- **[`svelte-scroller`](https://github.com/sveltejs/svelte-scroller)<sub>@sveltejs</sub>**
   A `<Scroller>` component for Svelte apps
 - [`svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub>
   Scroll Spy component for Svelte
@@ -287,7 +287,7 @@ filesystem-based routing solution along with a full app framework.
 
 ## experiments
 
-- [`gl`](https://github.com/sveltejs/gl)<sub>@sveltejs</sub>
+- **[`gl`](https://github.com/sveltejs/gl)<sub>@sveltejs</sub>**
   A (very experimental) project to bring WebGL to Svelte
 
 ## media
@@ -309,7 +309,7 @@ filesystem-based routing solution along with a full app framework.
 
 ## other lists
 
-- [`integrations`](https://github.com/sveltejs/integrations)<sub>@sveltejs</sub>
+- **[`integrations`](https://github.com/sveltejs/integrations)<sub>@sveltejs</sub>**
   Ways to incorporate Svelte into your stack
 - [`awesome-svelte`](https://github.com/CalvinWalzel/awesome-svelte)<sub>@CalvinWalzel</sub>
   A curated list of awesome things related to Svelte (includes v2 resources)
