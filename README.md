@@ -280,7 +280,8 @@ filesystem-based routing solution along with a full app framework.
 
 ### closed-source examples
 
-- [NYTimes article: A ‘Bridge’ to China, and Her Family’s Business, in the Trump Cabinet](https://www.nytimes.com/2019/06/02/us/politics/elaine-chao-china.html) -
+- NYTimes article:
+  [A ‘Bridge’ to China, and Her Family’s Business, in the Trump Cabinet](https://www.nytimes.com/2019/06/02/us/politics/elaine-chao-china.html) -
   Uses the experimental [`@sveltejs/gl`](https://github.com/sveltejs/gl)
   to draw a 3d animated globe.
 
