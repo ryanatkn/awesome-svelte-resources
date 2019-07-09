@@ -219,6 +219,10 @@ filesystem-based routing solution along with a full app framework.
 
 - [`immer`](https://github.com/immerjs/immer)<sub>@immerjs</sub>
   Create the next immutable state by mutating the current one
+- [`xstate`](https://github.com/davidkpiano/xstate)<sub>@davidkpiano</sub>
+  State machines and statecharts for the modern web.
+- [`microstates.js`](https://github.com/microstates/microstates.js)<sub>@microstates</sub>
+  Composable State Primitives for JavaScript
 
 ## ui component sets
 
