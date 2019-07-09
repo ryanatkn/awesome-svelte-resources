@@ -1,4 +1,4 @@
-# super Svelte resources
+# awesome Svelte resources
 
 > multitudes of [Svelte](https://svelte.dev) v3+ links
 
@@ -8,7 +8,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) for
 
 Please submit anything that's relevant and not malware! (also version 3+)
 Sapper resources should probably live in their own space.
-([open an issue](https://github.com/ryanatkn/super-svelte-resources/issues)
+([open an issue](https://github.com/ryanatkn/awesome-svelte-resources/issues)
 if you feel otherwise)
 
 - [official links](#official-links)
@@ -64,7 +64,7 @@ if you feel otherwise)
 The official list of integrations is
 [`@sveltejs/integrations`](https://github.com/sveltejs/integrations).
 Look there first - they're mostly not duplicated here.
-Maybe they [should be](https://github.com/ryanatkn/super-svelte-resources/pulls)?
+Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pulls)?
 
 ### preprocessors
 
@@ -260,7 +260,7 @@ filesystem-based routing solution along with a full app framework.
   A color picker component for svelte
 - [`@brunomolteni/svelte-sortable-list`](https://github.com/brunomolteni/svelte-sortable-list) -
   A svelte 3 component that implements a list with animated drag-n-drop functionality.
-- many many more.. [please send help](https://github.com/ryanatkn/super-svelte-resources/pulls)
+- many many more.. [please send help](https://github.com/ryanatkn/awesome-svelte-resources/pulls)
 
 ### non-svelte components
 
@@ -271,7 +271,7 @@ filesystem-based routing solution along with a full app framework.
 
 - [`@pngwn/svelte-travel-transitions`](https://github.com/pngwn/svelte-travel-transitions) -
   Native-like Page Transitions with Svelte and Sapper, A Travel App.
-- send [pull requests](https://github.com/ryanatkn/super-svelte-resources/pulls)!
+- send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
 
 ### closed-source examples
 
