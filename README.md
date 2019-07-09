@@ -3,8 +3,9 @@
 > multitudes of [Svelte](https://svelte.dev) v3+ links
 
 An [awesome list](https://github.com/sindresorhus/awesome) for
-[Svelte](https://github.com/sveltejs/svelte) alongside
-[@CalvinWalzel/awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte).
+[Svelte](https://github.com/sveltejs/svelte).
+See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
+from user @CalvinWalzel.
 
 Please submit anything that's relevant and not malware! (also version 3+)
 Sapper resources should probably live in their own space.
