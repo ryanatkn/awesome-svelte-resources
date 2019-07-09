@@ -51,7 +51,13 @@ _(insert link here)_
 ## official links
 
 - [svelte.dev](https://svelte.dev/)
-- [FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
+  - [Tutorial](https://svelte.dev/tutorial)
+  - [API docs](https://svelte.dev/docs)
+  - [Examples](https://svelte.dev/examples)
+  - [REPL](https://svelte.dev/repl)
+  - [Blog](https://svelte.dev/blog)
+  - [FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
+  - [Discord chat](https://svelte.dev/chat)
 - **[`svelte`](https://github.com/sveltejs/svelte)<sub>@sveltejs</sub>** -
   Cybernetically enhanced web apps
 - **[`integrations`](https://github.com/sveltejs/integrations)<sub>@sveltejs</sub>** -
@@ -62,7 +68,7 @@ _(insert link here)_
 ## integrations
 
 The official list of integrations is
-[`@sveltejs/integrations`](https://github.com/sveltejs/integrations).
+**[`@sveltejs/integrations`](https://github.com/sveltejs/integrations)**.
 Look there first - they're mostly not duplicated here.
 Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pulls)?
 
@@ -282,7 +288,7 @@ filesystem-based routing solution along with a full app framework.
 
 - NYTimes article:
   [A ‘Bridge’ to China, and Her Family’s Business, in the Trump Cabinet](https://www.nytimes.com/2019/06/02/us/politics/elaine-chao-china.html) -
-  Uses the experimental [`@sveltejs/gl`](https://github.com/sveltejs/gl)
+  Uses the experimental **[`@sveltejs/gl`](https://github.com/sveltejs/gl)**
   to draw a 3d animated globe.
 
 ## native
