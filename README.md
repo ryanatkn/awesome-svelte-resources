@@ -258,6 +258,8 @@ filesystem-based routing solution along with a full app framework.
   A super lightweight, super simple Carousel for Svelte 3
 - [`@qintarp/svelte-color-picker`](https://github.com/qintarp/svelte-color-picker) -
   A color picker component for svelte
+- [`@brunomolteni/svelte-sortable-list`](https://github.com/brunomolteni/svelte-sortable-list) -
+  A svelte 3 component that implements a list with animated drag-n-drop functionality.
 - many many more.. [please send help](https://github.com/ryanatkn/super-svelte-resources/pulls)
 
 ### non-svelte components
