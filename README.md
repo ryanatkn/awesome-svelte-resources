@@ -9,8 +9,7 @@ from user @CalvinWalzel.
 
 Please submit anything that's relevant and not malware! (also version 3+)
 Sapper resources should probably live in their own space.
-([open an issue](https://github.com/ryanatkn/awesome-svelte-resources/issues)
-if you feel otherwise)
+_(insert link here)_
 
 - [official links](#official-links)
 - [integrations](#integrations)
