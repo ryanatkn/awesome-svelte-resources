@@ -83,6 +83,9 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
 - [`svelte-ts-preprocess`](https://github.com/PaulMaly/svelte-ts-preprocess)<sub>@PaulMaly</sub> -
   Typescript preprocessor for Svelte 3
 
+Some components are bundled with specific preprocessors that they rely on;
+those projects are listed under [misc components](#misc-components).
+
 ### editor tools
 
 - [`svelte-vscode`](https://github.com/UnwrittenFun/svelte-vscode)<sub>@UnwrittenFun</sub> -
@@ -271,6 +274,8 @@ filesystem-based routing solution along with a full app framework.
   A color picker component for svelte
 - [`svelte-sortable-list`](https://github.com/brunomolteni/svelte-sortable-list)<sub>@brunomolteni</sub> -
   A svelte 3 component that implements a list with animated drag-n-drop functionality.
+- [`svelte-image`](https://github.com/matyunya/svelte-image)<sub>@matyunya</sub> -
+  Image processing with Sharp for Svelte
 - many many more.. [please send help](https://github.com/ryanatkn/awesome-svelte-resources/pulls)
 
 ### non-svelte components
