@@ -198,6 +198,8 @@ filesystem-based routing solution along with a full app framework.
   Ultimate svelte router
 - [`svelte-router`](https://github.com/jamen/svelte-router)<sub>@jamen</sub> -
   Svelte router using a store and components.
+- [`svelte-hash-router`](https://github.com/pynnl/svelte-hash-router)<sub>@pynnl</sub> -
+  Simple Svelte 3 hash based router with global routes.
 
 ## misc libraries
 
