@@ -43,6 +43,8 @@ _(insert link here if someone makes it)_
 >
 > - Needs more links. Send pulls and issues!
 > - Some sections need better organization, or at least more subheadings.
+> - If a project fails to meet acceptable quality standards,
+>   please open an issue or PR to discuss removing it.
 > - It'd be nice if GitHub had a way to embed
 >   a project's summary line in another document. (does it??)
 >   These will get out of date. Maybe some scripting is in order.
