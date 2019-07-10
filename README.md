@@ -25,8 +25,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [sample apps](#sample-apps)
 - [testing](#testing)
 - [routers](#routers)
-  - [generic routing](#generic-routing)
   - [Svelte-specific routing](#svelte-specific-routing)
+  - [generic routing](#generic-routing)
 - [misc libraries](#misc-libraries)
   - [integrations with other libraries](#integrations-with-other-libraries)
   - [easily integrated state libraries](#easily-integrated-state-libraries)
@@ -178,17 +178,6 @@ for some good info about Svelte routing solutions.
 Many generic routers work great with Svelte,
 and there are ones that use Svelte-specific idioms too.
 
-### generic routing
-
-- [`navaid`](https://github.com/lukeed/navaid)<sub>@lukeed</sub> -
-  A navigation aid (aka, router) for the browser in 850 bytes~!
-- [`abstract-state-router`](https://github.com/TehShrike/abstract-state-router)<sub>@TehShrike</sub> -
-  Like ui-router, but without all the Angular. The best way to structure a single-page webapp.
-- [`page.js`](https://github.com/visionmedia/page.js/)<sub>@visionmedia</sub> -
-  Micro client-side router inspired by the Express router
-- [`router5`](https://github.com/router5/router5)<sub>@router5</sub> -
-  Flexible and powerful universal routing solution
-
 ### Svelte-specific routing
 
 [Sapper](https://github.com/sveltejs/sapper) includes a nifty
@@ -208,6 +197,17 @@ filesystem-based routing solution along with a full app framework.
   Svelte router using a store and components.
 - [`svelte-hash-router`](https://github.com/pynnl/svelte-hash-router)<sub>@pynnl</sub> -
   Simple Svelte 3 hash based router with global routes.
+
+### generic routing
+
+- [`navaid`](https://github.com/lukeed/navaid)<sub>@lukeed</sub> -
+  A navigation aid (aka, router) for the browser in 850 bytes~!
+- [`abstract-state-router`](https://github.com/TehShrike/abstract-state-router)<sub>@TehShrike</sub> -
+  Like ui-router, but without all the Angular. The best way to structure a single-page webapp.
+- [`page.js`](https://github.com/visionmedia/page.js/)<sub>@visionmedia</sub> -
+  Micro client-side router inspired by the Express router
+- [`router5`](https://github.com/router5/router5)<sub>@router5</sub> -
+  Flexible and powerful universal routing solution
 
 ## misc libraries
 
