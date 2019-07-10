@@ -4,11 +4,13 @@
 
 > useful resources for [Svelte](https://svelte.dev) v3+
 
-Please submit anything that's relevant and not malware! (also version 3+)
+Please feel free to submit anything you find useful or interesting.
 
-For Sapper resources, see _(insert link here if someone makes it)_.
+For [Sapper](https://github.com/sveltejs/sapper) resources,
+check out _(insert link here if someone makes it)_.
+
 See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
-and other [awesome lists](https://github.com/sindresorhus/awesome).
+and [other awesome lists](https://github.com/sindresorhus/awesome).
 
 ## contents
 
