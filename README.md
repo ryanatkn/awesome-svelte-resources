@@ -1,15 +1,14 @@
 # awesome Svelte resources
 
-> multitudes of [Svelte](https://svelte.dev) v3+ links
+[<img src="svelte-logo.svg" align="right" width="100">](https://svelte.dev)
 
-An [awesome list](https://github.com/sindresorhus/awesome) for
-[Svelte](https://github.com/sveltejs/svelte).
-See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
-from user @CalvinWalzel.
+> useful resources for [Svelte](https://svelte.dev) v3+
 
 Please submit anything that's relevant and not malware! (also version 3+)
-Sapper resources should probably live in their own space.
-_(insert link here if someone makes it)_
+
+For Sapper resources, see _(insert link here if someone makes it)_.
+See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
+and other [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## contents
 
