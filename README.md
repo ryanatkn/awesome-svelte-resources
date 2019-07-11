@@ -197,6 +197,8 @@ filesystem-based routing solution along with a full app framework.
   Svelte router using a store and components.
 - [`svelte-hash-router`](https://github.com/pynnl/svelte-hash-router)<sub>@pynnl</sub> -
   Simple Svelte 3 hash based router with global routes.
+- [`svelte-easyroute`](https://github.com/lyohaplotinka/svelte-easyroute)<sub>@lyohaplotinka</sub> -
+  Easy router for Svelte framework
 
 ### generic routing
 
