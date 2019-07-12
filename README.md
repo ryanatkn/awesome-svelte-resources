@@ -27,12 +27,12 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [routers](#routers)
   - [Svelte-specific routing](#svelte-specific-routing)
   - [generic routing](#generic-routing)
-- [misc libraries](#misc-libraries)
-  - [integrations with other libraries](#integrations-with-other-libraries)
-  - [easily integrated state libraries](#easily-integrated-state-libraries)
 - [ui component sets](#ui-component-sets)
 - [components](#components)
   - [non-svelte components](#non-svelte-components)
+- [misc libraries](#misc-libraries)
+  - [integrations with other libraries](#integrations-with-other-libraries)
+  - [easily integrated state libraries](#easily-integrated-state-libraries)
 - [examples](#examples)
   - [closed-source examples](#closed-source-examples)
 - [native](#native)
@@ -211,41 +211,6 @@ filesystem-based routing solution along with a full app framework.
 - [`router5`](https://github.com/router5/router5)<sub>@router5</sub> -
   Flexible and powerful universal routing solution
 
-## misc libraries
-
-- **[`gestures`](https://github.com/sveltejs/gestures)<sub>@sveltejs</sub>** -
-  Svelte actions for cross-platform gesture detection (work in progress)
-- [`svelte-adapter`](https://github.com/pngwn/svelte-adapter)<sub>@pngwn</sub> -
-  Use Svelte components with Vue and React
-- [`svelte-i18n`](https://github.com/kaisermann/svelte-i18n)<sub>@kaisermann</sub> -
-  Internationalization library for Svelte
-- [`svelte-writable-derived`](https://github.com/PikadudeNo1/svelte-writable-derived)<sub>@PikadudeNo1</sub> -
-  Two-way data-transforming stores.
-- [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
-  Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
-
-### integrations with other libraries
-
-- [`svelte-apollo`](https://github.com/timhall/svelte-apollo)<sub>@timhall</sub> -
-  Svelte integration for Apollo GraphQL
-- [`svelte-awesome`](https://github.com/RobBrazier/svelte-awesome)<sub>@RobBrazier</sub> -
-  Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
-- [`fa-svelte`](https://github.com/alphapeter/fa-svelte)<sub>@alphapeter</sub> -
-  Font Awesome 5 for svelte.js
-- [`meteor-svelte`](https://github.com/meteor-svelte/meteor-svelte)<sub>@meteor-svelte</sub> -
-  Build cybernetically enhanced web apps with Meteor and Svelte.
-- [`prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte)<sub>@UnwrittenFun</sub> -
-  Format your svelte components using prettier.
-
-### easily integrated state libraries
-
-- [`immer`](https://github.com/immerjs/immer)<sub>@immerjs</sub> -
-  Create the next immutable state by mutating the current one
-- [`xstate`](https://github.com/davidkpiano/xstate)<sub>@davidkpiano</sub> -
-  State machines and statecharts for the modern web.
-- [`microstates.js`](https://github.com/microstates/microstates.js)<sub>@microstates</sub> -
-  Composable State Primitives for JavaScript
-
 ## ui component sets
 
 - [`svelma`](https://github.com/c0bra/svelma)<sub>@c0bra</sub> -
@@ -299,6 +264,41 @@ filesystem-based routing solution along with a full app framework.
 
 - [`Pikaday`](https://github.com/Pikaday/Pikaday)<sub>@Pikaday</sub> -
   A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
+
+## misc libraries
+
+- **[`gestures`](https://github.com/sveltejs/gestures)<sub>@sveltejs</sub>** -
+  Svelte actions for cross-platform gesture detection (work in progress)
+- [`svelte-adapter`](https://github.com/pngwn/svelte-adapter)<sub>@pngwn</sub> -
+  Use Svelte components with Vue and React
+- [`svelte-i18n`](https://github.com/kaisermann/svelte-i18n)<sub>@kaisermann</sub> -
+  Internationalization library for Svelte
+- [`svelte-writable-derived`](https://github.com/PikadudeNo1/svelte-writable-derived)<sub>@PikadudeNo1</sub> -
+  Two-way data-transforming stores.
+- [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
+  Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
+
+### integrations with other libraries
+
+- [`svelte-apollo`](https://github.com/timhall/svelte-apollo)<sub>@timhall</sub> -
+  Svelte integration for Apollo GraphQL
+- [`svelte-awesome`](https://github.com/RobBrazier/svelte-awesome)<sub>@RobBrazier</sub> -
+  Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
+- [`fa-svelte`](https://github.com/alphapeter/fa-svelte)<sub>@alphapeter</sub> -
+  Font Awesome 5 for svelte.js
+- [`meteor-svelte`](https://github.com/meteor-svelte/meteor-svelte)<sub>@meteor-svelte</sub> -
+  Build cybernetically enhanced web apps with Meteor and Svelte.
+- [`prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte)<sub>@UnwrittenFun</sub> -
+  Format your svelte components using prettier.
+
+### easily integrated state libraries
+
+- [`immer`](https://github.com/immerjs/immer)<sub>@immerjs</sub> -
+  Create the next immutable state by mutating the current one
+- [`xstate`](https://github.com/davidkpiano/xstate)<sub>@davidkpiano</sub> -
+  State machines and statecharts for the modern web.
+- [`microstates.js`](https://github.com/microstates/microstates.js)<sub>@microstates</sub> -
+  Composable State Primitives for JavaScript
 
 ## examples
 
