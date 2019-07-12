@@ -31,7 +31,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [integrations with other libraries](#integrations-with-other-libraries)
   - [easily integrated state libraries](#easily-integrated-state-libraries)
 - [ui component sets](#ui-component-sets)
-- [misc components](#misc-components)
+- [components](#components)
   - [non-svelte components](#non-svelte-components)
 - [examples](#examples)
   - [closed-source examples](#closed-source-examples)
@@ -255,7 +255,7 @@ filesystem-based routing solution along with a full app framework.
 - [`svelte-toolbox`](https://github.com/svelte-toolbox/svelte-toolbox)<sub>@svelte-toolbox</sub> -
   A UI component library for Svelte implementing Google's Material Design specification
 
-## misc components
+## components
 
 - **[`svelte-virtual-list`](https://github.com/sveltejs/svelte-virtual-list)<sub>@sveltejs</sub>** -
   A virtual list component for Svelte apps
