@@ -29,7 +29,6 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [generic routing](#generic-routing)
 - [ui component sets](#ui-component-sets)
 - [components](#components)
-  - [non-svelte components](#non-svelte-components)
 - [misc libraries](#misc-libraries)
   - [integrations with other libraries](#integrations-with-other-libraries)
   - [easily integrated state libraries](#easily-integrated-state-libraries)
@@ -259,11 +258,6 @@ filesystem-based routing solution along with a full app framework.
 - [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
   A select component for Svelte apps
 - many many more.. [please send help](https://github.com/ryanatkn/awesome-svelte-resources/pulls)
-
-### non-svelte components
-
-- [`Pikaday`](https://github.com/Pikaday/Pikaday)<sub>@Pikaday</sub> -
-  A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ## misc libraries
 
