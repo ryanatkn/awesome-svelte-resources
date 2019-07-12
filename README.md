@@ -291,6 +291,8 @@ filesystem-based routing solution along with a full app framework.
   Image processing with Sharp for Svelte
 - [`svelte-calendar`](https://github.com/6eDesign/svelte-calendar)<sub>@6eDesign</sub> -
   A lightweight datepicker with neat animations and a unique UX.
+- [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
+  A select component for Svelte apps
 - many many more.. [please send help](https://github.com/ryanatkn/awesome-svelte-resources/pulls)
 
 ### non-svelte components
