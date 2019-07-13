@@ -120,7 +120,7 @@ those projects are listed under [misc components](#misc-components).
   Typescript monorepo for Svelte v3 (preprocess, template, types)
 - [`svelte-ts-template`](https://github.com/Axelen123/svelte-ts-template)<sub>@Axelen123</sub> -
   Typescript template for Svelte v3
-- [`Svelte-Play`](https://github.com/Shyam-Chen/Svelte-Play)<sub>@Shyam-Chen</sub> -
+- [`svelte-play`](https://github.com/Shyam-Chen/Svelte-Play)<sub>@Shyam-Chen</sub> -
   A boilerplate for Svelte, Material, Babel, and PostCSS. Webpack
 - [`svelte-starter-template`](https://github.com/Holben888/svelte-starter-template)<sub>@Holben888</sub> -
   A small starter template to get up and running with Svelte v3
