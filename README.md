@@ -94,6 +94,8 @@ those projects are listed under [misc components](#misc-components).
 
 - [`svelte-vscode`](https://github.com/UnwrittenFun/svelte-vscode)<sub>@UnwrittenFun</sub> -
   Svelte language support for VS Code
+- [`vim-svelte`](https://github.com/evanleck/vim-svelte)<sub>@evanleck</sub> -
+  Svelte JavaScript syntax highlighting for vim.
 - [`svelte-language-server`](https://github.com/UnwrittenFun/svelte-language-server)<sub>@UnwrittenFun</sub> -
   A WIP language server for Svelte
 
