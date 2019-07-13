@@ -286,6 +286,8 @@ filesystem-based routing solution along with a full app framework.
   Build cybernetically enhanced web apps with Meteor and Svelte.
 - [`prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte)<sub>@UnwrittenFun</sub> -
   Format your svelte components using prettier.
+- [`echarts-for-svelte`](https://github.com/liyuanqiu/echarts-for-svelte)<sub>@liyuanqiu</sub> -
+  :chart_with_upwards_trend: Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper.
 
 ### easily integrated state libraries
 
