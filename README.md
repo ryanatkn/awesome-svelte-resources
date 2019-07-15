@@ -96,6 +96,8 @@ those projects are listed under [misc components](#misc-components).
   Svelte language support for VS Code
 - [`vim-svelte`](https://github.com/evanleck/vim-svelte)<sub>@evanleck</sub> -
   Svelte JavaScript syntax highlighting for vim.
+- [`svelte-intellij`](https://github.com/tomblachut/svelte-intellij)<sub>@tomblachut</sub> -
+  Provides syntax highlighting of Svelte components in WebStorm and friends
 - [`svelte-language-server`](https://github.com/UnwrittenFun/svelte-language-server)<sub>@UnwrittenFun</sub> -
   A WIP language server for Svelte
 
