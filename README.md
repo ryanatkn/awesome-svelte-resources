@@ -271,6 +271,8 @@ filesystem-based routing solution along with a full app framework.
   Use Svelte components with Vue and React
 - [`svelte-i18n`](https://github.com/kaisermann/svelte-i18n)<sub>@kaisermann</sub> -
   Internationalization library for Svelte
+- [`svelte-intl`](https://github.com/Panya/svelte-intl)<sub>@Panya</sub> -
+  Internationalize your Svelte apps using format-message and Intl object
 - [`svelte-writable-derived`](https://github.com/PikadudeNo1/svelte-writable-derived)<sub>@PikadudeNo1</sub> -
   Two-way data-transforming stores.
 - [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
