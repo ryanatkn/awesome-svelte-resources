@@ -202,6 +202,8 @@ filesystem-based routing solution along with a full app framework.
   Simple Svelte 3 hash based router with global routes.
 - [`svelte-easyroute`](https://github.com/lyohaplotinka/svelte-easyroute)<sub>@lyohaplotinka</sub> -
   Easy router for Svelte framework
+- [`svelte-router-spa`](https://github.com/jorgegorka/svelte-router)<sub>@jorgegorka</sub> -
+  Svelte Router adds routing to your Svelte apps. It's specially designed for Single Page Applications (SPA).
 
 ### generic routing
 
