@@ -286,6 +286,8 @@ filesystem-based routing solution along with a full app framework.
   Svelte integration for Apollo GraphQL
 - [`svelte-awesome`](https://github.com/RobBrazier/svelte-awesome)<sub>@RobBrazier</sub> -
   Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
+- [`svelte-fa`](https://github.com/Cweili/svelte-fa)<sub>@Cweili</sub> -
+  Tiny FontAwesome 5 component for Svelte
 - [`fa-svelte`](https://github.com/alphapeter/fa-svelte)<sub>@alphapeter</sub> -
   Font Awesome 5 for svelte.js
 - [`meteor-svelte`](https://github.com/meteor-svelte/meteor-svelte)<sub>@meteor-svelte</sub> -
