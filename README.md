@@ -224,6 +224,8 @@ filesystem-based routing solution along with a full app framework.
   Material design components for Svelte using Tailwind CSS
 - [`svelte-toolbox`](https://github.com/svelte-toolbox/svelte-toolbox)<sub>@svelte-toolbox</sub> -
   A UI component library for Svelte implementing Google's Material Design specification
+- [`svelte-material-ui`](https://github.com/hperrin/svelte-material-ui)<sub>@hperrin</sub> -
+  Svelte Material UI Components
 
 ## components
 
