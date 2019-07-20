@@ -320,6 +320,8 @@ filesystem-based routing solution along with a full app framework.
   Native-like Page Transitions with Svelte and Sapper, A Travel App.
 - [`new-tab`](https://github.com/MaxMilton/new-tab)<sub>@MaxMilton</sub> -
   ⚡ A high performance Google Chrome new tab page that gets you where you need to go faster.
+- [`nau-chrome-tab`](https://github.com/trongthanh/nau-chrome-tab)<sub>@trongthanh</sub> -
+  Beautiful New Tab extension for Chrome, Firefox and browsers support web extension
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
 
 ### closed-source showcase
