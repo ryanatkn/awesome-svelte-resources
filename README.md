@@ -157,6 +157,8 @@ those projects are listed under [misc components](#misc-components).
 
 - [`svelte-cordova`](https://github.com/syonip/svelte-cordova)<sub>@syonip</sub> -
   Starter template for Cordova featuring hot reload
+- [`svelte-phonegap`](https://github.com/lpshanley/svelte-phonegap)<sub>@lpshanley</sub> -
+  Template for building phonegap hybrid applications with Svelte
 
 ## sample apps
 
