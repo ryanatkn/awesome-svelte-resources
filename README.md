@@ -32,8 +32,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [misc libraries](#misc-libraries)
   - [integrations with other libraries](#integrations-with-other-libraries)
   - [easily integrated state libraries](#easily-integrated-state-libraries)
-- [examples](#examples)
-  - [closed-source examples](#closed-source-examples)
+- [example app showcase](#example-app-showcase)
+  - [closed-source showcase](#closed-source-showcase)
 - [native](#native)
 - [experiments](#experiments)
 - [media](#media)
@@ -312,13 +312,15 @@ filesystem-based routing solution along with a full app framework.
 - [`microstates.js`](https://github.com/microstates/microstates.js)<sub>@microstates</sub> -
   Composable State Primitives for JavaScript
 
-## examples
+## example app showcase
+
+> open source Svelte in the wild
 
 - [`svelte-travel-transitions`](https://github.com/pngwn/svelte-travel-transitions)<sub>@pngwn</sub> -
   Native-like Page Transitions with Svelte and Sapper, A Travel App.
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
 
-### closed-source examples
+### closed-source showcase
 
 - NYTimes article:
   [A ‘Bridge’ to China, and Her Family’s Business, in the Trump Cabinet](https://www.nytimes.com/2019/06/02/us/politics/elaine-chao-china.html) -
