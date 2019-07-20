@@ -318,6 +318,8 @@ filesystem-based routing solution along with a full app framework.
 
 - [`svelte-travel-transitions`](https://github.com/pngwn/svelte-travel-transitions)<sub>@pngwn</sub> -
   Native-like Page Transitions with Svelte and Sapper, A Travel App.
+- [`new-tab`](https://github.com/MaxMilton/new-tab)<sub>@MaxMilton</sub> -
+  ⚡ A high performance Google Chrome new tab page that gets you where you need to go faster.
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
 
 ### closed-source showcase
