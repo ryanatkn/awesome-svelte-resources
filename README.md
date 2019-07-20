@@ -298,6 +298,8 @@ filesystem-based routing solution along with a full app framework.
   Format your svelte components using prettier.
 - [`echarts-for-svelte`](https://github.com/liyuanqiu/echarts-for-svelte)<sub>@liyuanqiu</sub> -
   :chart_with_upwards_trend: Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper.
+- [`svelte-mapbox`](https://github.com/beyonk-adventures/svelte-mapbox)<sub>@beyonk-adventures</sub> -
+  MapBox Map and Autocomplete components for Svelte (or Vanilla JS)
 
 ### easily integrated state libraries
 
