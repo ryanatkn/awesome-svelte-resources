@@ -142,6 +142,8 @@ those projects are listed under [misc components](#misc-components).
   Offline-Capable todo list built with Svelte, PouchDB and CouchDB
 - [`svelte-routing-template`](https://github.com/OrdinaryJellyfish/svelte-routing-template)<sub>@OrdinaryJellyfish</sub> -
   Svelte webpack template with routing and lazy-loading
+- [`svelte-example-museums`](https://github.com/angelozehr/svelte-example-museums)<sub>@angelozehr</sub> -
+  An example repo of a svelte app that is IE11 compatible
 
 ### electron
 
