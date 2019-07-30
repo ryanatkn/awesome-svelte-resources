@@ -372,5 +372,7 @@ filesystem-based routing solution along with a full app framework.
   A curated list of awesome things related to Svelte (includes v2 resources)
 - [`svelte-sapper-community`](https://github.com/mindrones/svelte-sapper-community)<sub>@mindrones</sub> -
   Svelte/Sapper community map
+- [`Why Svelte - why-svelte-js.web.app`](https://why-svelte-js.web.app/) -
+  A collection of blog posts, videos, and other Svelte resouces
 
 # :sunflower:
