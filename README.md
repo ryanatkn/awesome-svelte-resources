@@ -230,6 +230,8 @@ filesystem-based routing solution along with a full app framework.
   A UI component library for Svelte implementing Google's Material Design specification
 - [`svelte-material-ui`](https://github.com/hperrin/svelte-material-ui)<sub>@hperrin</sub> -
   Svelte Material UI Components
+- [`sveltemantic`](https://github.com/titans-inc/sveltemantic)<sub>@titans-inc</sub> -
+  Fomantic-UI components for Svelte 3
 
 ## components
 
