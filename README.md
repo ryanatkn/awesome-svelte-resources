@@ -269,6 +269,8 @@ filesystem-based routing solution along with a full app framework.
   A svelte 3 component that implements a list with animated drag-n-drop functionality.
 - [`svelte-image`](https://github.com/matyunya/svelte-image)<sub>@matyunya</sub> -
   Image processing with Sharp for Svelte
+- [`svelte-image-encoder`](https://github.com/saabi/svelte-image-encoder)<sub>@saabi</sub> -
+  An <ImgEncoder> Svelte component for editing and compressing profile pictures before upload to a server.
 - [`svelte-calendar`](https://github.com/6eDesign/svelte-calendar)<sub>@6eDesign</sub> -
   A lightweight datepicker with neat animations and a unique UX.
 - [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
