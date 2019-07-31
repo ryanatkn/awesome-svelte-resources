@@ -319,9 +319,9 @@ filesystem-based routing solution along with a full app framework.
 > open source Svelte in the wild :rainbow::sparkles:
 
 - **[`svelte-todomvc`](https://github.com/sveltejs/svelte-todomvc)<sub>@sveltejs</sub>** -
-  TodoMVC implemented in Svelte
+  TodoMVC implemented in Svelte (<https://svelte-todomvc.surge.sh>)
 - **[`realworld`](https://github.com/sveltejs/realworld)<sub>@sveltejs</sub>** -
-  Svelte/Sapper implementation of the RealWorld app
+  Svelte/Sapper implementation of the RealWorld app (<https://svelte-realworld.now.sh>)
 - **[`svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
   The `<Repl>` component used on the Svelte website (<https://svelte.dev/repl>)
 - **[`svelte-dbmonster`](https://github.com/sveltejs/svelte-dbmonster)<sub>@sveltejs</sub>** -
