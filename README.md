@@ -327,7 +327,7 @@ filesystem-based routing solution along with a full app framework.
 > open source Svelte in the wild
 
 - **[`hn.svelte.dev`](https://github.com/sveltejs/hn.svelte.dev)<sub>@sveltejs</sub>** -
-  Hacker News clone built with Svelte and Sapper
+  Hacker News clone built with Svelte and Sapper <https://hn.svelte.dev>
 - [`svelte-travel-transitions`](https://github.com/pngwn/svelte-travel-transitions)<sub>@pngwn</sub> -
   Native-like Page Transitions with Svelte and Sapper, A Travel App.
 - [`new-tab`](https://github.com/MaxMilton/new-tab)<sub>@MaxMilton</sub> -
