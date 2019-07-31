@@ -301,6 +301,10 @@ filesystem-based routing solution along with a full app framework.
 
 ### easily integrated state libraries
 
+Svelte stores are natively compatible with
+[t39 Observables](https://github.com/tc39/proposal-observable),
+[`rxjs`](https://github.com/ReactiveX/rxjs), and similar.
+
 - [`rxjs`](https://github.com/ReactiveX/rxjs)<sub>@ReactiveX</sub> -
   A reactive programming library for JavaScript (<https://rxjs.dev>)
 - [`immer`](https://github.com/immerjs/immer)<sub>@immerjs</sub> -
