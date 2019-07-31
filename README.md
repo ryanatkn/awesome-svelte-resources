@@ -32,7 +32,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [misc libraries](#misc-libraries)
   - [integrations with other libraries](#integrations-with-other-libraries)
   - [easily integrated state libraries](#easily-integrated-state-libraries)
-- [example app showcase](#example-app-showcase)
+- [example app showcase :rainbow::sparkles:](#example-app-showcase)
   - [closed-source showcase](#closed-source-showcase)
 - [native](#native)
 - [experiments](#experiments)
@@ -324,7 +324,7 @@ filesystem-based routing solution along with a full app framework.
 
 ## example app showcase
 
-> open source Svelte in the wild
+> open source Svelte in the wild :rainbow::sparkles:
 
 - **[`svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
   The `<Repl>` component used on the Svelte website (<https://svelte.dev/repl>)
