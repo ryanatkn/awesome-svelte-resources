@@ -67,6 +67,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   Ways to incorporate Svelte into your stack
 - **[`branding`](https://github.com/sveltejs/branding)<sub>@sveltejs</sub>** -
   Logos etc for Svelte and related projects
+- **[`rfcs`](https://github.com/sveltejs/rfcs)<sub>@sveltejs</sub>** -
+  RFCs for [changes to Svelte](https://github.com/sveltejs/rfcs/pulls)
 - **[`sapper`](https://github.com/sveltejs/sapper)<sub>@sveltejs</sub>** -
   Military-grade progressive web apps, powered by Svelte
 
