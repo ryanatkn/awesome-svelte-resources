@@ -261,6 +261,8 @@ filesystem-based routing solution along with a full app framework.
   A facebook pixel module for Svelte / Sapper
 - [`svelte-carousel`](https://github.com/beyonk-adventures/svelte-carousel)<sub>@beyonk-adventures</sub> -
   A super lightweight, super simple Carousel for Svelte 3
+- [`multicarousel`](https://github.com/sciactive/multicarousel)<sub>@sciactive</sub> -
+  A dependency free multiple item JavaScript carousel.
 - [`svelte-color-picker`](https://github.com/qintarp/svelte-color-picker)<sub>@qintarp</sub> -
   A color picker component for svelte
 - [`svelte-sortable-list`](https://github.com/brunomolteni/svelte-sortable-list)<sub>@brunomolteni</sub> -
