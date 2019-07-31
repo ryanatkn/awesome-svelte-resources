@@ -319,6 +319,8 @@ filesystem-based routing solution along with a full app framework.
 
 ### easily integrated state libraries
 
+- [`rxjs`](https://github.com/ReactiveX/rxjs)<sub>@ReactiveX</sub> -
+  A reactive programming library for JavaScript (<https://rxjs.dev>)
 - [`immer`](https://github.com/immerjs/immer)<sub>@immerjs</sub> -
   Create the next immutable state by mutating the current one
 - [`xstate`](https://github.com/davidkpiano/xstate)<sub>@davidkpiano</sub> -
