@@ -22,7 +22,6 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [templates](#templates)
   - [electron](#electron)
   - [mobile](#mobile)
-- [sample apps](#sample-apps)
 - [testing](#testing)
 - [routers](#routers)
   - [Svelte-specific routing](#svelte-specific-routing)
@@ -161,13 +160,6 @@ those projects are listed under [misc components](#misc-components).
   Starter template for Cordova featuring hot reload
 - [`svelte-phonegap`](https://github.com/lpshanley/svelte-phonegap)<sub>@lpshanley</sub> -
   Template for building phonegap hybrid applications with Svelte
-
-## sample apps
-
-- **[`svelte-todomvc`](https://github.com/sveltejs/svelte-todomvc)<sub>@sveltejs</sub>** -
-  TodoMVC implemented in Svelte
-- **[`realworld`](https://github.com/sveltejs/realworld)<sub>@sveltejs</sub>** -
-  Svelte/Sapper implementation of the RealWorld app
 
 ## testing
 
@@ -326,6 +318,10 @@ filesystem-based routing solution along with a full app framework.
 
 > open source Svelte in the wild :rainbow::sparkles:
 
+- **[`svelte-todomvc`](https://github.com/sveltejs/svelte-todomvc)<sub>@sveltejs</sub>** -
+  TodoMVC implemented in Svelte
+- **[`realworld`](https://github.com/sveltejs/realworld)<sub>@sveltejs</sub>** -
+  Svelte/Sapper implementation of the RealWorld app
 - **[`svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
   The `<Repl>` component used on the Svelte website (<https://svelte.dev/repl>)
 - **[`hn.svelte.dev`](https://github.com/sveltejs/hn.svelte.dev)<sub>@sveltejs</sub>** -
