@@ -77,6 +77,12 @@ The official list of integrations is
 Look there first - they're mostly not duplicated here.
 Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pulls)?
 
+- **[`svelte-loader`](https://github.com/sveltejs/svelte-loader)<sub>@sveltejs</sub>** -
+  Webpack loader for svelte components.
+- [`rollup-plugin-svelte`](https://github.com/rollup/rollup-plugin-svelte)<sub>@rollup</sub> -
+  Compile Svelte components with Rollup
+- more at the official **[`@sveltejs/integrations`](https://github.com/sveltejs/integrations)**
+
 ### preprocessors
 
 - [`svelte-preprocess`](https://github.com/kaisermann/svelte-preprocess)<sub>@kaisermann</sub> -
