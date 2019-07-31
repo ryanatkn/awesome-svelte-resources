@@ -139,6 +139,8 @@ those projects are listed under [misc components](#misc-components).
   Tailwindcss v1 + Svelte v3 = <3
 - [`svelte-tailwind-template`](https://github.com/muhajirdev/svelte-tailwind-template)<sub>@muhajirdev</sub> -
   Svelte + Tailwind = ❤
+- [`svelte-template`](https://github.com/fabiohvp/svelte-template)<sub>@fabiohvp</sub> -
+  Svelte with materializecss + tailwindcss
 - [`svelte-3-rollup-typescript-vscode`](https://github.com/geakstr/svelte-3-rollup-typescript-vscode)<sub>@geakstr</sub> -
   Starter for svelte 3/rollup/typescript/vscode
 - [`svelte-firebase`](https://github.com/jorgegorka/svelte-firebase)<sub>@jorgegorka</sub> -
