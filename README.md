@@ -326,6 +326,8 @@ filesystem-based routing solution along with a full app framework.
 
 > open source Svelte in the wild
 
+- **[`svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
+  The `<Repl>` component used on the Svelte website (<https://svelte.dev/repl>)
 - **[`hn.svelte.dev`](https://github.com/sveltejs/hn.svelte.dev)<sub>@sveltejs</sub>** -
   Hacker News clone built with Svelte and Sapper (<https://hn.svelte.dev>)
 - [`svelte-travel-transitions`](https://github.com/pngwn/svelte-travel-transitions)<sub>@pngwn</sub> -
