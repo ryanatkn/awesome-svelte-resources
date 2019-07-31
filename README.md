@@ -65,6 +65,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   Cybernetically enhanced web apps
 - **[`integrations`](https://github.com/sveltejs/integrations)<sub>@sveltejs</sub>** -
   Ways to incorporate Svelte into your stack
+- **[`branding`](https://github.com/sveltejs/branding)<sub>@sveltejs</sub>** -
+  Logos etc for Svelte and related projects
 - **[`sapper`](https://github.com/sveltejs/sapper)<sub>@sveltejs</sub>** -
   Military-grade progressive web apps, powered by Svelte
 
