@@ -324,6 +324,8 @@ filesystem-based routing solution along with a full app framework.
   Svelte/Sapper implementation of the RealWorld app
 - **[`svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
   The `<Repl>` component used on the Svelte website (<https://svelte.dev/repl>)
+- **[`svelte-dbmonster`](https://github.com/sveltejs/svelte-dbmonster)<sub>@sveltejs</sub>** -
+  Svelte implementation of DBMonster (<http://svelte-dbmonster.surge.sh>)
 - **[`hn.svelte.dev`](https://github.com/sveltejs/hn.svelte.dev)<sub>@sveltejs</sub>** -
   Hacker News clone built with Svelte and Sapper (<https://hn.svelte.dev>)
 - [`svelte-travel-transitions`](https://github.com/pngwn/svelte-travel-transitions)<sub>@pngwn</sub> -
