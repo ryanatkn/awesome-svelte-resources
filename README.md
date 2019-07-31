@@ -160,7 +160,7 @@ those projects are listed under [misc components](#misc-components).
 
 - [`svelte-template-electron`](https://github.com/Rich-Harris/svelte-template-electron)<sub>@Rich-Harris</sub> -
   A template for building Electron apps with Svelte
-  **VERSION 2** <sub>(but included here anyway)</sub> -
+  <sub>(**VERSION 2** but included here anyway)</sub>
 - [`Sveltron`](https://github.com/Blade67/Sveltron)<sub>@Blade67</sub> -
   Electron Svelte boilerplate
 - [`svelte-electron-template`](https://github.com/chuanqisun/svelte-electron-template)<sub>@chuanqisun</sub> -
@@ -243,6 +243,9 @@ filesystem-based routing solution along with a full app framework.
   A virtual list component for Svelte apps
 - **[`svelte-scroller`](https://github.com/sveltejs/svelte-scroller)<sub>@sveltejs</sub>** -
   A `<Scroller>` component for Svelte apps
+- **[`svelte-subdivide`](https://github.com/sveltejs/svelte-subdivide)<sub>@sveltejs</sub>** -
+  A component for building Blender-style layouts in Svelte apps
+  <sub>(**VERSION 2** but included here anyway)</sub>
 - [`svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub> -
   Scroll Spy component for Svelte
 - [`svelte-loadable`](https://github.com/kaisermann/svelte-loadable)<sub>@kaisermann</sub> -
