@@ -296,6 +296,17 @@ filesystem-based routing solution along with a full app framework.
 - [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
   Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
 
+### easily integrated state libraries
+
+- [`rxjs`](https://github.com/ReactiveX/rxjs)<sub>@ReactiveX</sub> -
+  A reactive programming library for JavaScript (<https://rxjs.dev>)
+- [`immer`](https://github.com/immerjs/immer)<sub>@immerjs</sub> -
+  Create the next immutable state by mutating the current one
+- [`xstate`](https://github.com/davidkpiano/xstate)<sub>@davidkpiano</sub> -
+  State machines and statecharts for the modern web.
+- [`microstates.js`](https://github.com/microstates/microstates.js)<sub>@microstates</sub> -
+  Composable State Primitives for JavaScript
+
 ### integrations with other libraries
 
 - [`svelte-apollo`](https://github.com/timhall/svelte-apollo)<sub>@timhall</sub> -
@@ -316,17 +327,6 @@ filesystem-based routing solution along with a full app framework.
   :chart_with_upwards_trend: Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper.
 - [`svelte-mapbox`](https://github.com/beyonk-adventures/svelte-mapbox)<sub>@beyonk-adventures</sub> -
   MapBox Map and Autocomplete components for Svelte (or Vanilla JS)
-
-### easily integrated state libraries
-
-- [`rxjs`](https://github.com/ReactiveX/rxjs)<sub>@ReactiveX</sub> -
-  A reactive programming library for JavaScript (<https://rxjs.dev>)
-- [`immer`](https://github.com/immerjs/immer)<sub>@immerjs</sub> -
-  Create the next immutable state by mutating the current one
-- [`xstate`](https://github.com/davidkpiano/xstate)<sub>@davidkpiano</sub> -
-  State machines and statecharts for the modern web.
-- [`microstates.js`](https://github.com/microstates/microstates.js)<sub>@microstates</sub> -
-  Composable State Primitives for JavaScript
 
 ## example app showcase
 
