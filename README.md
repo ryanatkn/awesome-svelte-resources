@@ -155,6 +155,8 @@ those projects are listed under [misc components](#misc-components).
   Svelte webpack template with routing and lazy-loading
 - [`svelte-example-museums`](https://github.com/angelozehr/svelte-example-museums)<sub>@angelozehr</sub> -
   An example repo of a svelte app that is IE11 compatible
+- [`svelte-boilerplate`](https://github.com/pankod/svelte-boilerplate)<sub>@pankod</sub> -
+  Svelte application boilerplate with Webpack, Sass, BabelJS, Fetch, PostCSS, Jest, .Env
 
 ### electron
 
