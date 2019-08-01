@@ -23,7 +23,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [electron](#electron)
   - [mobile](#mobile)
 - [testing](#testing)
-- [routers](#routers)
+- **[routers](#routers)**
   - [Svelte-specific routing](#svelte-specific-routing)
   - [generic routing](#generic-routing)
 - [ui component sets](#ui-component-sets)
