@@ -284,6 +284,8 @@ filesystem-based routing solution along with a full app framework.
   A lightweight datepicker with neat animations and a unique UX.
 - [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
   A select component for Svelte apps
+- [`svelte-rate-it`](https://github.com/emrekara37/svelte-rate-it)<sub>@emrekara37</sub> -
+  A rate component for Svelte apps
 - many many more.. [please send help](https://github.com/ryanatkn/awesome-svelte-resources/pulls)
 
 ## misc libraries
