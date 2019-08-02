@@ -359,7 +359,8 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
   ⚡ A high performance Google Chrome new tab page that gets you where you need to go faster.
 - [`nau-chrome-tab`](https://github.com/trongthanh/nau-chrome-tab)<sub>@trongthanh</sub> -
   Beautiful New Tab extension for Chrome, Firefox and browsers support web extension
- - **[`Nomie`](https://github.com/open-nomie/nomie)<sub>@brandoncorbin</sub>** Mood and Life Tracker built with Svelte
+- [`Nomie`](https://github.com/open-nomie/nomie)<sub>@brandoncorbin</sub> -
+  Mood and Life Tracker built with Svelte
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
 
 ### closed-source showcase
