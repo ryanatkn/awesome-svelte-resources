@@ -53,7 +53,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 
 ## official links
 
-- [svelte.dev](https://svelte.dev/)
+- **[svelte.dev](https://svelte.dev/)**
   - [Tutorial](https://svelte.dev/tutorial)
   - [API docs](https://svelte.dev/docs)
   - [Examples](https://svelte.dev/examples)
