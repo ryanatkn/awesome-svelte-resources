@@ -238,6 +238,8 @@ filesystem-based routing solution along with a full app framework.
   Svelte Material UI Components
 - [`sveltemantic`](https://github.com/titans-inc/sveltemantic)<sub>@titans-inc</sub> -
   Fomantic-UI components for Svelte 3
+- [`sveltestrap`](https://github.com/bestguy/sveltestrap)<sub>@bestguy</sub> -
+  Bootstrap 4 components for Svelte
 
 ## components
 
