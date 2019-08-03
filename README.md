@@ -413,4 +413,4 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
   A collection of blog posts, videos, and other Svelte resources
   (<https://why-svelte-js.web.app>)
 
-# :sunflower:
+# [:sunflower:](license)
