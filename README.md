@@ -53,7 +53,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 
 ## official links
 
-- [svelte.dev](https://svelte.dev/)
+- **[svelte.dev](https://svelte.dev/)**
   - [Tutorial](https://svelte.dev/tutorial)
   - [API docs](https://svelte.dev/docs)
   - [Examples](https://svelte.dev/examples)
@@ -240,6 +240,8 @@ filesystem-based routing solution along with a full app framework.
   Fomantic-UI components for Svelte 3
 - [`sveltestrap`](https://github.com/bestguy/sveltestrap)<sub>@bestguy</sub> -
   Bootstrap 4 components for Svelte
+- [`svelte-ui`](https://github.com/vikignt/svelte-ui)<sub>@vikignt</sub> -
+  Simple Svelt 3 UI components
 
 ## components
 
@@ -415,4 +417,4 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
   A collection of blog posts, videos, and other Svelte resources
   (<https://why-svelte-js.web.app>)
 
-# :sunflower:
+# [:sunflower:](license)
