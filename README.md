@@ -241,7 +241,7 @@ filesystem-based routing solution along with a full app framework.
 - [`sveltestrap`](https://github.com/bestguy/sveltestrap)<sub>@bestguy</sub> -
   Bootstrap 4 components for Svelte
 - [`svelte-ui`](https://github.com/vikignt/svelte-ui)<sub>@vikignt</sub> -
-  Simple Svelt 3 UI components
+  Simple Svelte 3 UI components
 
 ## components
 
