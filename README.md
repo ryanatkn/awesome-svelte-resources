@@ -292,6 +292,8 @@ filesystem-based routing solution along with a full app framework.
   A select component for Svelte apps
 - [`svelte-rate-it`](https://github.com/emrekara37/svelte-rate-it)<sub>@emrekara37</sub> -
   A rate component for Svelte apps
+- [`svelte-grid`](https://github.com/vaheqelyan/svelte-grid)<sub>@vaheqelyan</sub> -
+  A responsive, draggable and resizable grid layout, for Svelte.
 - many many more.. [please send help](https://github.com/ryanatkn/awesome-svelte-resources/pulls)
 
 ## misc libraries
