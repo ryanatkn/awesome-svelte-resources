@@ -306,6 +306,8 @@ filesystem-based routing solution along with a full app framework.
   Two-way data-transforming stores.
 - [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
   Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
+- [`sveltedoc-parser`](https://github.com/alexprey/sveltedoc-parser)<sub>@alexprey</sub> -
+  Generate a JSON documentation for a Svelte component
 
 ### easily integrated state libraries
 
