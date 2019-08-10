@@ -214,6 +214,8 @@ filesystem-based routing solution along with a full app framework.
   Easy router for Svelte framework
 - [`svelte-router-spa`](https://github.com/jorgegorka/svelte-router)<sub>@jorgegorka</sub> -
   Svelte Router adds routing to your Svelte apps. It's specially designed for Single Page Applications (SPA).
+- [`svelte-router`](https://github.com/spaceavocado/svelte-router)<sub>@spaceavocado</sub> -
+  Simple Svelte Router for Single Page Applications (SPA).
 
 ### generic routing
 
