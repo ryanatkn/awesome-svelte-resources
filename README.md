@@ -349,6 +349,8 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
   :chart_with_upwards_trend: Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper.
 - [`svelte-mapbox`](https://github.com/beyonk-adventures/svelte-mapbox)<sub>@beyonk-adventures</sub> -
   MapBox Map and Autocomplete components for Svelte (or Vanilla JS)
+- [`svelte-flatpickr`](https://github.com/jacobmischka/svelte-flatpickr)<sub>@jacobmischka</sub> -
+  Flatpickr component for Svelte
 
 ## example app showcase
 
