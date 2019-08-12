@@ -157,6 +157,8 @@ those projects are listed under [misc components](#misc-components).
   An example repo of a svelte app that is IE11 compatible
 - [`svelte-boilerplate`](https://github.com/pankod/svelte-boilerplate)<sub>@pankod</sub> -
   Svelte application boilerplate with Webpack, Sass, BabelJS, Fetch, PostCSS, Jest, .Env
+- [`svelte-poi-starter`](https://github.com/pbastowski/svelte-poi-starter)<sub>@pbastowski</sub> -
+  Svelte 3 starter with POI 12 and Prettier. Outputs web apps or web components.
 
 ### electron
 
