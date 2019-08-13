@@ -109,6 +109,8 @@ those projects are listed under [misc components](#misc-components).
   Provides syntax highlighting of Svelte components in WebStorm and friends
 - [`svelte-language-server`](https://github.com/UnwrittenFun/svelte-language-server)<sub>@UnwrittenFun</sub> -
   A WIP language server for Svelte
+- [`vscode-svelte-component-extractor`](https://github.com/proverbial-ninja/vscode-svelte-component-extractor)<sub>@proverbial-ninja</sub> -
+  Creates a new Svelte component from higlighted text
 
 ## web app frameworks
 
