@@ -189,6 +189,8 @@ those projects are listed under [misc components](#misc-components).
   Jest Transformer for Svelte components
 - [`svelte-test`](https://github.com/pngwn/svelte-test)<sub>@pngwn</sub> -
   Testing utilities for Svelte
+- [`storybookjs`](https://github.com/storybookjs/storybook)<sub>@storybook</sub> -
+  UI component dev & test
 
 ## routers
 
