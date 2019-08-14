@@ -161,6 +161,8 @@ those projects are listed under [misc components](#misc-components).
   Svelte application boilerplate with Webpack, Sass, BabelJS, Fetch, PostCSS, Jest, .Env
 - [`svelte-poi-starter`](https://github.com/pbastowski/svelte-poi-starter)<sub>@pbastowski</sub> -
   Svelte 3 starter with POI 12 and Prettier. Outputs web apps or web components.
+- [`svelte-template-browserify`](https://github.com/soapdog/svelte-template-browserify)<sub>@soapdog</sub> -
+  A svelte template for browserify
 
 ### electron
 
