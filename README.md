@@ -225,7 +225,7 @@ filesystem-based routing solution along with a full app framework.
 - [`svelte-router`](https://github.com/spaceavocado/svelte-router)<sub>@spaceavocado</sub> -
   Simple Svelte Router for Single Page Applications (SPA).
 - [`svelte-page-router`](https://github.com/PaulMaly/svelte-page-router)<sub>@PaulMaly</sub> -
-  Simple config-based router with DX similar to VueRouter. Works well on the server-side. Supports `preload` function (Sapper-like) to simple load page data before rendering.
+  Simple config-based router with DX similar to VueRouter. Works well on the server-side. Supports `preload` function (Sapper-like) to load page data before rendering.
 
 ### generic routing
 
