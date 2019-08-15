@@ -163,6 +163,8 @@ those projects are listed under [misc components](#misc-components).
   Svelte 3 starter with POI 12 and Prettier. Outputs web apps or web components.
 - [`svelte-template-browserify`](https://github.com/soapdog/svelte-template-browserify)<sub>@soapdog</sub> -
   A svelte template for browserify
+- [`svelte-box`](https://github.com/antony/svelte-box)<sub>@antony</sub> -
+  A truffle box for svelte, a seed for building an Ethereum dapp using Truffle
 
 ### electron
 
