@@ -326,6 +326,8 @@ filesystem-based routing solution along with a full app framework.
   Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
 - [`sveltedoc-parser`](https://github.com/alexprey/sveltedoc-parser)<sub>@alexprey</sub> -
   Generate a JSON documentation for a Svelte component
+- [`svelte-css-vars`](https://github.com/kaisermann/svelte-css-vars)<sub>@kaisermann</sub> -
+  Ever wanted to have reactive css variables in svelte? What if I tell you there's a way?
 
 ### easily integrated state libraries
 
