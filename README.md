@@ -411,7 +411,8 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
 
 [<img src="svelte-horizontal.svg" align="right" height="100">](https://svelte.dev/blog)
 
-- [Svelte's official blog](https://svelte.dev/blog)
+- **[Svelte's official blog](https://svelte.dev/blog)**
+- **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
 
 ### videos
 
