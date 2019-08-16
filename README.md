@@ -77,7 +77,7 @@ Look there first - they're mostly not duplicated here.
 Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pulls)?
 
 - **[`svelte-loader`](https://github.com/sveltejs/svelte-loader)<sub>@sveltejs</sub>** -
-  Webpack loader for svelte components.
+  Webpack loader for Svelte components.
 - [`rollup-plugin-svelte`](https://github.com/rollup/rollup-plugin-svelte)<sub>@rollup</sub> -
   Compile Svelte components with Rollup
 - more at the official **[`@sveltejs/integrations`](https://github.com/sveltejs/integrations)**
@@ -141,7 +141,7 @@ those projects are listed under [misc components](#misc-components).
 - [`svelte-template`](https://github.com/fabiohvp/svelte-template)<sub>@fabiohvp</sub> -
   Svelte with materializecss + tailwindcss
 - [`svelte-3-rollup-typescript-vscode`](https://github.com/geakstr/svelte-3-rollup-typescript-vscode)<sub>@geakstr</sub> -
-  Starter for svelte 3/rollup/typescript/vscode
+  Starter for Svelte 3/rollup/typescript/vscode
 - [`svelte-firebase`](https://github.com/jorgegorka/svelte-firebase)<sub>@jorgegorka</sub> -
   A template to help you start developing SPAs with Svelte and Firebase.
 - [`svelte-firebase-auth`](https://github.com/ricalamino/svelte-firebase-auth)<sub>@ricalamino</sub> -
@@ -153,15 +153,15 @@ those projects are listed under [misc components](#misc-components).
 - [`svelte-routing-template`](https://github.com/OrdinaryJellyfish/svelte-routing-template)<sub>@OrdinaryJellyfish</sub> -
   Svelte webpack template with routing and lazy-loading
 - [`svelte-example-museums`](https://github.com/angelozehr/svelte-example-museums)<sub>@angelozehr</sub> -
-  An example repo of a svelte app that is IE11 compatible
+  An example repo of a Svelte app that is IE11 compatible
 - [`svelte-boilerplate`](https://github.com/pankod/svelte-boilerplate)<sub>@pankod</sub> -
   Svelte application boilerplate with Webpack, Sass, BabelJS, Fetch, PostCSS, Jest, .Env
 - [`svelte-poi-starter`](https://github.com/pbastowski/svelte-poi-starter)<sub>@pbastowski</sub> -
   Svelte 3 starter with POI 12 and Prettier. Outputs web apps or web components.
 - [`svelte-template-browserify`](https://github.com/soapdog/svelte-template-browserify)<sub>@soapdog</sub> -
-  A svelte template for browserify
+  A Svelte template for browserify
 - [`svelte-box`](https://github.com/antony/svelte-box)<sub>@antony</sub> -
-  A truffle box for svelte, a seed for building an Ethereum dapp using Truffle
+  A truffle box for Svelte, a seed for building an Ethereum dapp using Truffle
 
 ### electron
 
@@ -171,7 +171,7 @@ those projects are listed under [misc components](#misc-components).
 - [`Sveltron`](https://github.com/Blade67/Sveltron)<sub>@Blade67</sub> -
   Electron Svelte boilerplate
 - [`svelte-electron-template`](https://github.com/chuanqisun/svelte-electron-template)<sub>@chuanqisun</sub> -
-  The bare minimum boilerplate to use svelte in electron
+  The bare minimum boilerplate to use Svelte in electron
 
 ### mobile
 
@@ -212,7 +212,7 @@ filesystem-based routing solution along with a full app framework.
 - [`svero`](https://github.com/kazzkiq/svero)<sub>@kazzkiq</sub> -
   A simple router for Svelte 3
 - [`swheel`](https://github.com/qutran/swheel)<sub>@qutran</sub> -
-  Ultimate svelte router
+  Ultimate Svelte router
 - [`svelte-router`](https://github.com/jamen/svelte-router)<sub>@jamen</sub> -
   Svelte router using a store and components.
 - [`svelte-hash-router`](https://github.com/pynnl/svelte-hash-router)<sub>@pynnl</sub> -
@@ -266,7 +266,7 @@ filesystem-based routing solution along with a full app framework.
 - [`svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub> -
   Scroll Spy component for Svelte
 - [`svelte-loadable`](https://github.com/kaisermann/svelte-loadable)<sub>@kaisermann</sub> -
-  Dynamically load a svelte component
+  Dynamically load a Svelte component
 - [`svelte-waypoint`](https://github.com/matyunya/svelte-waypoint)<sub>@matyunya</sub> -
   Lazyload images or anything component for Svelte
 - [`svelte-inspect`](https://github.com/trbrc/svelte-inspect)<sub>@trbrc</sub> -
@@ -288,9 +288,9 @@ filesystem-based routing solution along with a full app framework.
 - [`multicarousel`](https://github.com/sciactive/multicarousel)<sub>@sciactive</sub> -
   A dependency free multiple item JavaScript carousel.
 - [`svelte-color-picker`](https://github.com/qintarp/svelte-color-picker)<sub>@qintarp</sub> -
-  A color picker component for svelte
+  A color picker component for Svelte
 - [`svelte-sortable-list`](https://github.com/brunomolteni/svelte-sortable-list)<sub>@brunomolteni</sub> -
-  A svelte 3 component that implements a list with animated drag-n-drop functionality.
+  A Svelte 3 component that implements a list with animated drag-n-drop functionality.
 - [`svelte-image`](https://github.com/matyunya/svelte-image)<sub>@matyunya</sub> -
   Image processing with Sharp for Svelte
 - [`svelte-image-encoder`](https://github.com/saabi/svelte-image-encoder)<sub>@saabi</sub> -
@@ -324,7 +324,7 @@ filesystem-based routing solution along with a full app framework.
 - [`sveltedoc-parser`](https://github.com/alexprey/sveltedoc-parser)<sub>@alexprey</sub> -
   Generate a JSON documentation for a Svelte component
 - [`svelte-css-vars`](https://github.com/kaisermann/svelte-css-vars)<sub>@kaisermann</sub> -
-  Ever wanted to have reactive css variables in svelte? What if I tell you there's a way?
+  Ever wanted to have reactive css variables in Svelte? What if I tell you there's a way?
 
 ### easily integrated state libraries
 
@@ -351,13 +351,13 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
 - [`svelte-fa`](https://github.com/Cweili/svelte-fa)<sub>@Cweili</sub> -
   Tiny FontAwesome 5 component for Svelte
 - [`fa-svelte`](https://github.com/alphapeter/fa-svelte)<sub>@alphapeter</sub> -
-  Font Awesome 5 for svelte.js
+  Font Awesome 5 for Svelte
 - [`svelte-feather-icons`](https://github.com/dylanblokhuis/svelte-feather-icons)<sub>@dylanblokhuis</sub> -
   Feather icons for Svelte
 - [`meteor-svelte`](https://github.com/meteor-svelte/meteor-svelte)<sub>@meteor-svelte</sub> -
   Build cybernetically enhanced web apps with Meteor and Svelte.
 - [`prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte)<sub>@UnwrittenFun</sub> -
-  Format your svelte components using prettier.
+  Format your Svelte components using prettier.
 - [`echarts-for-svelte`](https://github.com/liyuanqiu/echarts-for-svelte)<sub>@liyuanqiu</sub> -
   :chart_with_upwards_trend: Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper.
 - [`svelte-mapbox`](https://github.com/beyonk-adventures/svelte-mapbox)<sub>@beyonk-adventures</sub> -
