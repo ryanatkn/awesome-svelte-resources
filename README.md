@@ -38,7 +38,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [media](#media)
   - [videos](#videos)
   - [podcasts](#podcasts)
-- [other lists](#other-lists)
+- [other lists and resources](#other-lists-and-resources)
 
 > possible improvements
 >
@@ -426,7 +426,7 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
 - [Toolsday #93 - Svelte](https://spec.fm/podcasts/toolsday/293076)
 - [Harry Wolff - A Svelte Chat with Rich Harris!](https://www.youtube.com/watch?v=48gHuY4w0hY)
 
-## other lists
+## other lists and resources
 
 - **[`integrations`](https://github.com/sveltejs/integrations)<sub>@sveltejs</sub>** -
   Ways to incorporate Svelte into your stack
