@@ -437,5 +437,7 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
 - [`Why Svelte`](https://why-svelte-js.web.app/) -
   A collection of blog posts, videos, and other Svelte resources
   (<https://why-svelte-js.web.app>)
+- [Svelte Status](http://www.sveltestatus.com/) -
+  Weekly curated blogs and tools for Svelte developers.
 
 # [:sunflower:](license)
