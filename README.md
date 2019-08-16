@@ -276,7 +276,7 @@ filesystem-based routing solution along with a full app framework.
 - **[`svelte-subdivide`](https://github.com/sveltejs/svelte-subdivide)<sub>@sveltejs</sub>** -
   A component for building Blender-style layouts in Svelte apps
   <sub>(**VERSION 2** but included here anyway)</sub>
-- [`svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub> -
+- [`@beyonk/svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub> -
   Scroll Spy component for Svelte
 - [`svelte-loadable`](https://github.com/kaisermann/svelte-loadable)<sub>@kaisermann</sub> -
   Dynamically load a Svelte component
@@ -286,17 +286,21 @@ filesystem-based routing solution along with a full app framework.
   console.log()-like interactive inspector for Svelte 3
 - [`svelte-progressbar`](https://github.com/okrad/svelte-progressbar)<sub>@okrad</sub> -
   A multiseries, SVG progressbar component made with Svelte
-- [`svelte-notifications`](https://github.com/beyonk-adventures/svelte-notifications)<sub>@beyonk-adventures</sub> -
+- [`@beyonk/svelte-notifications`](https://github.com/beyonk-adventures/svelte-notifications)<sub>@beyonk-adventures</sub> -
   Svelte toast notifications component that can be used in any JS application
+- [`@beyonk/svelte-mapbox`](https://github.com/beyonk-adventures/svelte-mapbox)<sub>@beyonk-adventures</sub> - Mapbox integration for Svelte.
+- [`@beyonk/svelte-googlemaps`](https://github.com/beyonk-adventures/svelte-google)<sub>@beyonk-adventures</sub> - Google Maps integration for Svelte.
 - [`svelte-notifications`](https://github.com/keenethics/svelte-notifications)<sub>@keenethics</sub> -
   Simple and flexible notifications system
 - [`svelte-easy-crop`](https://github.com/ValentinH/svelte-easy-crop)<sub>@ValentinH</sub> -
   A Svelte component to crop images with easy interactions
-- [`gdpr-cookie-consent-banner`](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner)<sub>@beyonk-adventures</sub> -
+- [`@beyonk/gdpr-cookie-consent-banner`](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner)<sub>@beyonk-adventures</sub> -
   A GDPR compliant cookie consent banner implementation
-- [`svelte-facebook-pixel`](https://github.com/beyonk-adventures/svelte-facebook-pixel)<sub>@beyonk-adventures</sub> -
-  A facebook pixel module for Svelte / Sapper
-- [`svelte-carousel`](https://github.com/beyonk-adventures/svelte-carousel)<sub>@beyonk-adventures</sub> -
+- [`@beyonk/svelte-facebook-pixel`](https://github.com/beyonk-adventures/svelte-facebook-pixel)<sub>@beyonk-adventures</sub> - A facebook pixel module for Svelte / Sapper
+- [`@beyonk/svelte-facebook-customer-chat`](https://github.com/beyonk-adventures/svelte-facebook-customer-chat)<sub>@beyonk-adventures</sub> - A facebook customer chat integration for Svelte / Sapper
+- [`@beyonk/svelte-google-analytics`](https://github.com/beyonk-adventures/svelte-google-analytics)<sub>@beyonk-adventures</sub> -
+  Google Analytics tracking module for Svelte / Sapper
+- [`@beyonk/svelte-carousel`](https://github.com/beyonk-adventures/svelte-carousel)<sub>@beyonk-adventures</sub> -
   A super lightweight, super simple Carousel for Svelte 3
 - [`multicarousel`](https://github.com/sciactive/multicarousel)<sub>@sciactive</sub> -
   A dependency free multiple item JavaScript carousel.
@@ -312,6 +316,8 @@ filesystem-based routing solution along with a full app framework.
   A lightweight datepicker with neat animations and a unique UX.
 - [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
   A select component for Svelte apps
+ - [`@beyonk/svelte-trustpilot`](https://github.com/beyonk-adventures/svelte-trustpilot)<sub>@beyonk-adventures</sub> -
+  Trustpilot Trustboxes for Svelte / Sapper.
 - [`svelte-rate-it`](https://github.com/emrekara37/svelte-rate-it)<sub>@emrekara37</sub> -
   A rate component for Svelte apps
 - [`svelte-grid`](https://github.com/vaheqelyan/svelte-grid)<sub>@vaheqelyan</sub> -
@@ -330,6 +336,7 @@ filesystem-based routing solution along with a full app framework.
   Internationalization library for Svelte
 - [`svelte-intl`](https://github.com/Panya/svelte-intl)<sub>@Panya</sub> -
   Internationalize your Svelte apps using format-message and Intl object
+- [`@beyonk/sapper-httpclient`](https://github.com/beyonk-adventures/sapper-httpclient)<sub>@beyonk-adventures</sub> - A builder-style http client wrapper for Sapper apps, providing error handling and easy defaults.
 - [`svelte-writable-derived`](https://github.com/PikadudeNo1/svelte-writable-derived)<sub>@PikadudeNo1</sub> -
   Two-way data-transforming stores.
 - [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
