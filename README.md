@@ -94,7 +94,7 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
   Typescript preprocessor for Svelte 3
 
 Some components are bundled with specific preprocessors that they rely on;
-those projects are listed under [misc components](#misc-components).
+those projects are listed under [misc components](#components).
 
 ### editor tools
 
