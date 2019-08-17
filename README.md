@@ -162,6 +162,8 @@ those projects are listed under [misc components](#components).
   A Svelte template for browserify
 - [`svelte-box`](https://github.com/antony/svelte-box)<sub>@antony</sub> -
   A truffle box for Svelte, a seed for building an Ethereum dapp using Truffle
+- [`svelte-router-template`](https://github.com/spaceavocado/svelte-router-template)<sub>@spaceavocado</sub> -
+  Boilerplate template project for spaceavocado/svelte-router - Simple Svelte Router for Single Page Applications (SPA).
 
 ### electron
 
