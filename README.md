@@ -362,12 +362,12 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
   Format your Svelte components using prettier.
 - [`echarts-for-svelte`](https://github.com/liyuanqiu/echarts-for-svelte)<sub>@liyuanqiu</sub> -
   :chart_with_upwards_trend: Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper.
+- [`svelte-fusioncharts`](https://github.com/priyanjitdey94/svelte-fusioncharts)<sub>@priyanjitdey94</sub> -
+  Svelte component for FusionCharts JavaScript charting library
 - [`svelte-mapbox`](https://github.com/beyonk-adventures/svelte-mapbox)<sub>@beyonk-adventures</sub> -
   MapBox Map and Autocomplete components for Svelte (or Vanilla JS)
 - [`svelte-flatpickr`](https://github.com/jacobmischka/svelte-flatpickr)<sub>@jacobmischka</sub> -
   Flatpickr component for Svelte
-- [`svelte-fusioncharts`](https://github.com/priyanjitdey94/svelte-fusioncharts)<sub>@priyanjitdey94</sub> -
-  Svelte component for FusionCharts JavaScript charting library
 
 ## example app showcase
 
