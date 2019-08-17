@@ -366,6 +366,8 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
   MapBox Map and Autocomplete components for Svelte (or Vanilla JS)
 - [`svelte-flatpickr`](https://github.com/jacobmischka/svelte-flatpickr)<sub>@jacobmischka</sub> -
   Flatpickr component for Svelte
+- [`svelte-fusioncharts`](https://github.com/priyanjitdey94/svelte-fusioncharts)<sub>@priyanjitdey94</sub> -
+  Svelte component for FusionCharts JavaScript charting library
 
 ## example app showcase
 
