@@ -419,6 +419,7 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
 
 - **[Svelte's official blog](https://svelte.dev/blog)**
 - **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
+- unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
 
 ### videos
 
