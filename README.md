@@ -251,6 +251,8 @@ filesystem-based routing solution along with a full app framework.
   A UI component library for Svelte implementing Google's Material Design specification
 - [`svelte-material-ui`](https://github.com/hperrin/svelte-material-ui)<sub>@hperrin</sub> -
   Svelte Material UI Components
+- [`svelteify`](https://github.com/exybore/svelteify)<sub>@exybore</sub> -
+  Material components library for Svelte using the stylesheet of Vuetify
 - [`sveltemantic`](https://github.com/titans-inc/sveltemantic)<sub>@titans-inc</sub> -
   Fomantic-UI components for Svelte 3
 - [`sveltestrap`](https://github.com/bestguy/sveltestrap)<sub>@bestguy</sub> -
