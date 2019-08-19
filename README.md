@@ -55,6 +55,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [API docs](https://svelte.dev/docs)
   - [Examples](https://svelte.dev/examples)
   - [REPL](https://svelte.dev/repl)
+    - [your saved apps](https://svelte.dev/apps)
   - [Blog](https://svelte.dev/blog)
   - [FAQ](https://github.com/sveltejs/svelte/wiki/FAQ)
   - [Discord chat](https://svelte.dev/chat)
