@@ -193,6 +193,8 @@ those projects are listed under [misc components](#components).
   Testing utilities for Svelte
 - [`storybookjs`](https://github.com/storybookjs/storybook)<sub>@storybook</sub> -
   UI component dev & test
+- [`svelte-jest`](https://github.com/ktsn/svelte-jest)<sub>@ktsn</sub> -
+  Jest Svelte component transformer
 
 ## routers
 
