@@ -165,6 +165,8 @@ those projects are listed under [misc components](#components).
   A truffle box for Svelte, a seed for building an Ethereum dapp using Truffle
 - [`svelte-router-template`](https://github.com/spaceavocado/svelte-router-template)<sub>@spaceavocado</sub> -
   Boilerplate template project for spaceavocado/svelte-router - Simple Svelte Router for Single Page Applications (SPA).
+- [`svelte-component-livereload-template`](https://github.com/beyonk-adventures/svelte-component-livereload-template)<sub>@beyonk-adventures</sub> -
+  Svelte component template with LiveReload and Jest unit testing
 
 ### electron
 
