@@ -167,6 +167,8 @@ those projects are listed under [misc components](#components).
   Boilerplate template project for spaceavocado/svelte-router - Simple Svelte Router for Single Page Applications (SPA).
 - [`svelte-component-livereload-template`](https://github.com/beyonk-adventures/svelte-component-livereload-template)<sub>@beyonk-adventures</sub> -
   Svelte component template with LiveReload and Jest unit testing
+- [`svelte-component-library-template`](https://github.com/patoi/svelte-component-library-template)<sub>@patoi</sub> -
+  A base for building Svelte component library.
 
 ### electron
 
