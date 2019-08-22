@@ -282,6 +282,8 @@ filesystem-based routing solution along with a full app framework.
 - **[`@sveltejs/svelte-subdivide`](https://github.com/sveltejs/svelte-subdivide)<sub>@sveltejs</sub>** -
   A component for building Blender-style layouts in Svelte apps
   <sub>(**VERSION 2** but included here anyway)</sub>
+- **[`@sveltejs/svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
+  The <Repl> component used on the Svelte website
 - [`@beyonk/svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub> -
   Scroll Spy component for Svelte
 - [`svelte-loadable`](https://github.com/kaisermann/svelte-loadable)<sub>@kaisermann</sub> -
