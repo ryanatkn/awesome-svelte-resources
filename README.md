@@ -39,7 +39,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [store and state components](#store-and-state-components)
   - [interaction components](#interaction-components)
   - [social and 3rd party service components](#social-and-3rd-party-service-components)
-  - [misc components and integrations](#misc-components-and-integrations)
+  - [misc inputs and widgets](#misc-inputs-and-widgets)
+  - [other components and integrations](#other-components-and-integrations)
 - [native](#native)
 - [experiments](#experiments)
 - [example app showcase :rainbow::sparkles:](#example-app-showcase)
@@ -394,7 +395,22 @@ this list of links, please feel free to open an
 - [`@beyonk/svelte-trustpilot`](https://github.com/beyonk-adventures/svelte-trustpilot)<sub>@beyonk-adventures</sub> -
   Trustpilot Trustboxes for Svelte / Sapper.
 
-### misc components and integrations
+### misc inputs and widgets
+
+- [`svelte-color-picker`](https://github.com/qintarp/svelte-color-picker)<sub>@qintarp</sub> -
+  A color picker component for Svelte
+- [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
+  A select component for Svelte apps
+- [`svelte-rate-it`](https://github.com/emrekara37/svelte-rate-it)<sub>@emrekara37</sub> -
+  A rate component for Svelte apps
+- [`@beyonk/gdpr-cookie-consent-banner`](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner)<sub>@beyonk-adventures</sub> -
+  A GDPR compliant cookie consent banner implementation
+- [`svelte-inspect`](https://github.com/trbrc/svelte-inspect)<sub>@trbrc</sub> -
+  console.log()-like interactive inspector for Svelte 3
+- [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar)<sub>@okrad</sub> -
+  A multiseries, SVG progressbar component made with Svelte
+
+### other components and integrations
 
 - **[`@sveltejs/svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
   The `<Repl>` component used on the Svelte website
@@ -402,18 +418,6 @@ this list of links, please feel free to open an
   Use Svelte components with Vue and React
 - [`svelte-loadable`](https://github.com/kaisermann/svelte-loadable)<sub>@kaisermann</sub> -
   Dynamically load a Svelte component
-- [`svelte-inspect`](https://github.com/trbrc/svelte-inspect)<sub>@trbrc</sub> -
-  console.log()-like interactive inspector for Svelte 3
-- [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar)<sub>@okrad</sub> -
-  A multiseries, SVG progressbar component made with Svelte
-- [`@beyonk/gdpr-cookie-consent-banner`](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner)<sub>@beyonk-adventures</sub> -
-  A GDPR compliant cookie consent banner implementation
-- [`svelte-color-picker`](https://github.com/qintarp/svelte-color-picker)<sub>@qintarp</sub> -
-  A color picker component for Svelte
-- [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
-  A select component for Svelte apps
-- [`svelte-rate-it`](https://github.com/emrekara37/svelte-rate-it)<sub>@emrekara37</sub> -
-  A rate component for Svelte apps
 - [`sveltedoc-parser`](https://github.com/alexprey/sveltedoc-parser)<sub>@alexprey</sub> -
   Generate a JSON documentation for a Svelte component
 - [`svelte-css-vars`](https://github.com/kaisermann/svelte-css-vars)<sub>@kaisermann</sub> -
