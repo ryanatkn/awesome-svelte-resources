@@ -184,6 +184,8 @@ installation via [`degit`](https://github.com/Rich-Harris/degit) is recommended:
   Svelte component template with LiveReload and Jest unit testing
 - [svelte-component-library-template](https://github.com/patoi/svelte-component-library-template)<sub>@patoi</sub> -
   A base for building Svelte component library.
+- [svelte-webpack-mpa](https://github.com/brandonxiang/svelte-webpack-mpa)<sub>@brandonxiang</sub> -
+  A template to create multi-page application powered by Webpack
 
 ### electron
 
