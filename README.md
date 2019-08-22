@@ -381,7 +381,7 @@ with [t39 Observables](https://github.com/tc39/proposal-observable),
   Svelte component for FusionCharts JavaScript charting library
 - [`@beyonk/svelte-mapbox`](https://github.com/beyonk-adventures/svelte-mapbox)<sub>@beyonk-adventures</sub> -
   Mapbox integration for Svelte.
-- [`@beyonk/svelte-googlemaps`](https://github.com/beyonk-adventures/svelte-google)<sub>@beyonk-adventures</sub> -
+- [`@beyonk/svelte-googlemaps`](https://github.com/beyonk-adventures/svelte-googlemaps)<sub>@beyonk-adventures</sub> -
   Google Maps integration for Svelte.
 - [`svelte-flatpickr`](https://github.com/jacobmischka/svelte-flatpickr)<sub>@jacobmischka</sub> -
   Flatpickr component for Svelte
