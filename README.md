@@ -30,7 +30,6 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [components](#components)
 - [misc libraries](#misc-libraries)
   - [integrations with other libraries](#integrations-with-other-libraries)
-  - [easily integrated state libraries](#easily-integrated-state-libraries)
 - [example app showcase :rainbow::sparkles:](#example-app-showcase)
   - [closed-source showcase](#closed-source-showcase)
 - [native](#native)
@@ -344,22 +343,6 @@ filesystem-based routing solution along with a full app framework.
   Generate a JSON documentation for a Svelte component
 - [`svelte-css-vars`](https://github.com/kaisermann/svelte-css-vars)<sub>@kaisermann</sub> -
   Ever wanted to have reactive css variables in Svelte? What if I tell you there's a way?
-
-### easily integrated state libraries
-
-Svelte stores are
-[natively compatible](https://github.com/sveltejs/svelte/issues/2549#issuecomment-488885660)
-with [t39 Observables](https://github.com/tc39/proposal-observable),
-[`rxjs`](https://github.com/ReactiveX/rxjs), and similar.
-
-- [`rxjs`](https://github.com/ReactiveX/rxjs)<sub>@ReactiveX</sub> -
-  A reactive programming library for JavaScript (<https://rxjs.dev>)
-- [`immer`](https://github.com/immerjs/immer)<sub>@immerjs</sub> -
-  Create the next immutable state by mutating the current one
-- [`xstate`](https://github.com/davidkpiano/xstate)<sub>@davidkpiano</sub> -
-  State machines and statecharts for the modern web.
-- [`microstates`](https://github.com/microstates/microstates.js)<sub>@microstates</sub> -
-  Composable State Primitives for JavaScript
 
 ### integrations with other libraries
 
