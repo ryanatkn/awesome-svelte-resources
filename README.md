@@ -40,9 +40,9 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [interaction components](#interaction-components)
   - [social and 3rd party service components](#social-and-3rd-party-service-components)
   - [misc components and integrations](#misc-components-and-integrations)
-- [example app showcase :rainbow::sparkles:](#example-app-showcase)
 - [native](#native)
 - [experiments](#experiments)
+- [example app showcase :rainbow::sparkles:](#example-app-showcase)
 - [media](#media)
   - [videos](#videos)
   - [podcasts](#podcasts)
@@ -421,6 +421,16 @@ this list of links, please feel free to open an
 - [`prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte)<sub>@UnwrittenFun</sub> -
   Format your Svelte components using prettier.
 
+## native
+
+- [svelte-native](https://github.com/halfnelson/svelte-native)<sub>@halfnelson</sub> -
+  Svelte controlling native components via Nativescript
+
+## experiments
+
+- **[`@sveltejs/gl`](https://github.com/sveltejs/gl)<sub>@sveltejs</sub>** -
+  A (very experimental) project to bring WebGL to Svelte
+
 ## example app showcase
 
 > open source Svelte in the wild :rainbow::sparkles:
@@ -444,16 +454,6 @@ this list of links, please feel free to open an
 - [Nomie](https://github.com/open-nomie/nomie)<sub>@brandoncorbin</sub> -
   Mood and Life Tracker built with Svelte
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
-
-## native
-
-- [svelte-native](https://github.com/halfnelson/svelte-native)<sub>@halfnelson</sub> -
-  Svelte controlling native components via Nativescript
-
-## experiments
-
-- **[`@sveltejs/gl`](https://github.com/sveltejs/gl)<sub>@sveltejs</sub>** -
-  A (very experimental) project to bring WebGL to Svelte
 
 ## media
 
