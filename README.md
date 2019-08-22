@@ -188,8 +188,7 @@ installation via [`degit`](https://github.com/Rich-Harris/degit) is recommended:
 ### electron
 
 - [svelte-template-electron](https://github.com/Rich-Harris/svelte-template-electron)<sub>@Rich-Harris</sub> -
-  A template for building Electron apps with Svelte
-  <sub>(**VERSION 2** but included here anyway)</sub>
+  A template for building Electron apps with Svelte<sub>(**VERSION 2**)</sub>
 - [Sveltron](https://github.com/Blade67/Sveltron)<sub>@Blade67</sub> -
   Electron Svelte boilerplate
 - [svelte-electron-template](https://github.com/chuanqisun/svelte-electron-template)<sub>@chuanqisun</sub> -
@@ -244,11 +243,11 @@ filesystem-based routing solution along with a full app framework.
 - [svelte-easyroute](https://github.com/lyohaplotinka/svelte-easyroute)<sub>@lyohaplotinka</sub> -
   Easy router for Svelte framework
 - [`svelte-router-spa`](https://github.com/jorgegorka/svelte-router)<sub>@jorgegorka</sub> -
-  Svelte Router adds routing to your Svelte apps. It's specially designed for Single Page Applications (SPA).
+  Svelte router specially designed for Single Page Applications (SPA).
 - [`@spaceavocado/svelte-router`](https://github.com/spaceavocado/svelte-router)<sub>@spaceavocado</sub> -
   Simple Svelte Router for Single Page Applications (SPA).
 - [`svelte-page-router`](https://github.com/PaulMaly/svelte-page-router)<sub>@PaulMaly</sub> -
-  Simple config-based router with DX similar to VueRouter. Works well on the server-side. Supports `preload` function (Sapper-like) to load page data before rendering.
+  Simple config-based router with DX similar to VueRouter. Works well on the server-side.
 - [`svelte-router`](https://github.com/jikkai/svelte-router)<sub>@jikkai</sub> -
   Router component for Svelte
 
@@ -296,12 +295,11 @@ this list of links, please feel free to open an
 - **[`@sveltejs/svelte-scroller`](https://github.com/sveltejs/svelte-scroller)<sub>@sveltejs</sub>** -
   A `<Scroller>` component for Svelte apps
 - **[`@sveltejs/svelte-subdivide`](https://github.com/sveltejs/svelte-subdivide)<sub>@sveltejs</sub>** -
-  A component for building Blender-style layouts in Svelte apps
-  <sub>(**VERSION 2** but included here anyway)</sub>
+  A component for building Blender-style layouts in Svelte apps<sub>(**VERSION 2**)</sub>
 - [`svelte-grid`](https://github.com/vaheqelyan/svelte-grid)<sub>@vaheqelyan</sub> -
   A responsive, draggable and resizable grid layout, for Svelte.
 - [`svelte-sortable-list`](https://github.com/brunomolteni/svelte-sortable-list)<sub>@brunomolteni</sub> -
-  A Svelte 3 component that implements a list with animated drag-n-drop functionality.
+  A list with animated drag-n-drop functionality.
 - [`@beyonk/svelte-carousel`](https://github.com/beyonk-adventures/svelte-carousel)<sub>@beyonk-adventures</sub> -
   A super lightweight, super simple carousel for Svelte 3
 - [`multicarousel`](https://github.com/sciactive/multicarousel)<sub>@sciactive</sub> -
@@ -348,7 +346,7 @@ this list of links, please feel free to open an
 ### notification components
 
 - [`@beyonk/svelte-notifications`](https://github.com/beyonk-adventures/svelte-notifications)<sub>@beyonk-adventures</sub> -
-  Svelte toast notifications component that can be used in any JS application
+  Svelte toast notifications that can be used in any JS application
 - [`svelte-notifications`](https://github.com/keenethics/svelte-notifications)<sub>@keenethics</sub> -
   Simple and flexible notifications system
 
@@ -398,7 +396,7 @@ this list of links, please feel free to open an
 ### misc components and integrations
 
 - **[`@sveltejs/svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
-  The <Repl> component used on the Svelte website
+  The `<Repl>` component used on the Svelte website
 - [`svelte-adapter`](https://github.com/pngwn/svelte-adapter)<sub>@pngwn</sub> -
   Use Svelte components with Vue and React
 - [`svelte-loadable`](https://github.com/kaisermann/svelte-loadable)<sub>@kaisermann</sub> -
@@ -433,8 +431,7 @@ this list of links, please feel free to open an
 - **[Svelte REPL](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
   The `<Repl>` component used on the Svelte website (<https://svelte.dev/repl>)
 - **[Svelte DBMonster](https://github.com/sveltejs/svelte-dbmonster)<sub>@sveltejs</sub>** -
-  Svelte implementation of DBMonster (<http://svelte-dbmonster.surge.sh>)
-  <sub>(**VERSION 2** but included here anyway)</sub>
+  Svelte implementation of DBMonster (<http://svelte-dbmonster.surge.sh>)<sub>(**VERSION 2**)</sub>
 - **[hn.svelte.dev](https://github.com/sveltejs/hn.svelte.dev)<sub>@sveltejs</sub>** -
   Hacker News clone built with Svelte and Sapper (<https://hn.svelte.dev>)
 - [svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions)<sub>@pngwn</sub> -
