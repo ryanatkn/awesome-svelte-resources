@@ -41,7 +41,6 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [social and 3rd party service components](#social-and-3rd-party-service-components)
   - [misc components and integrations](#misc-components-and-integrations)
 - [example app showcase :rainbow::sparkles:](#example-app-showcase)
-  - [closed-source showcase](#closed-source-showcase)
 - [native](#native)
 - [experiments](#experiments)
 - [media](#media)
@@ -445,13 +444,6 @@ this list of links, please feel free to open an
 - [Nomie](https://github.com/open-nomie/nomie)<sub>@brandoncorbin</sub> -
   Mood and Life Tracker built with Svelte
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
-
-### closed-source showcase
-
-- NYTimes article:
-  [A ‘Bridge’ to China, and Her Family’s Business, in the Trump Cabinet](https://www.nytimes.com/2019/06/02/us/politics/elaine-chao-china.html) -
-  Uses the experimental **[`@sveltejs/gl`](https://github.com/sveltejs/gl)**
-  to draw a 3d animated globe.
 
 ## native
 
