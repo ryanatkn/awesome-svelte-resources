@@ -266,7 +266,7 @@ filesystem-based routing solution along with a full app framework.
 ## components and library integrations
 
 If you have any submissions, updates, or ideas to improve
-the organization of these links, please feel free to open an
+this list of links, please feel free to open an
 [issue](https://github.com/ryanatkn/awesome-svelte-resources/issues) or
 [PR](https://github.com/ryanatkn/awesome-svelte-resources/pulls).
 
