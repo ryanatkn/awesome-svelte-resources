@@ -30,6 +30,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [ui component sets](#ui-component-sets)
   - [layout components](#layout-components)
   - [font and icon components](#font-and-icon-components)
+  - [form validators and helpers](#form-validators-and-helpers)
   - [image components](#image-components)
   - [chart components](#chart-components)
   - [time and date components](#time-and-date-components)
@@ -319,6 +320,15 @@ this list of links, please feel free to open an
   Font Awesome 5 for Svelte
 - [`svelte-feather-icons`](https://github.com/dylanblokhuis/svelte-feather-icons)<sub>@dylanblokhuis</sub> -
   Feather icons for Svelte
+
+### form validators and helpers
+
+See the [ui component sets](#ui-component-sets) section for more.
+
+- [`@spaceavocado/svelte-form`](https://github.com/spaceavocado/svelte-form)<sub>@spaceavocado</sub> -
+  Simple Svelte form model handler and input validations.
+- [`svelte-forms`](https://github.com/chainlist/svelte-forms)<sub>@chainlist</sub> -
+  Svelte forms validation made easy
 
 ### image components
 
