@@ -507,4 +507,8 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Svelte Status](http://www.sveltestatus.com/) -
   Weekly curated blogs and tools for Svelte developers.
 
-# [:sunflower:](license)
+## license
+
+[CC0](license) (public domain)
+
+# [:sunflower:](#awesome-svelte-resources)
