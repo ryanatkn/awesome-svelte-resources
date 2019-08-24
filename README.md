@@ -183,9 +183,9 @@ npx degit sveltejs/template svelte-app
 - [antony/svelte-box](https://github.com/antony/svelte-box) -
   A truffle box for Svelte, a seed for building an Ethereum dapp using Truffle
 - [spaceavocado/svelte-router-template](https://github.com/spaceavocado/svelte-router-template) -
-  Boilerplate template project for spaceavocado/svelte-router - Simple Svelte Router for Single Page Applications (SPA).
+  Boilerplate template project for SPA router spaceavocado/svelte-router
 - [beyonk-adventures/svelte-component-livereload-template](https://github.com/beyonk-adventures/svelte-component-livereload-template) -
-  Svelte component template with LiveReload and Jest unit testing
+  Component template with LiveReload and Jest unit testing
 - [patoi/svelte-component-library-template](https://github.com/patoi/svelte-component-library-template) -
   A base for building Svelte component library.
 - [brandonxiang/svelte-webpack-mpa](https://github.com/brandonxiang/svelte-webpack-mpa) -
