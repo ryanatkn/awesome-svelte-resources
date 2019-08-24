@@ -129,79 +129,82 @@ those projects are listed under [misc components](#components).
 
 ## templates
 
-To avoid downloading a template's typically-useless git history,
+To avoid downloading a template's git history,
 installation via [`degit`](https://github.com/Rich-Harris/degit) is recommended:
-`npx degit sveltejs/template svelte-app`.
 
-- **[template](https://github.com/sveltejs/template)<sub>@sveltejs</sub>** -
+```bash
+npx degit sveltejs/template svelte-app
+```
+
+- **[sveltejs/template](https://github.com/sveltejs/template)** -
   Template for building basic applications with Svelte with rollup
-- **[template-webpack](https://github.com/sveltejs/template-webpack)<sub>@sveltejs</sub>** -
+- **[sveltejs/template-webpack](https://github.com/sveltejs/template-webpack)** -
   Template for building basic Svelte applications with webpack
-- **[component-template](https://github.com/sveltejs/component-template)<sub>@sveltejs</sub>** -
+- **[sveltejs/component-template](https://github.com/sveltejs/component-template)** -
   A base for building shareable Svelte components
-- **[template-custom-element](https://github.com/sveltejs/template-custom-element)<sub>@sveltejs</sub>** -
+- **[sveltejs/template-custom-element](https://github.com/sveltejs/template-custom-element)** -
   Template for building basic applications with Svelte and custom elements
-- **[sapper-template](https://github.com/sveltejs/sapper-template)<sub>@sveltejs</sub>** -
+- **[sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)** -
   Starter template for Sapper apps
-- [svelte-typescript](https://github.com/pyoner/svelte-typescript)<sub>@pyoner</sub> -
+- [pyoner/svelte-typescript](https://github.com/pyoner/svelte-typescript) -
   Typescript monorepo for Svelte v3 (preprocess, template, types)
-- [svelte-ts-template](https://github.com/Axelen123/svelte-ts-template)<sub>@Axelen123</sub> -
+- [Axelen123/svelte-ts-template](https://github.com/Axelen123/svelte-ts-template) -
   Typescript template for Svelte v3
-- [svelte-play](https://github.com/Shyam-Chen/Svelte-Play)<sub>@Shyam-Chen</sub> -
+- [Shyam-Chen/svelte-play](https://github.com/Shyam-Chen/Svelte-Play) -
   A boilerplate for Svelte, Material, Babel, and PostCSS. Webpack
-- [svelte-starter-template](https://github.com/Holben888/svelte-starter-template)<sub>@Holben888</sub> -
+- [Holben888/svelte-starter-template](https://github.com/Holben888/svelte-starter-template) -
   A small starter template to get up and running with Svelte v3
-- [tailwindcss-svelte-starter](https://github.com/marcograhl/tailwindcss-svelte-starter)<sub>@marcograhl</sub> -
+- [marcograhl/tailwindcss-svelte-starter](https://github.com/marcograhl/tailwindcss-svelte-starter) -
   Tailwindcss v1 + Svelte v3 = <3
-- [svelte-tailwind-template](https://github.com/muhajirdev/svelte-tailwind-template)<sub>@muhajirdev</sub> -
+- [muhajirdev/svelte-tailwind-template](https://github.com/muhajirdev/svelte-tailwind-template) -
   Svelte + Tailwind = ❤
-- [svelte-template](https://github.com/fabiohvp/svelte-template)<sub>@fabiohvp</sub> -
+- [fabiohvp/svelte-template](https://github.com/fabiohvp/svelte-template) -
   Svelte with materializecss + tailwindcss
-- [svelte-3-rollup-typescript-vscode](https://github.com/geakstr/svelte-3-rollup-typescript-vscode)<sub>@geakstr</sub> -
+- [geakstr/svelte-3-rollup-typescript-vscode](https://github.com/geakstr/svelte-3-rollup-typescript-vscode) -
   Starter for Svelte 3/rollup/typescript/vscode
-- [svelte-firebase](https://github.com/jorgegorka/svelte-firebase)<sub>@jorgegorka</sub> -
+- [jorgegorka/svelte-firebase](https://github.com/jorgegorka/svelte-firebase) -
   A template to help you start developing SPAs with Svelte and Firebase.
-- [svelte-firebase-auth](https://github.com/ricalamino/svelte-firebase-auth)<sub>@ricalamino</sub> -
+- [ricalamino/svelte-firebase-auth](https://github.com/ricalamino/svelte-firebase-auth) -
   Svelte App with Firebase Authentication for all purposes
-- [svelte-component-template](https://github.com/YogliB/svelte-component-template)<sub>@YogliB</sub> -
+- [YogliB/svelte-component-template](https://github.com/YogliB/svelte-component-template) -
   A base for building shareable Svelte 3 components
-- [svelte-pouchdb-couchdb](https://github.com/neighbourhoodie/svelte-pouchdb-couchdb)<sub>@neighbourhoodie</sub> -
+- [neighbourhoodie/svelte-pouchdb-couchdb](https://github.com/neighbourhoodie/svelte-pouchdb-couchdb) -
   Offline-Capable todo list built with Svelte, PouchDB and CouchDB
-- [svelte-routing-template](https://github.com/OrdinaryJellyfish/svelte-routing-template)<sub>@OrdinaryJellyfish</sub> -
+- [OrdinaryJellyfish/svelte-routing-template](https://github.com/OrdinaryJellyfish/svelte-routing-template) -
   Svelte webpack template with routing and lazy-loading
-- [svelte-example-museums](https://github.com/angelozehr/svelte-example-museums)<sub>@angelozehr</sub> -
+- [angelozehr/svelte-example-museums](https://github.com/angelozehr/svelte-example-museums) -
   An example repo of a Svelte app that is IE11 compatible
-- [svelte-boilerplate](https://github.com/pankod/svelte-boilerplate)<sub>@pankod</sub> -
+- [pankod/svelte-boilerplate](https://github.com/pankod/svelte-boilerplate) -
   Svelte application boilerplate with Webpack, Sass, BabelJS, Fetch, PostCSS, Jest, .Env
-- [svelte-poi-starter](https://github.com/pbastowski/svelte-poi-starter)<sub>@pbastowski</sub> -
+- [pbastowski/svelte-poi-starter](https://github.com/pbastowski/svelte-poi-starter) -
   Svelte 3 starter with POI 12 and Prettier. Outputs web apps or web components.
-- [svelte-template-browserify](https://github.com/soapdog/svelte-template-browserify)<sub>@soapdog</sub> -
+- [soapdog/svelte-template-browserify](https://github.com/soapdog/svelte-template-browserify) -
   A Svelte template for browserify
-- [svelte-box](https://github.com/antony/svelte-box)<sub>@antony</sub> -
+- [antony/svelte-box](https://github.com/antony/svelte-box) -
   A truffle box for Svelte, a seed for building an Ethereum dapp using Truffle
-- [svelte-router-template](https://github.com/spaceavocado/svelte-router-template)<sub>@spaceavocado</sub> -
+- [spaceavocado/svelte-router-template](https://github.com/spaceavocado/svelte-router-template) -
   Boilerplate template project for spaceavocado/svelte-router - Simple Svelte Router for Single Page Applications (SPA).
-- [svelte-component-livereload-template](https://github.com/beyonk-adventures/svelte-component-livereload-template)<sub>@beyonk-adventures</sub> -
+- [beyonk-adventures/svelte-component-livereload-template](https://github.com/beyonk-adventures/svelte-component-livereload-template) -
   Svelte component template with LiveReload and Jest unit testing
-- [svelte-component-library-template](https://github.com/patoi/svelte-component-library-template)<sub>@patoi</sub> -
+- [patoi/svelte-component-library-template](https://github.com/patoi/svelte-component-library-template) -
   A base for building Svelte component library.
-- [svelte-webpack-mpa](https://github.com/brandonxiang/svelte-webpack-mpa)<sub>@brandonxiang</sub> -
+- [brandonxiang/svelte-webpack-mpa](https://github.com/brandonxiang/svelte-webpack-mpa) -
   A template to create multi-page application powered by Webpack
 
 ### electron
 
-- [svelte-template-electron](https://github.com/Rich-Harris/svelte-template-electron)<sub>@Rich-Harris</sub> -
+- [Rich-Harris/svelte-template-electron](https://github.com/Rich-Harris/svelte-template-electron) -
   A template for building Electron apps with Svelte<sub>(**VERSION 2**)</sub>
-- [Sveltron](https://github.com/Blade67/Sveltron)<sub>@Blade67</sub> -
+- [Blade67/Sveltron](https://github.com/Blade67/Sveltron) -
   Electron Svelte boilerplate
-- [svelte-electron-template](https://github.com/chuanqisun/svelte-electron-template)<sub>@chuanqisun</sub> -
+- [chuanqisun/svelte-electron-template](https://github.com/chuanqisun/svelte-electron-template) -
   The bare minimum boilerplate to use Svelte in electron
 
 ### mobile
 
-- [svelte-cordova](https://github.com/syonip/svelte-cordova)<sub>@syonip</sub> -
+- [syonip/svelte-cordova](https://github.com/syonip/svelte-cordova) -
   Starter template for Cordova featuring hot reload
-- [svelte-phonegap](https://github.com/lpshanley/svelte-phonegap)<sub>@lpshanley</sub> -
+- [lpshanley/svelte-phonegap](https://github.com/lpshanley/svelte-phonegap) -
   Template for building phonegap hybrid applications with Svelte
 
 ## testing
