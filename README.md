@@ -39,6 +39,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [internationalization components](#internationalization-components)
   - [store and state components](#store-and-state-components)
   - [interaction components](#interaction-components)
+  - [async loading components](#async-loading-components)
   - [social and 3rd party service components](#social-and-3rd-party-service-components)
   - [misc inputs and widgets](#misc-inputs-and-widgets)
   - [other components and integrations](#other-components-and-integrations)
@@ -397,6 +398,13 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`@beyonk/svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub> -
   Scroll Spy component for Svelte
 
+### async loading components
+
+- [`svelte-loadable`](https://github.com/kaisermann/svelte-loadable)<sub>@kaisermann</sub> -
+  Dynamically load a Svelte component
+- [`svelte-content-loader`](https://github.com/PaulMaly/svelte-content-loader)<sub>@PaulMaly</sub> -
+  SVG placeholder components for loading content
+
 ### social and 3rd party service components
 
 - [`@beyonk/svelte-google-analytics`](https://github.com/beyonk-adventures/svelte-google-analytics)<sub>@beyonk-adventures</sub> -
@@ -429,8 +437,6 @@ See the [ui component sets](#ui-component-sets) section for more.
   The `<Repl>` component used on the Svelte website
 - [`svelte-adapter`](https://github.com/pngwn/svelte-adapter)<sub>@pngwn</sub> -
   Use Svelte components with Vue and React
-- [`svelte-loadable`](https://github.com/kaisermann/svelte-loadable)<sub>@kaisermann</sub> -
-  Dynamically load a Svelte component
 - [`sveltedoc-parser`](https://github.com/alexprey/sveltedoc-parser)<sub>@alexprey</sub> -
   Generate a JSON documentation for a Svelte component
 - [`svelte-css-vars`](https://github.com/kaisermann/svelte-css-vars)<sub>@kaisermann</sub> -
