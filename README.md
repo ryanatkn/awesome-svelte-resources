@@ -418,6 +418,8 @@ See the [ui component sets](#ui-component-sets) section for more.
 
 ### misc inputs and widgets
 
+- **[`@sveltejs/svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
+  The `<Repl>` component used on the Svelte website
 - [`svelte-color-picker`](https://github.com/qintarp/svelte-color-picker)<sub>@qintarp</sub> -
   A color picker component for Svelte
 - [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
@@ -433,8 +435,6 @@ See the [ui component sets](#ui-component-sets) section for more.
 
 ### other components and integrations
 
-- **[`@sveltejs/svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
-  The `<Repl>` component used on the Svelte website
 - [`svelte-adapter`](https://github.com/pngwn/svelte-adapter)<sub>@pngwn</sub> -
   Use Svelte components with Vue and React
 - [`sveltedoc-parser`](https://github.com/alexprey/sveltedoc-parser)<sub>@alexprey</sub> -
