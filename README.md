@@ -194,7 +194,7 @@ npx degit sveltejs/template svelte-app
 ### electron templates
 
 - [Rich-Harris/svelte-template-electron](https://github.com/Rich-Harris/svelte-template-electron) -
-  A template for building Electron apps with Svelte<sub>(**VERSION 2**)</sub>
+  A template for building Electron apps with Svelte (**VERSION 2**)
 - [Blade67/Sveltron](https://github.com/Blade67/Sveltron) -
   Electron Svelte boilerplate
 - [chuanqisun/svelte-electron-template](https://github.com/chuanqisun/svelte-electron-template) -
@@ -301,7 +301,7 @@ this list of links, please feel free to open an
 - **[`@sveltejs/svelte-scroller`](https://github.com/sveltejs/svelte-scroller)<sub>@sveltejs</sub>** -
   A `<Scroller>` component for Svelte apps
 - **[`@sveltejs/svelte-subdivide`](https://github.com/sveltejs/svelte-subdivide)<sub>@sveltejs</sub>** -
-  A component for building Blender-style layouts in Svelte apps<sub>(**VERSION 2**)</sub>
+  A component for building Blender-style layouts in Svelte apps (**VERSION 2**)
 - [`svelte-grid`](https://github.com/vaheqelyan/svelte-grid)<sub>@vaheqelyan</sub> -
   A responsive, draggable and resizable grid layout, for Svelte.
 - [`svelte-sortable-list`](https://github.com/brunomolteni/svelte-sortable-list)<sub>@brunomolteni</sub> -
@@ -459,7 +459,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - **[Svelte REPL](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
   The `<Repl>` component used on the Svelte website (<https://svelte.dev/repl>)
 - **[Svelte DBMonster](https://github.com/sveltejs/svelte-dbmonster)<sub>@sveltejs</sub>** -
-  Svelte implementation of DBMonster (<http://svelte-dbmonster.surge.sh>)<sub>(**VERSION 2**)</sub>
+  Svelte implementation of DBMonster (<http://svelte-dbmonster.surge.sh>) (**VERSION 2**)
 - **[hn.svelte.dev](https://github.com/sveltejs/hn.svelte.dev)<sub>@sveltejs</sub>** -
   Hacker News clone built with Svelte and Sapper (<https://hn.svelte.dev>)
 - [svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions)<sub>@pngwn</sub> -
