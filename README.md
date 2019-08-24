@@ -20,8 +20,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [editor tools](#editor-tools)
 - [web app frameworks](#web-app-frameworks)
 - [templates](#templates)
-  - [electron](#electron)
-  - [mobile](#mobile)
+  - [electron templates](#electron-templates)
+  - [mobile templates](#mobile-templates)
 - [testing](#testing)
 - **[routers](#routers)**
   - [Svelte-specific routing](#svelte-specific-routing)
