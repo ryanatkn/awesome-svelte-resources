@@ -191,7 +191,7 @@ npx degit sveltejs/template svelte-app
 - [brandonxiang/svelte-webpack-mpa](https://github.com/brandonxiang/svelte-webpack-mpa) -
   A template to create multi-page application powered by Webpack
 
-### electron
+### electron templates
 
 - [Rich-Harris/svelte-template-electron](https://github.com/Rich-Harris/svelte-template-electron) -
   A template for building Electron apps with Svelte<sub>(**VERSION 2**)</sub>
@@ -200,7 +200,7 @@ npx degit sveltejs/template svelte-app
 - [chuanqisun/svelte-electron-template](https://github.com/chuanqisun/svelte-electron-template) -
   The bare minimum boilerplate to use Svelte in electron
 
-### mobile
+### mobile templates
 
 - [syonip/svelte-cordova](https://github.com/syonip/svelte-cordova) -
   Starter template for Cordova featuring hot reload
