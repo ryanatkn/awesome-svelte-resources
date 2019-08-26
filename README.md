@@ -257,6 +257,8 @@ filesystem-based routing solution along with a full app framework.
   Simple config-based router with DX similar to VueRouter. Works well on the server-side.
 - [`svelte-router`](https://github.com/jikkai/svelte-router)<sub>@jikkai</sub> -
   Router component for Svelte
+- [`svelte-navaid`](https://github.com/jacwright/svelte-navaid)<sub>@jacwright</sub> -
+  A Svelte router powered by [lukeed/navaid](https://github.com/lukeed/navaid)
 
 ### generic routing
 
