@@ -444,6 +444,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Generate a JSON documentation for a Svelte component
 - [`prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte)<sub>@UnwrittenFun</sub> -
   Format your Svelte components using Prettier.
+- [`svelte-inspector`](https://github.com/qutran/svelte-inspector)<sub>@qutran</sub> -
+  Development helper for inspecting and opening Svelte components in your editor
 
 ### other components and integrations
 
