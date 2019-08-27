@@ -438,7 +438,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar)<sub>@okrad</sub> -
   A multiseries, SVG progressbar component made with Svelte
 
-## development and documentation libraries
+### development and documentation libraries
 
 - [`sveltedoc-parser`](https://github.com/alexprey/sveltedoc-parser)<sub>@alexprey</sub> -
   Generate a JSON documentation for a Svelte component
