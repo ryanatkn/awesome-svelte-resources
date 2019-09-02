@@ -194,6 +194,8 @@ npx degit sveltejs/template svelte-app
   A base for building Svelte component library.
 - [brandonxiang/svelte-webpack-mpa](https://github.com/brandonxiang/svelte-webpack-mpa) -
   A template to create multi-page application powered by Webpack
+- [jerriclynsjohn/svelte-storybook-tailwind](https://github.com/jerriclynsjohn/svelte-storybook-tailwind) -
+  Svelte + Storybook + Tailwind - Starter Template
 
 ### electron templates
 
