@@ -435,14 +435,14 @@ See the [ui component sets](#ui-component-sets) section for more.
   A select component for Svelte apps
 - [`svelte-rate-it`](https://github.com/emrekara37/svelte-rate-it)<sub>@emrekara37</sub> -
   A rate component for Svelte apps
+- [`waxwing-rating`](https://github.com/dmitrykurmanov/waxwing-rating)<sub>@dmitrykurmanov</sub> -
+  rating widget for the web
 - [`@beyonk/gdpr-cookie-consent-banner`](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner)<sub>@beyonk-adventures</sub> -
   A GDPR compliant cookie consent banner implementation
 - [`svelte-inspect`](https://github.com/trbrc/svelte-inspect)<sub>@trbrc</sub> -
   console.log()-like interactive inspector for Svelte 3
 - [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar)<sub>@okrad</sub> -
   A multiseries, SVG progressbar component made with Svelte
-- [`waxwing-rating`](https://github.com/dmitrykurmanov/waxwing-rating)<sub>@dmitrykurmanov</sub> -
-  rating widget for the web
 
 ### development and documentation libraries
 
