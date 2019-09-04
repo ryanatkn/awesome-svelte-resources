@@ -322,6 +322,8 @@ this list of links, please feel free to open an
   A dependency free multiple item JavaScript carousel.
 - [`svelte-tabs`](https://github.com/joeattardi/svelte-tabs)<sub>@joeattardi</sub> -
   Tabs component for Svelte
+- [`svelte-media-query`](https://github.com/xelaok/svelte-media-query)<sub>@xelaok</sub> -
+  CSS media queries in Svelte
 
 ### font and icon components
 
