@@ -198,6 +198,8 @@ npx degit sveltejs/template svelte-app
   Svelte + Storybook + Tailwind - Starter Template
 - [farhan2106/svelte-typescript](https://github.com/farhan2106/svelte-typescript) -
   Typescript + Storybook + Webpack boilerplate
+- [farhan2106/svelte-typescript-ssr](https://github.com/farhan2106/svelte-typescript-ssr) -
+  Typescript + Storybook + Webpack with SSR boilerplate
 
 ### electron templates
 
