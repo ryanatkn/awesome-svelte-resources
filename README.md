@@ -520,6 +520,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [The Undefined Podcast #8 - Fake News and Frameworks with NYTimes Rich Harris](https://undefined.fm/radio/fake-news-and-frameworks-with-nytimes-rich-harris/)
 - [Toolsday #93 - Svelte](https://spec.fm/podcasts/toolsday/293076)
 - [Harry Wolff - A Svelte Chat with Rich Harris!](https://www.youtube.com/watch?v=48gHuY4w0hY)
+- [The Frontside Podcast - Svelte and Reactivity with Rich Harris](https://frontside.io/podcast/svelte-and-reactivity-with-rich-harris/)
 
 ## other lists and resources
 
