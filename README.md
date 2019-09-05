@@ -196,6 +196,8 @@ npx degit sveltejs/template svelte-app
   A template to create multi-page application powered by Webpack
 - [jerriclynsjohn/svelte-storybook-tailwind](https://github.com/jerriclynsjohn/svelte-storybook-tailwind) -
   Svelte + Storybook + Tailwind - Starter Template
+- [farhan2106/svelte-typescript](https://github.com/farhan2106/svelte-typescript) -
+  Typescript + Storybook + Webpack boilerplate
 
 ### electron templates
 
