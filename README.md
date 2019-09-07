@@ -28,7 +28,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [generic routing](#generic-routing)
 - [components and library integrations](#components-and-library-integrations)
   - [ui component sets](#ui-component-sets)
-  - [layout components](#layout-components)
+  - [layout components and helpers](#layout-components-and-helpers)
   - [font and icon components](#font-and-icon-components)
   - [form validators and helpers](#form-validators-and-helpers)
   - [image components](#image-components)
@@ -308,7 +308,7 @@ this list of links, please feel free to open an
 - [`svelte-ui`](https://github.com/vikignt/svelte-ui)<sub>@vikignt</sub> -
   Simple Svelte 3 UI components
 
-### layout components
+### layout components and helpers
 
 - **[`@sveltejs/svelte-virtual-list`](https://github.com/sveltejs/svelte-virtual-list)<sub>@sveltejs</sub>** -
   A virtual list component for Svelte apps
@@ -328,6 +328,8 @@ this list of links, please feel free to open an
   Tabs component for Svelte
 - [`svelte-media-query`](https://github.com/xelaok/svelte-media-query)<sub>@xelaok</sub> -
   CSS media queries in Svelte
+- [`svelte-match-media`](https://github.com/pearofducks/svelte-match-media)<sub>@pearofducks</sub> -
+  a matchMedia plugin for Svelte 3
 
 ### font and icon components
 
