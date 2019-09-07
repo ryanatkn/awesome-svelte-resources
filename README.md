@@ -37,7 +37,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [notification components](#notification-components)
   - [map components](#map-components)
   - [internationalization components](#internationalization-components)
-  - [store and state components](#store-and-state-components)
+  - [store and state components and libraries](#store-and-state-components-and-libraries)
   - [interaction components](#interaction-components)
   - [async loading components](#async-loading-components)
   - [social and 3rd party service components](#social-and-3rd-party-service-components)
@@ -397,7 +397,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`svelte-intl`](https://github.com/Panya/svelte-intl)<sub>@Panya</sub> -
   Internationalize your Svelte apps using format-message and Intl object
 
-### store and state components
+### store and state components and libraries
 
 - [`svelte-writable-derived`](https://github.com/PikadudeNo1/svelte-writable-derived)<sub>@PikadudeNo1</sub> -
   Two-way data-transforming stores.
@@ -407,6 +407,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Build cybernetically enhanced web apps with Meteor and Svelte.
 - [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
   Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
+- [`svelte-observable`](https://github.com/timhall/svelte-observable)<sub>@timhall</sub> -
+  Use observables in Svelte components with ease.
 
 ### interaction components
 
