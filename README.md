@@ -405,12 +405,15 @@ See the [ui component sets](#ui-component-sets) section for more.
   Two-way data-transforming stores.
 - [`svelte-apollo`](https://github.com/timhall/svelte-apollo)<sub>@timhall</sub> -
   Svelte integration for Apollo GraphQL
-- [Svelte for Meteor](https://github.com/meteor-svelte/meteor-svelte)<sub>@meteor-svelte</sub> -
+- [`Svelte for Meteor`](https://github.com/meteor-svelte/meteor-svelte)<sub>@meteor-svelte</sub> -
   Build cybernetically enhanced web apps with Meteor and Svelte.
 - [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
   Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
 - [`svelte-observable`](https://github.com/timhall/svelte-observable)<sub>@timhall</sub> -
   Use observables in Svelte components with ease.
+- [`svelte-mobx`](https://github.com/xelaok/svelte-mobx)<sub>@xelaok</sub> -
+  Reactive MVVM with MobX & Svelte.
+  
 
 ### interaction components
 
