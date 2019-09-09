@@ -330,6 +330,8 @@ this list of links, please feel free to open an
   CSS media queries in Svelte
 - [`svelte-match-media`](https://github.com/pearofducks/svelte-match-media)<sub>@pearofducks</sub> -
   a matchMedia plugin for Svelte 3
+- [`svelte-watch-resize`](https://github.com/xelaok/svelte-watch-resize)<sub>@xelaok</sub> -
+  Watch element resize in Svelte
 
 ### font and icon components
 
