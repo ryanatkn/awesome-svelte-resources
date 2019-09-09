@@ -391,6 +391,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Mapbox integration for Svelte.
 - [`@beyonk/svelte-googlemaps`](https://github.com/beyonk-adventures/svelte-googlemaps)<sub>@beyonk-adventures</sub> -
   Google Maps integration for Svelte.
+- [`svelte-pick-a-place`](https://github.com/jimutt/svelte-pick-a-place)<sub>@jimutt</sub> -
+  Svelte component for position and area selection with Leaflet.
 
 ### internationalization components
 
