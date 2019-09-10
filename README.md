@@ -50,6 +50,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [media](#media)
   - [videos](#videos)
   - [podcasts](#podcasts)
+- [communities](#communities)
 - [other lists and resources](#other-lists-and-resources)
 
 > notes
@@ -516,7 +517,6 @@ See the [ui component sets](#ui-component-sets) section for more.
 
 - **[Svelte's official blog](https://svelte.dev/blog)**
 - **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
-- unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
 
 ### videos
 
@@ -531,6 +531,12 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Toolsday #93 - Svelte](https://spec.fm/podcasts/toolsday/293076)
 - [Harry Wolff - A Svelte Chat with Rich Harris!](https://www.youtube.com/watch?v=48gHuY4w0hY)
 - [The Frontside Podcast - Svelte and Reactivity with Rich Harris](https://frontside.io/podcast/svelte-and-reactivity-with-rich-harris/)
+
+## communities
+
+- **[official Discord chat](https://svelte.dev/chat)**
+- **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
+- unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
 
 ## other lists and resources
 
