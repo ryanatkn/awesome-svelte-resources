@@ -336,6 +336,8 @@ this list of links, please feel free to open an
 
 ### font and icon components
 
+- [`svelte-icons`](https://github.com/gibdig/svelte-icons)<sub>@gibdig</sub> -
+  Icon components for Svelte, featuring many icon sets
 - [`svelte-awesome`](https://github.com/RobBrazier/svelte-awesome)<sub>@RobBrazier</sub> -
   Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
 - [`svelte-fa`](https://github.com/Cweili/svelte-fa)<sub>@Cweili</sub> -
