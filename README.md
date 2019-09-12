@@ -537,6 +537,10 @@ See the [ui component sets](#ui-component-sets) section for more.
 - **[official Discord chat](https://svelte.dev/chat)**
 - **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
 - unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
+- telegram
+  - [:ru: telegram-chat - Svelte [svelt]](https://t.me/sveltejs) | `1000+ users`
+  - [:mega: Svelte [svelt] Public](https://t.me/sveltejs_public)
+  - [:moneybag: Svelte Jobs](https://t.me/sveltejs_jobs)
 
 ## other lists and resources
 
