@@ -23,7 +23,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [electron templates](#electron-templates)
   - [mobile templates](#mobile-templates)
 - [testing](#testing)
-- **[routers](#routers)**
+- [routers](#routers)
   - [Svelte-specific routing](#svelte-specific-routing)
   - [generic routing](#generic-routing)
 - [components and library integrations](#components-and-library-integrations)
