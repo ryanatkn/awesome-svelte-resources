@@ -478,6 +478,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Format your Svelte components using Prettier.
 - [`svelte-inspector`](https://github.com/qutran/svelte-inspector)<sub>@qutran</sub> -
   Development helper for inspecting and opening Svelte components in your editor
+- [`svelte-dev-helper`](https://github.com/ekhaled/svelte-dev-helper)<sub>@ekhaled</sub> -
+  Helper for Svelte components to ease development. Used by `svelte-loader`
 
 ### other components and integrations
 
