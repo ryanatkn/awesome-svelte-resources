@@ -1,11 +1,11 @@
-# contributing to awesome-svelte-resources
+# contributing to _awesome-svelte-resources_
 
 Hi, welcome! We're glad you stopped by.
 This project tries to represent Svelte's community and resources as best it can,
 given the limitations of a single markdown file.
 Eventually, [a featureful website](https://github.com/sveltejs/svelte/issues/1070)
 will probably supplant this project,
-but until then, your help is appreciated to assist organizing information
+but until then, your help is appreciated in organizing information
 for this awesome and growing community.
 
 Please feel free to open any issues or pull requests you think are appropriate.
