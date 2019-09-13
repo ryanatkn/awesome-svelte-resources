@@ -5,6 +5,7 @@
 > useful resources for [Svelte](https://svelte.dev) v3+
 
 Please feel free to submit anything you find useful or interesting.
+See [contributing.md](contributing.md) for more.
 
 For [Sapper](https://github.com/sveltejs/sapper) resources,
 check out _(insert link here if someone makes it)_.
@@ -55,11 +56,9 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 
 > notes
 >
-> - Project names formatted with `backticks` are installable via
->   [npm](https://www.npmjs.com/), and include any user/org scope.
+> - See [contributing.md](contributing.md) for submission info.
 > - Needs more links. Send pulls and issues!
 > - Many project descriptions could be updated, clarified, expanded, etc.
-> - Some sections need better organization, or at least more subheadings.
 > - If a project fails to meet acceptable quality standards,
 >   please open an issue or PR to discuss removing it.
 
