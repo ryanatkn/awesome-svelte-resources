@@ -220,7 +220,7 @@ npx degit sveltejs/template svelte-app
 ## testing
 
 - [`@testing-library/svelte`](https://github.com/testing-library/svelte-testing-library)<sub>@testing-library</sub> -
-  :chipmunk: Simple and complete Svelte DOM testing utilities that encourage good testing practices
+  Simple and complete Svelte DOM testing utilities that encourage good testing practices
 - [`jest-transform-svelte`](https://github.com/rspieker/jest-transform-svelte)<sub>@rspieker</sub> -
   Jest Transformer for Svelte components
 - [`svelte-test`](https://github.com/pngwn/svelte-test)<sub>@pngwn</sub> -
@@ -369,7 +369,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 ### chart components
 
 - [`echarts-for-svelte`](https://github.com/liyuanqiu/echarts-for-svelte)<sub>@liyuanqiu</sub> -
-  :chart_with_upwards_trend: Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper.
+  Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper.
 - [`svelte-fusioncharts`](https://github.com/priyanjitdey94/svelte-fusioncharts)<sub>@priyanjitdey94</sub> -
   Svelte component for FusionCharts JavaScript charting library
 
