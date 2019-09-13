@@ -29,6 +29,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [generic routing](#generic-routing)
 - [components and library integrations](#components-and-library-integrations)
   - [ui component sets](#ui-component-sets)
+  - [web component sets](#web-component-sets)
   - [layout components and helpers](#layout-components-and-helpers)
   - [font and icon components](#font-and-icon-components)
   - [form validators and helpers](#form-validators-and-helpers)
@@ -307,6 +308,11 @@ this list of links, please feel free to open an
   Bootstrap 4 components for Svelte
 - [`svelte-ui`](https://github.com/vikignt/svelte-ui)<sub>@vikignt</sub> -
   Simple Svelte 3 UI components
+
+### web component sets
+
+- [`zoo-web-components`](https://github.com/zooplus/zoo-web-components)<sub>@zooplus</sub> -
+  Web-components library built with Svelte.
 
 ### layout components and helpers
 
