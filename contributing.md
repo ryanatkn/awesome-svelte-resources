@@ -17,6 +17,7 @@ discussion and questioning any assumptions.
 - Project names formatted with `backticks` should be installable via
   [npm](https://www.npmjs.com/), and include any user/org scope.
 - **Bold text** is reserved for official Svelte resources.
+- Project descriptions should fit on a single line on GitHub's desktop layout.
 - If a project fails to meet acceptable quality standards,
   please open an issue or PR to discuss removing it.
 - This repo is licensed in the public domain,
