@@ -271,6 +271,8 @@ filesystem-based routing solution along with a full app framework.
   A Svelte router powered by [lukeed/navaid](https://github.com/lukeed/navaid)
 - [`@slick-for/svelte`](https://github.com/shavyg2/slick-for-svelte)<sub>@shavyg2</sub> -
   Manage your views and routing using class decorators and dependency injection
+- [`crayon-svelte`](https://github.com/alshdavid/crayon)<sub>@alshdavid</sub> -
+  Framework agnostic UI router for SPAs with specific support for Svelte
 
 ### generic routing
 
