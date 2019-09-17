@@ -44,7 +44,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [async loading components](#async-loading-components)
   - [social and 3rd party service components](#social-and-3rd-party-service-components)
   - [misc inputs and widgets](#misc-inputs-and-widgets)
-  - [development and documentation libraries](#development-and-documentation-libraries)
+  - [development and documentation tools](#development-and-documentation-tools)
   - [other components and integrations](#other-components-and-integrations)
 - [native](#native)
 - [experiments](#experiments)
@@ -470,8 +470,10 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar)<sub>@okrad</sub> -
   A multiseries, SVG progressbar component made with Svelte
 
-### development and documentation libraries
+### development and documentation tools
 
+- [Svelte DevTools](https://github.com/RedHatter/svelte-devtools)<sub>@RedHatter</sub> -
+  Chrome/Firefox extension that allows inspection of Svelte components and state
 - [`sveltedoc-parser`](https://github.com/alexprey/sveltedoc-parser)<sub>@alexprey</sub> -
   Generate a JSON documentation for a Svelte component
 - [`prettier-plugin-svelte`](https://github.com/UnwrittenFun/prettier-plugin-svelte)<sub>@UnwrittenFun</sub> -
