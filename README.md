@@ -362,6 +362,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Simple Svelte form model handler and input validations.
 - [`svelte-forms`](https://github.com/chainlist/svelte-forms)<sub>@chainlist</sub> -
   Svelte forms validation made easy
+- [`svelte-forms-lib`](https://github.com/tjinauyeung/svelte-forms-lib)<sub>@tjinauyeung</sub> -
+  A lightweight library for managing forms in Svelte
 
 ### image components
 
