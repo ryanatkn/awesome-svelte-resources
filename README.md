@@ -227,7 +227,7 @@ npx degit sveltejs/template svelte-app
 ## testing
 
 - [`@testing-library/svelte`](https://github.com/testing-library/svelte-testing-library)<sub>@testing-library</sub> -
-  Simple and complete Svelte DOM testing utilities that encourage good testing practices
+  Simple and complete DOM testing utilities that encourage good practices.
 - [`jest-transform-svelte`](https://github.com/rspieker/jest-transform-svelte)<sub>@rspieker</sub> -
   Jest Transformer for Svelte components
 - [`svelte-test`](https://github.com/pngwn/svelte-test)<sub>@pngwn</sub> -
@@ -285,7 +285,7 @@ filesystem-based routing solution along with a full app framework.
 - [`navaid`](https://github.com/lukeed/navaid)<sub>@lukeed</sub> -
   A navigation aid (aka, router) for the browser in 850 bytes~!
 - [`abstract-state-router`](https://github.com/TehShrike/abstract-state-router)<sub>@TehShrike</sub> -
-  Like ui-router, but without all the Angular. The best way to structure a single-page webapp.
+  Like ui-router, but without all the Angular. The best way to structure a SPA.
 - [`page`](https://github.com/visionmedia/page.js/)<sub>@visionmedia</sub> -
   Micro client-side router inspired by the Express router
 - [`router5`](https://github.com/router5/router5)<sub>@router5</sub> -
@@ -378,7 +378,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`svelte-image`](https://github.com/matyunya/svelte-image)<sub>@matyunya</sub> -
   Image processing with Sharp for Svelte
 - [`svelte-image-encoder`](https://github.com/saabi/svelte-image-encoder)<sub>@saabi</sub> -
-  An `<ImgEncoder>` Svelte component for editing and compressing profile pictures before upload to a server.
+  An `<ImgEncoder>` component for editing and compressing profile pictures
 - [`svelte-easy-crop`](https://github.com/ValentinH/svelte-easy-crop)<sub>@ValentinH</sub> -
   A Svelte component to crop images with easy interactions
 
@@ -428,7 +428,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Svelte for Meteor](https://github.com/meteor-svelte/meteor-svelte)<sub>@meteor-svelte</sub> -
   Build cybernetically enhanced web apps with Meteor and Svelte.
 - [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
-  Allows Firefox/Chrome extension authors to make writable stores based on `chrome.storage`.
+  Writable stores based on `chrome.storage` for Firefox/Chrome extensions.
 - [`svelte-observable`](https://github.com/timhall/svelte-observable)<sub>@timhall</sub> -
   Use observables in Svelte components with ease.
 - [`svelte-mobx`](https://github.com/xelaok/svelte-mobx)<sub>@xelaok</sub> -
