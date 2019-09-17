@@ -50,8 +50,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [experiments](#experiments)
 - [example app showcase :rainbow::sparkles:](#example-app-showcase)
 - [media](#media)
-  - [videos](#videos)
-  - [podcasts](#podcasts)
+  - [talks](#talks)
+  - [podcasts and other videos](#podcasts-and-other-videos)
 - [communities](#communities)
 - [other lists and resources](#other-lists-and-resources)
 
@@ -529,12 +529,12 @@ See the [ui component sets](#ui-component-sets) section for more.
 - **[Svelte's official blog](https://svelte.dev/blog)**
 - **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
 
-### videos
+### talks
 
 - [Rich Harris - Rethinking reactivity - YGLF 2019](https://www.youtube.com/watch?v=AdNJ3fydeao)
 - [Rich Harris - Computer, build me an app - JSConf EU 2018](https://www.youtube.com/watch?v=qqt6YxAZoOc)
 
-### podcasts
+### podcasts and other videos
 
 - [Shop Talk #349 - Talking Svelte with Rich Harris](https://shoptalkshow.com/episodes/349/)
 - [devmode.fm #44 - Svelte 3’s radical new approach to web frameworks](https://devmode.fm/episodes/svelte-3s-radical-new-approach-to-web-frameworks)
@@ -542,6 +542,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Toolsday #93 - Svelte](https://spec.fm/podcasts/toolsday/293076)
 - [Harry Wolff - A Svelte Chat with Rich Harris!](https://www.youtube.com/watch?v=48gHuY4w0hY)
 - [The Frontside Podcast - Svelte and Reactivity with Rich Harris](https://frontside.io/podcast/svelte-and-reactivity-with-rich-harris/)
+- [egghead.io - Svelte 3 with Rich Harris](https://egghead.io/lessons/egghead-svelte-3-with-rich-harris)
 
 ## communities
 
