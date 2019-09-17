@@ -201,6 +201,8 @@ npx degit sveltejs/template svelte-app
   Typescript + Storybook + Webpack boilerplate
 - [farhan2106/svelte-typescript-ssr](https://github.com/farhan2106/svelte-typescript-ssr) -
   Typescript + Storybook + Webpack with SSR boilerplate
+- [n0th1ng-else/svelte-typescript-sass](https://github.com/n0th1ng-else/svelte-typescript-sass) -
+  Boilerplate code with Typescript and Sass bundled by Webpack
 
 ### electron templates
 
