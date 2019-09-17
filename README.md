@@ -165,6 +165,8 @@ npx degit sveltejs/template svelte-app
   Svelte + Tailwind = ❤
 - [fabiohvp/svelte-template](https://github.com/fabiohvp/svelte-template) -
   Svelte with materializecss + tailwindcss
+- [justinekizhak/svelte-tailwind-template](https://github.com/justinekizhak/svelte-tailwind-template) -
+  SvelteJS and TailwindCSS template
 - [geakstr/svelte-3-rollup-typescript-vscode](https://github.com/geakstr/svelte-3-rollup-typescript-vscode) -
   Starter for Svelte 3/rollup/typescript/vscode
 - [jorgegorka/svelte-firebase](https://github.com/jorgegorka/svelte-firebase) -
