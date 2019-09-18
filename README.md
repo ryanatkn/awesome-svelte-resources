@@ -316,6 +316,8 @@ this list of links, please feel free to open an
   Bootstrap 4 components for Svelte
 - [`svelte-ui`](https://github.com/vikignt/svelte-ui)<sub>@vikignt</sub> -
   Simple Svelte 3 UI components
+- [`svmd`](https://github.com/hkh12/svmd)<sub>@hkh12</sub> -
+  Easy-to-use, Customizable Material Design components for Svelte.
 
 ### web component sets
 
