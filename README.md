@@ -28,7 +28,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [routers](#routers)
   - [Svelte-specific routing](#svelte-specific-routing)
   - [generic routing](#generic-routing)
-- [components and library integrations](#components-and-library-integrations)
+- [components and libraries](#components-and-libraries)
   - [ui component sets](#ui-component-sets)
   - [web component sets](#web-component-sets)
   - [layout components and helpers](#layout-components-and-helpers)
@@ -46,7 +46,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [social and 3rd party service components](#social-and-3rd-party-service-components)
   - [misc inputs and widgets](#misc-inputs-and-widgets)
   - [development and documentation tools](#development-and-documentation-tools)
-  - [other components and integrations](#other-components-and-integrations)
+  - [other components and libraries](#other-components-and-libraries)
 - [native](#native)
 - [experiments](#experiments)
 - [example app showcase :rainbow::sparkles:](#example-app-showcase)
@@ -113,7 +113,7 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
   Typescript monorepo for Svelte v3 (preprocess, template, types)
 
 Some components are bundled with specific preprocessors that they rely on;
-those projects are listed under [misc components](#components).
+those projects are listed under [components and libraries](#components-and-libraries).
 
 ### editor tools
 
@@ -294,7 +294,7 @@ filesystem-based routing solution along with a full app framework.
 - [`router5`](https://github.com/router5/router5)<sub>@router5</sub> -
   Flexible and powerful universal routing solution
 
-## components and library integrations
+## components and libraries
 
 If you have any submissions, updates, or ideas to improve
 this list of links, please feel free to open an
@@ -496,7 +496,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`svelte-dev-helper`](https://github.com/ekhaled/svelte-dev-helper)<sub>@ekhaled</sub> -
   Helper for Svelte components to ease development. Used by `svelte-loader`
 
-### other components and integrations
+### other components and libraries
 
 - [`svelte-adapter`](https://github.com/pngwn/svelte-adapter)<sub>@pngwn</sub> -
   Use Svelte components with Vue and React
