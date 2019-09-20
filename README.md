@@ -94,7 +94,7 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
 
 - **[`svelte-loader`](https://github.com/sveltejs/svelte-loader)<sub>@sveltejs</sub>** -
   Webpack loader for Svelte components.
-- [`rollup-plugin-svelte`](https://github.com/rollup/rollup-plugin-svelte)<sub>@rollup</sub> -
+- **[`rollup-plugin-svelte`](https://github.com/rollup/rollup-plugin-svelte)<sub>@rollup</sub>** -
   Compile Svelte components with Rollup
 - more at the **[official integrations repo](https://github.com/sveltejs/integrations)**
 
