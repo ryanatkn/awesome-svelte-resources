@@ -17,6 +17,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 
 - [official links](#official-links)
 - [integrations](#integrations)
+  - [bundler plugins](#bundler-plugins)
   - [preprocessors](#preprocessors)
   - [editor tools](#editor-tools)
 - [web app frameworks](#web-app-frameworks)
@@ -91,6 +92,8 @@ The official list of integrations is
 **[sveltejs/integrations](https://github.com/sveltejs/integrations)**.
 Look there first - they're mostly not duplicated here.
 Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pulls)?
+
+### bundler plugins
 
 - **[`svelte-loader`](https://github.com/sveltejs/svelte-loader)<sub>@sveltejs</sub>** -
   Webpack loader for Svelte components.
