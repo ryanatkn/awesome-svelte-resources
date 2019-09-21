@@ -104,13 +104,22 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
 ### preprocessors
 
 - [`svelte-preprocess`](https://github.com/kaisermann/svelte-preprocess)<sub>@kaisermann</sub> -
-  A Svelte preprocessor with baked in support for common used preprocessors
+  A Svelte preprocessor with baked in support for common preprocessors
 - [`mdsvex`](https://github.com/pngwn/MDsveX)<sub>@pngwn</sub> -
   A markdown preprocessor for Svelte.
 - [`svelte-ts-preprocess`](https://github.com/PaulMaly/svelte-ts-preprocess)<sub>@PaulMaly</sub> -
   Typescript preprocessor for Svelte 3
 - [`@pyoner/svelte-ts-preprocess`](https://github.com/pyoner/svelte-typescript)<sub>@pyoner</sub> -
   Typescript monorepo for Svelte v3 (preprocess, template, types)
+- [`svelte-preprocess-postcss`](https://github.com/TehShrike/svelte-preprocess-postcss)<sub>@TehShrike</sub> -
+  PostCSS preprocessor
+- [`svelte-preprocess-sass`](https://github.com/ls-age/svelte-preprocess-sass)<sub>@ls-age</sub> -
+  SASS/SCSS preprocessor
+- [`svelte-preprocess-less`](https://github.com/ls-age/svelte-preprocess-less)<sub>@ls-age</sub> -
+  LESS preprocessor
+- [`@modular-css/svelte`](https://github.com/tivac/modular-css/tree/master/packages/svelte)<sub>@modular-css</sub> -
+  `modular-css` preprocessor
+- see also **[the official list](https://github.com/sveltejs/integrations#preprocessors)**
 
 Some components are bundled with specific preprocessors that they rely on;
 those projects are listed under [components and libraries](#components-and-libraries).
