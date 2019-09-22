@@ -360,6 +360,8 @@ this list of links, please feel free to open an
   a matchMedia plugin for Svelte 3
 - [`svelte-watch-resize`](https://github.com/xelaok/svelte-watch-resize)<sub>@xelaok</sub> -
   Watch element resize in Svelte
+- [`svelte-simple-modal`](https://github.com/flekschas/svelte-simple-modal)<sub>@flekschas</sub> -
+  A simple, small, and content-agnostic modal for Svelte
 
 ### font and icon components
 
