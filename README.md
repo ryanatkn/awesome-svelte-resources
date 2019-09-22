@@ -132,6 +132,8 @@ those projects are listed under [components and libraries](#components-and-libra
   Universal PWA Builder (WIP)
 - [`baelte`](https://github.com/kennethlarsen/baelte)<sub>@kennethlarsen</sub> -
   CLI tool for svelte to help you be productive
+- [`svb`](https://github.com/himynameisdave/svb)<sub>@himynameisdave</sub> -
+  A zero-config CLI to bundle Svelte apps (WIP)
 
 ### editor tools
 
