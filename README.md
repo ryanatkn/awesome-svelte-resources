@@ -139,6 +139,8 @@ those projects are listed under [components and libraries](#components-and-libra
   A WIP language server for Svelte
 - [vscode-svelte-component-extractor](https://github.com/proverbial-ninja/vscode-svelte-component-extractor)<sub>@proverbial-ninja</sub> -
   Creates a new Svelte component from higlighted text
+- [coc-svelte](https://github.com/coc-extensions/coc-svelte)<sub>@coc-extensions</sub> -
+  Svelte support for (Neo)Vim
 
 ## web app frameworks
 
