@@ -171,7 +171,7 @@ npx degit sveltejs/template svelte-app
 - [Axelen123/svelte-ts-template](https://github.com/Axelen123/svelte-ts-template) -
   Typescript template for Svelte v3
 - [Shyam-Chen/svelte-play](https://github.com/Shyam-Chen/Svelte-Play) -
-  A boilerplate for Svelte, Material, Babel, and PostCSS. Webpack
+  A boilerplate for Svelte, Material, Babel, PostCSS, Webpack
 - [Holben888/svelte-starter-template](https://github.com/Holben888/svelte-starter-template) -
   A small starter template to get up and running with Svelte v3
 - [marcograhl/tailwindcss-svelte-starter](https://github.com/marcograhl/tailwindcss-svelte-starter) -
