@@ -548,6 +548,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   ⚡ A high performance Google Chrome new tab page that gets you where you need to go faster.
 - [NAU Tab](https://github.com/trongthanh/nau-chrome-tab)<sub>@trongthanh</sub> -
   Beautiful New Tab extension for Chrome, Firefox and browsers support web extension
+- [Perfect Home](https://github.com/tborychowski/perfect-home)<sub>@tborychowski</sub> -
+  Firefox newtab/home replacement
 - [Nomie](https://github.com/open-nomie/nomie)<sub>@brandoncorbin</sub> -
   Mood and Life Tracker built with Svelte
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
