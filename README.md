@@ -19,6 +19,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [integrations](#integrations)
   - [bundler plugins](#bundler-plugins)
   - [preprocessors](#preprocessors)
+  - [cli tools](#cli-tools)
   - [editor tools](#editor-tools)
 - [web app frameworks](#web-app-frameworks)
 - [templates](#templates)
@@ -124,6 +125,11 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
 
 Some components are bundled with specific preprocessors that they rely on;
 those projects are listed under [components and libraries](#components-and-libraries).
+
+### cli tools
+
+- [`@pwa/cli`](https://github.com/lukeed/pwa)<sub>@lukeed</sub> -
+  Universal PWA Builder (WIP)
 
 ### editor tools
 
