@@ -130,6 +130,8 @@ those projects are listed under [components and libraries](#components-and-libra
 
 - [`@pwa/cli`](https://github.com/lukeed/pwa)<sub>@lukeed</sub> -
   Universal PWA Builder (WIP)
+- [`baelte`](https://github.com/kennethlarsen/baelte)<sub>@kennethlarsen</sub> -
+  CLI tool for svelte to help you be productive
 
 ### editor tools
 
