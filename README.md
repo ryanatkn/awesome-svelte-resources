@@ -491,6 +491,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   console.log()-like interactive inspector for Svelte 3
 - [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar)<sub>@okrad</sub> -
   A multiseries, SVG progressbar component made with Svelte
+- [Browser REPL JS](https://github.com/milafrerichs/browser-repl-js)<sub>@milafrerichs</sub> -
+  A Javascript REPL (code editor and code results) component
 
 ### development and documentation tools
 
