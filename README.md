@@ -567,6 +567,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Firefox newtab/home replacement
 - [Nomie](https://github.com/open-nomie/nomie)<sub>@brandoncorbin</sub> -
   Mood and Life Tracker built with Svelte
+- [palettes](https://github.com/gka/palettes)<sub>@gka</sub> -
+  A tool for creating nice, percerptually correct and colorblind-safe color palettes.
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
 
 ## media
