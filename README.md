@@ -379,6 +379,8 @@ this list of links, please feel free to open an
   Watch element resize in Svelte
 - [`svelte-simple-modal`](https://github.com/flekschas/svelte-simple-modal)<sub>@flekschas</sub> -
   A simple, small, and content-agnostic modal for Svelte
+- [`svelte-popover`](https://github.com/vaheqelyan/svelte-popover)<sub>@vaheqelyan</sub> -
+  A smart popover component for Svelte
 
 ### font and icon components
 
