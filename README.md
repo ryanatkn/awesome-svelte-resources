@@ -32,21 +32,21 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [components and libraries](#components-and-libraries)
   - [ui component sets](#ui-component-sets)
   - [web component sets](#web-component-sets)
-  - [layout components and helpers](#layout-components-and-helpers)
-  - [font and icon components](#font-and-icon-components)
-  - [form validators and helpers](#form-validators-and-helpers)
-  - [image components](#image-components)
-  - [chart components](#chart-components)
-  - [time and date components](#time-and-date-components)
-  - [notification components](#notification-components)
-  - [map components](#map-components)
-  - [internationalization components](#internationalization-components)
-  - [store and state components and libraries](#store-and-state-components-and-libraries)
-  - [interaction components](#interaction-components)
-  - [async loading components](#async-loading-components)
-  - [social and 3rd party service components](#social-and-3rd-party-service-components)
-  - [misc inputs and widgets](#misc-inputs-and-widgets)
-  - [development and documentation tools](#development-and-documentation-tools)
+  - [layout and structure](#layout-and-structure)
+  - [fonts and icons](#fonts-and-icons)
+  - [forms and validation](#forms-and-validation)
+  - [images](#images)
+  - [charts](#charts)
+  - [time and date](#time-and-date)
+  - [notifications](#notification)
+  - [maps](#maps)
+  - [internationalization](#internationalization)
+  - [stores and state](#stores-and-state)
+  - [interaction](#interaction)
+  - [async loading](#async-loading)
+  - [social and other 3rd party services](#social-and-other-3rd-party-services)
+  - [inputs and widgets](#inputs-and-widgets)
+  - [development and documentation](#development-and-documentation)
   - [other components and libraries](#other-components-and-libraries)
 - [native](#native)
 - [experiments](#experiments)
@@ -355,7 +355,7 @@ this list of links, please feel free to open an
 - [`zoo-web-components`](https://github.com/zooplus/zoo-web-components)<sub>@zooplus</sub> -
   Web-components library built with Svelte.
 
-### layout components and helpers
+### layout and structure
 
 - **[`@sveltejs/svelte-virtual-list`](https://github.com/sveltejs/svelte-virtual-list)<sub>@sveltejs</sub>** -
   A virtual list component for Svelte apps
@@ -386,7 +386,7 @@ this list of links, please feel free to open an
 - [`svelte-popover`](https://github.com/vaheqelyan/svelte-popover)<sub>@vaheqelyan</sub> -
   A smart popover component for Svelte
 
-### font and icon components
+### fonts and icons
 
 - [`svelte-icons`](https://github.com/gibdig/svelte-icons)<sub>@gibdig</sub> -
   Icon components for Svelte, featuring many icon sets
@@ -399,7 +399,7 @@ this list of links, please feel free to open an
 - [`svelte-feather-icons`](https://github.com/dylanblokhuis/svelte-feather-icons)<sub>@dylanblokhuis</sub> -
   Feather icons for Svelte
 
-### form validators and helpers
+### forms and validation
 
 See the [ui component sets](#ui-component-sets) section for more.
 
@@ -412,7 +412,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`sveltejs-forms`](https://github.com/mdauner/sveltejs-forms)<sub>@mdauner</sub> -
   Form components using Yup for validation
 
-### image components
+### images
 
 - [`svelte-waypoint`](https://github.com/matyunya/svelte-waypoint)<sub>@matyunya</sub> -
   Lazyload images or anything component for Svelte
@@ -423,28 +423,28 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`svelte-easy-crop`](https://github.com/ValentinH/svelte-easy-crop)<sub>@ValentinH</sub> -
   A Svelte component to crop images with easy interactions
 
-### chart components
+### charts
 
 - [`echarts-for-svelte`](https://github.com/liyuanqiu/echarts-for-svelte)<sub>@liyuanqiu</sub> -
   Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper.
 - [`svelte-fusioncharts`](https://github.com/priyanjitdey94/svelte-fusioncharts)<sub>@priyanjitdey94</sub> -
   Svelte component for FusionCharts JavaScript charting library
 
-### time and date components
+### time and date
 
 - [`svelte-calendar`](https://github.com/6eDesign/svelte-calendar)<sub>@6eDesign</sub> -
   A lightweight datepicker with neat animations and a unique UX.
 - [`svelte-flatpickr`](https://github.com/jacobmischka/svelte-flatpickr)<sub>@jacobmischka</sub> -
   Flatpickr component for Svelte
 
-### notification components
+### notifications
 
 - [`@beyonk/svelte-notifications`](https://github.com/beyonk-adventures/svelte-notifications)<sub>@beyonk-adventures</sub> -
   Svelte toast notifications that can be used in any JS application
 - [`svelte-notifications`](https://github.com/keenethics/svelte-notifications)<sub>@keenethics</sub> -
   Simple and flexible notifications system
 
-### map components
+### maps
 
 - [`@beyonk/svelte-mapbox`](https://github.com/beyonk-adventures/svelte-mapbox)<sub>@beyonk-adventures</sub> -
   Mapbox integration for Svelte.
@@ -453,14 +453,14 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`svelte-pick-a-place`](https://github.com/jimutt/svelte-pick-a-place)<sub>@jimutt</sub> -
   Svelte component for position and area selection with Leaflet.
 
-### internationalization components
+### internationalization
 
 - [`svelte-i18n`](https://github.com/kaisermann/svelte-i18n)<sub>@kaisermann</sub> -
   Internationalization library for Svelte
 - [`svelte-intl`](https://github.com/Panya/svelte-intl)<sub>@Panya</sub> -
   Internationalize your Svelte apps using format-message and Intl object
 
-### store and state components and libraries
+### stores and state
 
 - [`svelte-writable-derived`](https://github.com/PikadudeNo1/svelte-writable-derived)<sub>@PikadudeNo1</sub> -
   Two-way data-transforming stores.
@@ -475,21 +475,21 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`svelte-mobx`](https://github.com/xelaok/svelte-mobx)<sub>@xelaok</sub> -
   Reactive MVVM with MobX & Svelte.
 
-### interaction components
+### interaction
 
 - **[`@sveltejs/gestures`](https://github.com/sveltejs/gestures)<sub>@sveltejs</sub>** -
   Svelte actions for cross-platform gesture detection (work in progress)
 - [`@beyonk/svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub> -
   Scroll Spy component for Svelte
 
-### async loading components
+### async loading
 
 - [`svelte-loadable`](https://github.com/kaisermann/svelte-loadable)<sub>@kaisermann</sub> -
   Dynamically load a Svelte component
 - [`svelte-content-loader`](https://github.com/PaulMaly/svelte-content-loader)<sub>@PaulMaly</sub> -
   SVG placeholder components for loading content
 
-### social and 3rd party service components
+### social and 3rd party services
 
 - [`@beyonk/svelte-google-analytics`](https://github.com/beyonk-adventures/svelte-google-analytics)<sub>@beyonk-adventures</sub> -
   Google Analytics tracking module for Svelte / Sapper
@@ -500,7 +500,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`@beyonk/svelte-trustpilot`](https://github.com/beyonk-adventures/svelte-trustpilot)<sub>@beyonk-adventures</sub> -
   Trustpilot Trustboxes for Svelte / Sapper.
 
-### misc inputs and widgets
+### inputs and widgets
 
 - **[`@sveltejs/svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
   The `<Repl>` component used on the Svelte website
@@ -523,7 +523,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Simple Svelte Autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete)<sub>@pstanoev</sub> -
   Simple autocomplete / typeahead component for Svelte
 
-### development and documentation tools
+### development and documentation
 
 - [Svelte DevTools](https://github.com/RedHatter/svelte-devtools)<sub>@RedHatter</sub> -
   Chrome/Firefox extension that allows inspection of Svelte components and state
