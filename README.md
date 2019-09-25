@@ -407,6 +407,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Svelte forms validation made easy
 - [`svelte-forms-lib`](https://github.com/tjinauyeung/svelte-forms-lib)<sub>@tjinauyeung</sub> -
   A lightweight library for managing forms in Svelte
+- [`sveltejs-forms`](https://github.com/mdauner/sveltejs-forms)<sub>@mdauner</sub> -
+  Form components using Yup for validation
 
 ### image components
 
