@@ -236,6 +236,8 @@ npx degit sveltejs/template svelte-app
   Template with TypeScript, Babel, Jest, Svelte-Testing-Library, Eslint, Prettier
 - [tonyrewin/svelte3-ts-boilerplate](https://github.com/tonyrewin/svelte3-ts-boilerplate) -
   Starter pack for Svelte 3/Rollup/Typescript/Visual Studio Code
+- [devghost/svelte](https://github.com/devghost/svelte) -
+  Skeleton app with Parcel, Jest, ESLint, Prettier, Babel, Wallaby
 
 ### electron templates
 
