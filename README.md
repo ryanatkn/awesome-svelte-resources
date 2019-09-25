@@ -234,6 +234,8 @@ npx degit sveltejs/template svelte-app
   Boilerplate with Webpack, Cypress, Travis CI, Storybook, and SASS
 - [will-wow/svelte-typescript-template](https://github.com/will-wow/svelte-typescript-template) -
   Template with TypeScript, Babel, Jest, Svelte-Testing-Library, Eslint, Prettier
+- [tonyrewin/svelte3-ts-boilerplate](https://github.com/tonyrewin/svelte3-ts-boilerplate) -
+  Starter pack for Svelte 3/Rollup/Typescript/Visual Studio Code
 
 ### electron templates
 
