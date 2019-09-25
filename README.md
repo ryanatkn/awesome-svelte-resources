@@ -33,6 +33,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [ui component sets](#ui-component-sets)
   - [web component sets](#web-component-sets)
   - [layout and structure](#layout-and-structure)
+  - [inputs and widgets](#inputs-and-widgets)
   - [fonts and icons](#fonts-and-icons)
   - [forms and validation](#forms-and-validation)
   - [images](#images)
@@ -45,7 +46,6 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [interaction](#interaction)
   - [async loading](#async-loading)
   - [social and other 3rd party services](#social-and-other-3rd-party-services)
-  - [inputs and widgets](#inputs-and-widgets)
   - [development and documentation](#development-and-documentation)
   - [other components and libraries](#other-components-and-libraries)
 - [native](#native)
@@ -386,6 +386,29 @@ this list of links, please feel free to open an
 - [`svelte-popover`](https://github.com/vaheqelyan/svelte-popover)<sub>@vaheqelyan</sub> -
   A smart popover component for Svelte
 
+### inputs and widgets
+
+- **[`@sveltejs/svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
+  The `<Repl>` component used on the Svelte website
+- [`svelte-color-picker`](https://github.com/qintarp/svelte-color-picker)<sub>@qintarp</sub> -
+  A color picker component for Svelte
+- [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
+  A select component for Svelte apps
+- [`svelte-rate-it`](https://github.com/emrekara37/svelte-rate-it)<sub>@emrekara37</sub> -
+  A rate component for Svelte apps
+- [`waxwing-rating`](https://github.com/dmitrykurmanov/waxwing-rating)<sub>@dmitrykurmanov</sub> -
+  rating widget for the web
+- [`@beyonk/gdpr-cookie-consent-banner`](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner)<sub>@beyonk-adventures</sub> -
+  A GDPR compliant cookie consent banner implementation
+- [`svelte-inspect`](https://github.com/trbrc/svelte-inspect)<sub>@trbrc</sub> -
+  console.log()-like interactive inspector for Svelte 3
+- [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar)<sub>@okrad</sub> -
+  A multiseries, SVG progressbar component made with Svelte
+- [Browser REPL JS](https://github.com/milafrerichs/browser-repl-js)<sub>@milafrerichs</sub> -
+  A Javascript REPL (code editor and code results) component
+- [Simple Svelte Autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete)<sub>@pstanoev</sub> -
+  Simple autocomplete / typeahead component for Svelte
+
 ### fonts and icons
 
 - [`svelte-icons`](https://github.com/gibdig/svelte-icons)<sub>@gibdig</sub> -
@@ -499,29 +522,6 @@ See the [ui component sets](#ui-component-sets) section for more.
   A Facebook customer chat integration for Svelte / Sapper
 - [`@beyonk/svelte-trustpilot`](https://github.com/beyonk-adventures/svelte-trustpilot)<sub>@beyonk-adventures</sub> -
   Trustpilot Trustboxes for Svelte / Sapper.
-
-### inputs and widgets
-
-- **[`@sveltejs/svelte-repl`](https://github.com/sveltejs/svelte-repl)<sub>@sveltejs</sub>** -
-  The `<Repl>` component used on the Svelte website
-- [`svelte-color-picker`](https://github.com/qintarp/svelte-color-picker)<sub>@qintarp</sub> -
-  A color picker component for Svelte
-- [`svelte-select`](https://github.com/rob-balfre/svelte-select)<sub>@rob-balfre</sub> -
-  A select component for Svelte apps
-- [`svelte-rate-it`](https://github.com/emrekara37/svelte-rate-it)<sub>@emrekara37</sub> -
-  A rate component for Svelte apps
-- [`waxwing-rating`](https://github.com/dmitrykurmanov/waxwing-rating)<sub>@dmitrykurmanov</sub> -
-  rating widget for the web
-- [`@beyonk/gdpr-cookie-consent-banner`](https://github.com/beyonk-adventures/gdpr-cookie-consent-banner)<sub>@beyonk-adventures</sub> -
-  A GDPR compliant cookie consent banner implementation
-- [`svelte-inspect`](https://github.com/trbrc/svelte-inspect)<sub>@trbrc</sub> -
-  console.log()-like interactive inspector for Svelte 3
-- [`@okrad/svelte-progressbar`](https://github.com/okrad/svelte-progressbar)<sub>@okrad</sub> -
-  A multiseries, SVG progressbar component made with Svelte
-- [Browser REPL JS](https://github.com/milafrerichs/browser-repl-js)<sub>@milafrerichs</sub> -
-  A Javascript REPL (code editor and code results) component
-- [Simple Svelte Autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete)<sub>@pstanoev</sub> -
-  Simple autocomplete / typeahead component for Svelte
 
 ### development and documentation
 
