@@ -310,6 +310,8 @@ filesystem-based routing solution along with a full app framework.
   Manage your views and routing using class decorators and dependency injection
 - [`crayon-svelte`](https://github.com/alshdavid/crayon)<sub>@alshdavid</sub> -
   Framework agnostic UI router for SPAs with specific support for Svelte
+- [`svelte-filerouter`](https://github.com/jakobrosenberg/svelte-filerouter)<sub>@jakobrosenberg</sub> -
+  Filesystem-based router inspired by [Sapper's routing](https://sapper.svelte.dev/docs#Routing)
 
 ### generic routing
 
