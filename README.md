@@ -39,7 +39,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [images](#images)
   - [charts](#charts)
   - [time and date](#time-and-date)
-  - [notifications](#notification)
+  - [notifications](#notifications)
   - [maps](#maps)
   - [internationalization](#internationalization)
   - [stores and state](#stores-and-state)
@@ -512,7 +512,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`svelte-content-loader`](https://github.com/PaulMaly/svelte-content-loader)<sub>@PaulMaly</sub> -
   SVG placeholder components for loading content
 
-### social and 3rd party services
+### social and other 3rd party services
 
 - [`@beyonk/svelte-google-analytics`](https://github.com/beyonk-adventures/svelte-google-analytics)<sub>@beyonk-adventures</sub> -
   Google Analytics tracking module for Svelte / Sapper
