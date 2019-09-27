@@ -499,6 +499,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Use observables in Svelte components with ease.
 - [`svelte-mobx`](https://github.com/xelaok/svelte-mobx)<sub>@xelaok</sub> -
   Reactive MVVM with MobX & Svelte.
+- [`svelte-redux-connect`](https://github.com/kolodziejczak-sz/svelte-redux-connect)<sub>@kolodziejczak-sz</sub> -
+  Redux binding to Svelte based on react-redux
 
 ### interaction
 
