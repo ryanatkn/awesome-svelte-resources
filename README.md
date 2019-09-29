@@ -181,7 +181,7 @@ npx degit sveltejs/template svelte-app
 - [Axelen123/svelte-ts-template](https://github.com/Axelen123/svelte-ts-template) -
   Typescript template for Svelte v3
 - [Shyam-Chen/svelte-play](https://github.com/Shyam-Chen/Svelte-Play) -
-  A boilerplate for Svelte, Material, Babel, PostCSS, Webpack
+  A boilerplate with Material, Babel, PostCSS, and Webpack
 - [Holben888/svelte-starter-template](https://github.com/Holben888/svelte-starter-template) -
   A small starter template to get up and running with Svelte v3
 - [marcograhl/tailwindcss-svelte-starter](https://github.com/marcograhl/tailwindcss-svelte-starter) -
@@ -207,7 +207,7 @@ npx degit sveltejs/template svelte-app
 - [angelozehr/svelte-example-museums](https://github.com/angelozehr/svelte-example-museums) -
   An example repo of a Svelte app that is IE11 compatible
 - [pankod/svelte-boilerplate](https://github.com/pankod/svelte-boilerplate) -
-  Svelte application boilerplate with Webpack, Sass, BabelJS, Fetch, PostCSS, Jest, .Env
+  Svelte application boilerplate with Webpack, Sass, BabelJS, Fetch, PostCSS, Jest, and .Env
 - [pbastowski/svelte-poi-starter](https://github.com/pbastowski/svelte-poi-starter) -
   Svelte 3 starter with POI 12 and Prettier. Outputs web apps or web components.
 - [soapdog/svelte-template-browserify](https://github.com/soapdog/svelte-template-browserify) -
@@ -233,9 +233,9 @@ npx degit sveltejs/template svelte-app
 - [stephanepericat/svelte-boilerplate](https://github.com/stephanepericat/svelte-boilerplate) -
   Boilerplate with Webpack, Cypress, Travis CI, Storybook, and SASS
 - [will-wow/svelte-typescript-template](https://github.com/will-wow/svelte-typescript-template) -
-  Template with TypeScript, Babel, Jest, Svelte-Testing-Library, Eslint, Prettier
+  Template with TypeScript, Babel, Jest, Svelte-Testing-Library, Eslint, and Prettier
 - [tonyrewin/svelte3-ts-boilerplate](https://github.com/tonyrewin/svelte3-ts-boilerplate) -
-  Starter pack for Svelte 3/Rollup/Typescript/Visual Studio Code
+  Starter pack for Rollup, Typescript, and VSCode
 - [devghost/svelte](https://github.com/devghost/svelte) -
   Skeleton app with Parcel, Jest, ESLint, Prettier, Babel, Wallaby
 - [SteveALee/svelte-code-cypress-project](https://github.com/SteveALee/svelte-code-cypress-project) -
