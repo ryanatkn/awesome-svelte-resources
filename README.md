@@ -238,6 +238,8 @@ npx degit sveltejs/template svelte-app
   Starter pack for Svelte 3/Rollup/Typescript/Visual Studio Code
 - [devghost/svelte](https://github.com/devghost/svelte) -
   Skeleton app with Parcel, Jest, ESLint, Prettier, Babel, Wallaby
+- [SteveALee/svelte-code-cypress-project](https://github.com/SteveALee/svelte-code-cypress-project) -
+  Template with VSCode, Prettier, ESLint, Cypress, and Rollup
 
 ### electron templates
 
