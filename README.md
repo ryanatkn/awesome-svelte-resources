@@ -623,9 +623,9 @@ See the [ui component sets](#ui-component-sets) section for more.
 
 - [London Svelte Meetup](https://www.meetup.com/svelte/)
 - [Svelte Society NYC](https://www.meetup.com/Svelte-Society/)
-- [Sveltejs Society Stockholm](https://www.meetup.com/Sveltejs-Society-Stockholm/)
-- [SvelteJS Utah](https://www.meetup.com/SvelteJS-Utah/)
 - [SvelteJS Israel](https://www.meetup.com/Sveltejs-IL/)
+- [SvelteJS Utah](https://www.meetup.com/SvelteJS-Utah/)
+- [Sveltejs Society Stockholm](https://www.meetup.com/Sveltejs-Society-Stockholm/)
 
 ### Telegram chat rooms
 
