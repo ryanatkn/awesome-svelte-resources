@@ -16,6 +16,9 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 ## contents
 
 - [official links](#official-links)
+- [communities :city_sunrise:](#communities)
+  - [Meetup groups](#meetup-groups)
+  - [Telegram chat rooms](#telegram-chat-rooms)
 - [integrations](#integrations)
   - [bundler plugins](#bundler-plugins)
   - [preprocessors](#preprocessors)
@@ -54,9 +57,6 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [media](#media)
   - [talks](#talks)
   - [podcasts and other videos](#podcasts-and-other-videos)
-- [communities :city_sunrise:](#communities)
-  - [Meetup groups](#meetup-groups)
-  - [Telegram chat rooms](#telegram-chat-rooms)
 - [other lists and resources](#other-lists-and-resources)
   - [language translations](#language-translations)
 
@@ -89,6 +89,29 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   Logos etc for Svelte and related projects
 - **[rfcs](https://github.com/sveltejs/rfcs)<sub>@sveltejs</sub>** -
   RFCs for [changes to Svelte](https://github.com/sveltejs/rfcs/pulls)
+
+## communities
+
+Join in! :city_sunrise:
+
+- **[official Discord chat](https://svelte.dev/chat)**
+- **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
+- unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
+
+### Meetup groups
+
+- [London Svelte Meetup](https://www.meetup.com/svelte/)
+- [Svelte Society NYC](https://www.meetup.com/Svelte-Society/)
+- [SvelteJS Israel](https://www.meetup.com/Sveltejs-IL/)
+- [SvelteJS Utah](https://www.meetup.com/SvelteJS-Utah/)
+- [Sveltejs Society Stockholm](https://www.meetup.com/Sveltejs-Society-Stockholm/)
+- [Svelte Vienna](https://www.meetup.com/Svelte-Vienna/)
+
+### Telegram chat rooms
+
+- [:ru: Svelte [svelt]](https://t.me/sveltejs) (1000+ users)
+- [:ru: Svelte [svelt] Public](https://t.me/sveltejs_public)
+- [:ru: Svelte [svelt] Jobs](https://t.me/sveltejs_jobs)
 
 ## integrations
 
@@ -612,29 +635,6 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Harry Wolff - A Svelte Chat with Rich Harris!](https://www.youtube.com/watch?v=48gHuY4w0hY)
 - [The Frontside Podcast - Svelte and Reactivity with Rich Harris](https://frontside.io/podcast/svelte-and-reactivity-with-rich-harris/)
 - [egghead.io - Svelte 3 with Rich Harris](https://egghead.io/lessons/egghead-svelte-3-with-rich-harris)
-
-## communities
-
-Join in! :city_sunrise:
-
-- **[official Discord chat](https://svelte.dev/chat)**
-- **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
-- unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
-
-### Meetup groups
-
-- [London Svelte Meetup](https://www.meetup.com/svelte/)
-- [Svelte Society NYC](https://www.meetup.com/Svelte-Society/)
-- [SvelteJS Israel](https://www.meetup.com/Sveltejs-IL/)
-- [SvelteJS Utah](https://www.meetup.com/SvelteJS-Utah/)
-- [Sveltejs Society Stockholm](https://www.meetup.com/Sveltejs-Society-Stockholm/)
-- [Svelte Vienna](https://www.meetup.com/Svelte-Vienna/)
-
-### Telegram chat rooms
-
-- [:ru: Svelte [svelt]](https://t.me/sveltejs) (1000+ users)
-- [:ru: Svelte [svelt] Public](https://t.me/sveltejs_public)
-- [:ru: Svelte [svelt] Jobs](https://t.me/sveltejs_jobs)
 
 ## other lists and resources
 
