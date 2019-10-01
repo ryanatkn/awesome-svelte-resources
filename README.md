@@ -55,6 +55,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [talks](#talks)
   - [podcasts and other videos](#podcasts-and-other-videos)
 - [communities](#communities)
+  - [Meetup groups](#meetup-groups)
+  - [Telegram chat rooms](#telegram-chat-rooms)
 - [other lists and resources](#other-lists-and-resources)
   - [language translations](#language-translations)
 
@@ -616,16 +618,20 @@ See the [ui component sets](#ui-component-sets) section for more.
 - **[official Discord chat](https://svelte.dev/chat)**
 - **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
 - unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
-- Meetup groups
-  - [London Svelte Meetup](https://www.meetup.com/svelte/)
-  - [Svelte Society NYC](https://www.meetup.com/Svelte-Society/)
-  - [Sveltejs Society Stockholm](https://www.meetup.com/Sveltejs-Society-Stockholm/)
-  - [SvelteJS Utah](https://www.meetup.com/SvelteJS-Utah/)
-  - [SvelteJS Israel](https://www.meetup.com/Sveltejs-IL/)
-- Telegram chat rooms
-  - [:ru: Svelte [svelt]](https://t.me/sveltejs) (1000+ users)
-  - [:ru: Svelte [svelt] Public](https://t.me/sveltejs_public)
-  - [:ru: Svelte [svelt] Jobs](https://t.me/sveltejs_jobs)
+
+### Meetup groups
+
+- [London Svelte Meetup](https://www.meetup.com/svelte/)
+- [Svelte Society NYC](https://www.meetup.com/Svelte-Society/)
+- [Sveltejs Society Stockholm](https://www.meetup.com/Sveltejs-Society-Stockholm/)
+- [SvelteJS Utah](https://www.meetup.com/SvelteJS-Utah/)
+- [SvelteJS Israel](https://www.meetup.com/Sveltejs-IL/)
+
+### Telegram chat rooms
+
+- [:ru: Svelte [svelt]](https://t.me/sveltejs) (1000+ users)
+- [:ru: Svelte [svelt] Public](https://t.me/sveltejs_public)
+- [:ru: Svelte [svelt] Jobs](https://t.me/sveltejs_jobs)
 
 ## other lists and resources
 
