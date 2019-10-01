@@ -503,6 +503,7 @@ See the [ui component sets](#ui-component-sets) section for more.
   Reactive MVVM with MobX & Svelte.
 - [`svelte-redux-connect`](https://github.com/kolodziejczak-sz/svelte-redux-connect)<sub>@kolodziejczak-sz</sub> -
   Redux binding to Svelte based on react-redux
+- [`svql`](https://github.com/pateketrueke/svql)<sub>@pateketrueke</sub> - FetchQL wrapper for Svelte 3
 
 ### interaction
 
