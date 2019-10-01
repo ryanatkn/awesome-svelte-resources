@@ -50,11 +50,11 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [other components and libraries](#other-components-and-libraries)
 - [native](#native)
 - [experiments](#experiments)
-- [example app showcase :rainbow::sparkles:](#example-app-showcase)
+- [example app showcase](#example-app-showcase)
 - [media](#media)
   - [talks](#talks)
   - [podcasts and other videos](#podcasts-and-other-videos)
-- [communities](#communities)
+- [communities :city_sunrise:](#communities)
   - [Meetup groups](#meetup-groups)
   - [Telegram chat rooms](#telegram-chat-rooms)
 - [other lists and resources](#other-lists-and-resources)
@@ -565,7 +565,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 
 ## example app showcase
 
-> open source Svelte in the wild :rainbow::sparkles:
+> open source Svelte in the wild
 
 - **[Svelte TodoMVC](https://github.com/sveltejs/svelte-todomvc)<sub>@sveltejs</sub>** -
   TodoMVC implemented in Svelte (<https://svelte-todomvc.surge.sh>)
@@ -614,6 +614,8 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [egghead.io - Svelte 3 with Rich Harris](https://egghead.io/lessons/egghead-svelte-3-with-rich-harris)
 
 ## communities
+
+Join in! :city_sunrise:
 
 - **[official Discord chat](https://svelte.dev/chat)**
 - **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
