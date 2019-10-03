@@ -92,6 +92,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 
 ### language translations
 
+Internationalized versions of the official Svelte website.
+
 - Russian - **[ru.svelte.dev](https://ru.svelte.dev/)** -
   [AlexxNB/svelte3-translation-ru](https://github.com/AlexxNB/svelte3-translation-ru)
 
