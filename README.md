@@ -16,6 +16,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 ## contents
 
 - [official links](#official-links)
+  - [language translations](#language-translations)
 - [communities :city_sunrise:](#communities)
   - [Meetup groups](#meetup-groups)
   - [Telegram chat rooms](#telegram-chat-rooms)
@@ -58,7 +59,6 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [talks](#talks)
   - [podcasts and other videos](#podcasts-and-other-videos)
 - [other lists and resources](#other-lists-and-resources)
-  - [language translations](#language-translations)
 
 > notes
 >
@@ -89,6 +89,11 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   Logos etc for Svelte and related projects
 - **[rfcs](https://github.com/sveltejs/rfcs)<sub>@sveltejs</sub>** -
   RFCs for [changes to Svelte](https://github.com/sveltejs/rfcs/pulls)
+
+### language translations
+
+- Russian - **[ru.svelte.dev](https://ru.svelte.dev/)** -
+  [AlexxNB/svelte3-translation-ru](https://github.com/AlexxNB/svelte3-translation-ru)
 
 ## communities
 
@@ -649,10 +654,6 @@ See the [ui component sets](#ui-component-sets) section for more.
   (<https://why-svelte-js.web.app>)
 - [Svelte Status](http://www.sveltestatus.com/) -
   Weekly curated blogs and tools for Svelte developers.
-
-### language translations
-
-- [Russian](https://github.com/AlexxNB/svelte3-translation-ru) - Перевод ресурсов по Svelte
 
 ## license
 
