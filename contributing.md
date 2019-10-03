@@ -1,7 +1,7 @@
 # contributing to _awesome-svelte-resources_
 
 Hi, welcome!
-This repo attempts to aggregate the Svelte community's resources
+This repo tries to aggregate the Svelte community's resources
 as best it can within the limitations of a single markdown file.
 Eventually,
 [an official website](https://github.com/sveltejs/svelte/issues/1070)
@@ -12,6 +12,13 @@ for this growing community.
 Please feel free to open any issues or pull requests you think are appropriate.
 This project's maintainers are open to
 discussion and questioning its assumptions.
+The following kinds of resources are currently not included:
+
+- unofficial blog posts, learning resources,
+  and other media not affiliated with the Svelte team
+- closed-source showcase apps
+- Sapper (we'd definitely link to a similar aggregation
+  project if someone creates it)
 
 ## notes for contributors
 
