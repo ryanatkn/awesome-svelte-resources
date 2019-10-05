@@ -415,6 +415,8 @@ this list of links, please feel free to open an
   A simple, small, and content-agnostic modal for Svelte
 - [`svelte-popover`](https://github.com/vaheqelyan/svelte-popover)<sub>@vaheqelyan</sub> -
   A smart popover component for Svelte
+- [`svelte-headroom`](https://github.com/collardeau/svelte-headroom)<sub>@collardeau</sub> -
+  A Svelte component to hide your header on scroll.
 
 ### inputs and widgets
 
