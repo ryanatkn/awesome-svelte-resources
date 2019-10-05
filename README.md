@@ -18,7 +18,6 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
 - [official links](#official-links)
   - [language translations](#language-translations)
 - [communities :city_sunrise:](#communities)
-  - [Meetup groups](#meetup-groups)
   - [Telegram chat rooms](#telegram-chat-rooms)
 - [integrations](#integrations)
   - [bundler plugins](#bundler-plugins)
@@ -89,6 +88,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   Logos etc for Svelte and related projects
 - **[rfcs](https://github.com/sveltejs/rfcs)<sub>@sveltejs</sub>** -
   RFCs for [changes to Svelte](https://github.com/sveltejs/rfcs/pulls)
+- **[community](https://github.com/sveltejs/community)<sub>@sveltejs</sub>** -
+  A repo for data relating to the Svelte community and events
 
 ### language translations
 
@@ -101,18 +102,13 @@ Internationalized versions of the official Svelte website.
 
 Join in! :city_sunrise:
 
+See **[sveltejs/community](https://github.com/sveltejs/community)**
+for the official data relating to the Svelte community and events.
+
 - **[official Discord chat](https://svelte.dev/chat)**
 - **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
+- Meetup groups and more at **[sveltejs/community](https://github.com/sveltejs/community)**
 - unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
-
-### Meetup groups
-
-- [London Svelte Meetup](https://www.meetup.com/svelte/)
-- [Svelte Society NYC](https://www.meetup.com/Svelte-Society/)
-- [SvelteJS Israel](https://www.meetup.com/Sveltejs-IL/)
-- [SvelteJS Utah](https://www.meetup.com/SvelteJS-Utah/)
-- [Sveltejs Society Stockholm](https://www.meetup.com/Sveltejs-Society-Stockholm/)
-- [Svelte Vienna](https://www.meetup.com/Svelte-Vienna/)
 
 ### Telegram chat rooms
 
