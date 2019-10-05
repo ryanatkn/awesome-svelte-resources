@@ -643,6 +643,8 @@ See the [ui component sets](#ui-component-sets) section for more.
 
 - **[integrations](https://github.com/sveltejs/integrations)<sub>@sveltejs</sub>** -
   Ways to incorporate Svelte into your stack
+- **[community](https://github.com/sveltejs/community)<sub>@sveltejs</sub>** -
+  A repo for data relating to the Svelte community and events
 - [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)<sub>@CalvinWalzel</sub> -
   A curated list of awesome things related to Svelte (includes v2 resources)
 - [svelte-sapper-community](https://github.com/mindrones/svelte-sapper-community)<sub>@mindrones</sub> -
