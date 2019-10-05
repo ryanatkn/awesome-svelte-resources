@@ -100,9 +100,7 @@ Internationalized versions of the official Svelte website.
 
 ## communities
 
-Join in! :city_sunrise:
-
-See **[sveltejs/community](https://github.com/sveltejs/community)**
+Join in! :city_sunrise: See **[sveltejs/community](https://github.com/sveltejs/community)**
 for the official data relating to the Svelte community and events.
 
 - **[official Discord chat](https://svelte.dev/chat)**

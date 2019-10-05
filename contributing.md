@@ -10,12 +10,12 @@ but until then, your help is appreciated in organizing information
 for this growing community.
 
 Please feel free to open any issues or pull requests you think are appropriate.
-This project's maintainers are open to
-discussion and questioning its assumptions.
+The maintainers are open to questioning the project's assumptions.
 The following kinds of resources are currently not included:
 
 - unofficial blog posts, learning resources,
   and other media not affiliated with the Svelte team
+  (but projects that aggregate these _are_ included)
 - closed-source showcase apps
 - Sapper (we'd definitely link to a similar aggregation
   project if someone creates it)
