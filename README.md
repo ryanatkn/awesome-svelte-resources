@@ -378,12 +378,12 @@ this list of links, please feel free to open an
 - [`svelte-ui`](https://github.com/vikignt/svelte-ui)<sub>@vikignt</sub> -
   Simple Svelte 3 UI components
 - [`svmd`](https://github.com/hkh12/svmd)<sub>@hkh12</sub> -
-  Easy-to-use, Customizable Material Design components for Svelte.
+  Easy-to-use, Customizable Material Design components for Svelte
 
 ### web component sets
 
 - [`zoo-web-components`](https://github.com/zooplus/zoo-web-components)<sub>@zooplus</sub> -
-  Web-components library built with Svelte.
+  Web-components library built with Svelte
 
 ### layout and structure
 
@@ -416,7 +416,7 @@ this list of links, please feel free to open an
 - [`svelte-popover`](https://github.com/vaheqelyan/svelte-popover)<sub>@vaheqelyan</sub> -
   A smart popover component for Svelte
 - [`svelte-headroom`](https://github.com/collardeau/svelte-headroom)<sub>@collardeau</sub> -
-  A Svelte component to hide your header on scroll.
+  A Svelte component to hide your header on scroll
 
 ### inputs and widgets
 
@@ -506,7 +506,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`@beyonk/svelte-googlemaps`](https://github.com/beyonk-adventures/svelte-googlemaps)<sub>@beyonk-adventures</sub> -
   Google Maps integration for Svelte
 - [`svelte-pick-a-place`](https://github.com/jimutt/svelte-pick-a-place)<sub>@jimutt</sub> -
-  Svelte component for position and area selection with Leaflet.
+  Svelte component for position and area selection with Leaflet
 
 ### internationalization
 
@@ -557,7 +557,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [`@beyonk/svelte-facebook-customer-chat`](https://github.com/beyonk-adventures/svelte-facebook-customer-chat)<sub>@beyonk-adventures</sub> -
   A Facebook customer chat integration for Svelte / Sapper
 - [`@beyonk/svelte-trustpilot`](https://github.com/beyonk-adventures/svelte-trustpilot)<sub>@beyonk-adventures</sub> -
-  Trustpilot Trustboxes for Svelte / Sapper.
+  Trustpilot Trustboxes for Svelte / Sapper
 
 ### development and documentation
 
@@ -653,7 +653,7 @@ See the [ui component sets](#ui-component-sets) section for more.
   A collection of blog posts, videos, and other Svelte resources
   (<https://why-svelte-js.web.app>)
 - [Svelte Status](http://www.sveltestatus.com/) -
-  Weekly curated blogs and tools for Svelte developers.
+  Weekly curated blogs and tools for Svelte developers
 
 ## license
 
