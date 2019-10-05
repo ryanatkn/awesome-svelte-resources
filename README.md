@@ -524,7 +524,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Svelte for Meteor](https://github.com/meteor-svelte/meteor-svelte)<sub>@meteor-svelte</sub> -
   Build cybernetically enhanced web apps with Meteor and Svelte.
 - [`svelte-webext-storage-adapter`](https://github.com/PikadudeNo1/svelte-webext-storage-adapter)<sub>@PikadudeNo1</sub> -
-  Writable stores based on `chrome.storage` for Firefox/Chrome extensions.
+  Writable stores for Firefox/Chrome extensions using `chrome.storage`
 - [`svelte-observable`](https://github.com/timhall/svelte-observable)<sub>@timhall</sub> -
   Use observables in Svelte components with ease.
 - [`svelte-mobx`](https://github.com/xelaok/svelte-mobx)<sub>@xelaok</sub> -
