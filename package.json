@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "multitudes of Svelte v3+ links",
   "main": "README.md",
+  "scripts": {
+    "parse": "node parse.js resources.json"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ryanatkn/awesome-svelte-resources.git"
