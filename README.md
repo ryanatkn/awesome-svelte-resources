@@ -379,7 +379,7 @@ this list of links, please feel free to open an
   Simple Svelte 3 UI components
 - [`svmd`](https://github.com/hkh12/svmd)<sub>@hkh12</sub> -
   Easy-to-use, Customizable Material Design components for Svelte
-- [`svelte-chota`](https://alexxnb.github.io/svelte-chota)<sub>@AlexxNB</sub> -
+- [`svelte-chota`](https://github.com/alexxnb/svelte-chota)<sub>@AlexxNB</sub> -
   Svelte UI components based on super lightweight chota CSS framework.
 
 ### web component sets
