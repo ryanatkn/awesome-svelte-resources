@@ -266,6 +266,8 @@ npx degit sveltejs/template svelte-app
   Skeleton app with Parcel, Jest, ESLint, Prettier, Babel, Wallaby
 - [SteveALee/svelte-code-cypress-project](https://github.com/SteveALee/svelte-code-cypress-project) -
   Template with VSCode, Prettier, ESLint, Cypress, and Rollup
+- [rixo/svelte-template-hot](https://github.com/rixo/svelte-template-hot) -
+  Clone of official Svelte template with added HMR support using Nollup
 
 ### electron templates
 
