@@ -107,7 +107,6 @@ for the official data relating to the Svelte community and events.
 - **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
 - Meetup groups and more at **[sveltejs/community](https://github.com/sveltejs/community)**
 - unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
-- Bi-weekly newsletter with news & links [subscribe here: sveltejsnews](https://shershen08.github.io/sveltejsnews/)
 
 ### Telegram chat rooms
 
@@ -659,6 +658,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   (<https://why-svelte-js.web.app>)
 - [Svelte Status](http://www.sveltestatus.com/) -
   Weekly curated blogs and tools for Svelte developers
+- [sveltejsnews](https://shershen08.github.io/sveltejsnews/) -
+  Bi-weekly newsletter with news & links
 
 ## license
 
