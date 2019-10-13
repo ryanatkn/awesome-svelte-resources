@@ -107,6 +107,7 @@ for the official data relating to the Svelte community and events.
 - **[@sveltejs on Twitter](https://twitter.com/sveltejs)**
 - Meetup groups and more at **[sveltejs/community](https://github.com/sveltejs/community)**
 - unofficial subreddit [/r/sveltejs](https://www.reddit.com/r/sveltejs/)
+- Bi-weekly newsletter with news & links [subscribe here: sveltejsnews](https://shershen08.github.io/sveltejsnews/)
 
 ### Telegram chat rooms
 
