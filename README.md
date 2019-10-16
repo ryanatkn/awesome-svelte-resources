@@ -268,6 +268,8 @@ npx degit sveltejs/template svelte-app
   Template with VSCode, Prettier, ESLint, Cypress, and Rollup
 - [rixo/svelte-template-hot](https://github.com/rixo/svelte-template-hot) -
   Clone of official Svelte template with added HMR support using Nollup
+- [agusID/boilerplate-svelte](https://github.com/agusID/boilerplate-svelte) -
+  Boilerplate with TypeScript, Webpack, Storybook, Travis CI, SCSS, Babel, EsLint, Prettier, Jest
 
 ### electron templates
 
