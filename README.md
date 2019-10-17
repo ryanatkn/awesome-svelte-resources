@@ -346,6 +346,7 @@ filesystem-based routing solution along with a full app framework.
   Framework agnostic UI router for SPAs with specific support for Svelte
 - [`svelte-filerouter`](https://github.com/jakobrosenberg/svelte-filerouter)<sub>@jakobrosenberg</sub> -
   Filesystem-based router inspired by [Sapper's routing](https://sapper.svelte.dev/docs#Routing)
+- [`yrv`](https://github.com/pateketrueke/yrv)<sub>@pateketrueke</sub> - Basic router with queryParams and hash-based routing support
 
 ### generic routing
 
