@@ -286,6 +286,7 @@ filesystem-based routing solution along with a full app framework.
   A select component for Svelte apps
 - [`svelte-rate-it`](https://github.com/emrekara37/svelte-rate-it)<sub>@emrekara37</sub> -
   A rate component for Svelte apps
+- [`svelte-swipe`](https://github.com/SharifClick/svelte-swipe)<sub>@SharifClick</sub> - A swipe component purley for svelte.
 - many many more.. [please send help](https://github.com/ryanatkn/awesome-svelte-resources/pulls)
 
 ## misc libraries
