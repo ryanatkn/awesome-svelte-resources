@@ -626,6 +626,8 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [palettes](https://github.com/gka/palettes)<sub>@gka</sub> -
   A tool for creating nice, percerptually correct and colorblind-safe color palettes
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
+- [Litekart](https://github.com/itswadesh/sapper-ecommerce#readme)<sub>@itswadesh</sub> - 
+  🛒A real and actively developed ecommerce built using Svelte & Sapper
 
 ## media
 
