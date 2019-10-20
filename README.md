@@ -29,10 +29,8 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [electron templates](#electron-templates)
   - [mobile templates](#mobile-templates)
 - [testing](#testing)
-- [routers](#routers)
-  - [Svelte-specific routing](#svelte-specific-routing)
-  - [generic routing](#generic-routing)
 - [components and libraries](#components-and-libraries)
+  - [routers](#routers)
   - [ui component sets](#ui-component-sets)
   - [web component sets](#web-component-sets)
   - [layout and structure](#layout-and-structure)
@@ -302,16 +300,19 @@ npx degit sveltejs/template svelte-app
 - [`svelte-jest`](https://github.com/ktsn/svelte-jest)<sub>@ktsn</sub> -
   Jest Svelte component transformer
 
-## routers
+## components and libraries
+
+If you have any submissions, updates, or ideas to improve
+this list of links, please feel free to open an
+[issue](https://github.com/ryanatkn/awesome-svelte-resources/issues) or
+[PR](https://github.com/ryanatkn/awesome-svelte-resources/pulls).
+
+### routers
 
 See [the FAQ](https://github.com/sveltejs/svelte/wiki/faq)
 for some good info about Svelte routing solutions.
-Many generic routers work great with Svelte,
-and there are ones that use Svelte-specific idioms too.
 
-### Svelte-specific routing
-
-**[Sapper](https://github.com/sveltejs/sapper)** includes a nifty
+**[Sapper](https://github.com/sveltejs/sapper)** touts a
 filesystem-based routing solution along with a full app framework.
 
 - [`svelte-routing`](https://github.com/EmilTholin/svelte-routing)<sub>@EmilTholin</sub> -
@@ -348,24 +349,6 @@ filesystem-based routing solution along with a full app framework.
   Filesystem-based router inspired by [Sapper's routing](https://sapper.svelte.dev/docs#Routing)
 - [`yrv`](https://github.com/pateketrueke/yrv)<sub>@pateketrueke</sub> -
   Basic router with queryParams and hash-based routing support
-
-### generic routing
-
-- [`navaid`](https://github.com/lukeed/navaid)<sub>@lukeed</sub> -
-  A navigation aid (aka, router) for the browser in 850 bytes~!
-- [`abstract-state-router`](https://github.com/TehShrike/abstract-state-router)<sub>@TehShrike</sub> -
-  Like ui-router, but without all the Angular. The best way to structure a SPA
-- [`page`](https://github.com/visionmedia/page.js/)<sub>@visionmedia</sub> -
-  Micro client-side router inspired by the Express router
-- [`router5`](https://github.com/router5/router5)<sub>@router5</sub> -
-  Flexible and powerful universal routing solution
-
-## components and libraries
-
-If you have any submissions, updates, or ideas to improve
-this list of links, please feel free to open an
-[issue](https://github.com/ryanatkn/awesome-svelte-resources/issues) or
-[PR](https://github.com/ryanatkn/awesome-svelte-resources/pulls).
 
 ### ui component sets
 
