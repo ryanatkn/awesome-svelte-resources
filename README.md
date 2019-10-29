@@ -270,6 +270,8 @@ npx degit sveltejs/template svelte-app
   Clone of official Svelte template with added HMR support using Nollup
 - [agusID/boilerplate-svelte](https://github.com/agusID/boilerplate-svelte) -
   Boilerplate with TypeScript, Webpack, Storybook, Travis CI, SCSS, Babel, EsLint, Prettier, Jest
+- [LunaTK/svelte-web-component-builder](https://github.com/LunaTK/svelte-web-component-builder) -
+  Minimal setup for building svelte as a web component module
 
 ### electron templates
 
