@@ -448,6 +448,8 @@ filesystem-based routing solution along with a full app framework.
   Font Awesome 5 for Svelte
 - [`svelte-feather-icons`](https://github.com/dylanblokhuis/svelte-feather-icons)<sub>@dylanblokhuis</sub> -
   Feather icons for Svelte
+- [`svelte-simple-icons`](https://github.com/beyonk-adventures/svelte-simple-icons)<sub>@beyonk-adventures</sub> -
+  SVG icons for popular brands
 
 ### forms and validation
 
@@ -611,7 +613,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [palettes](https://github.com/gka/palettes)<sub>@gka</sub> -
   A tool for creating nice, percerptually correct and colorblind-safe color palettes
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
-- [Litekart](https://github.com/itswadesh/sapper-ecommerce#readme)<sub>@itswadesh</sub> - 
+- [Litekart](https://github.com/itswadesh/sapper-ecommerce#readme)<sub>@itswadesh</sub> -
   🛒A real and actively developed ecommerce built using Svelte & Sapper
 
 ## media
