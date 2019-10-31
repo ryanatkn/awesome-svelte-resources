@@ -617,6 +617,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
 - [Litekart](https://github.com/itswadesh/sapper-ecommerce)<sub>@itswadesh</sub> -
   An actively developed ecommerce website built using Svelte & Sapper
+- [Svelte Markdown Editor](https://github.com/snipcart/svelte-markdown-editor)<sub>@thefln</sub> - Quick tuts + live demo to create a simple markdown editor app with Svelte.
 
 ## media
 
