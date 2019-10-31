@@ -272,6 +272,8 @@ npx degit sveltejs/template svelte-app
   Boilerplate with TypeScript, Webpack, Storybook, Travis CI, SCSS, Babel, EsLint, Prettier, Jest
 - [LunaTK/svelte-web-component-builder](https://github.com/LunaTK/svelte-web-component-builder) -
   Minimal setup for building svelte as a web component module
+- [nitro52/svelte-typescript-sass-template](https://github.com/nitro52/svelte-typescript-sass-template) -
+  Typescript, Sass, Storybook, Webpack
 
 ### electron templates
 
