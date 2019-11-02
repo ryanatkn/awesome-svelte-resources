@@ -631,6 +631,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 
 - [Rich Harris - Rethinking reactivity - YGLF 2019](https://www.youtube.com/watch?v=AdNJ3fydeao)
 - [Rich Harris - Computer, build me an app - JSConf EU 2018](https://www.youtube.com/watch?v=qqt6YxAZoOc)
+- [Rich Harris - The Return of 'Write Less, Do More' - JSCAMP 2019](https://www.youtube.com/watch?v=BzX4aTRPzno)
 
 ### podcasts and other videos
 
