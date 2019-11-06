@@ -29,6 +29,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [electron templates](#electron-templates)
   - [mobile templates](#mobile-templates)
 - [testing](#testing)
+- [documenting](#documenting)
 - [components and libraries](#components-and-libraries)
   - [routers](#routers)
   - [ui component sets](#ui-component-sets)
@@ -303,6 +304,11 @@ npx degit sveltejs/template svelte-app
   UI component dev & test
 - [`svelte-jest`](https://github.com/ktsn/svelte-jest)<sub>@ktsn</sub> -
   Jest Svelte component transformer
+  
+## documenting
+
+- [`svelte-docs`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
+  A rapid way to write documentation for your Svelte components
 
 ## components and libraries
 
