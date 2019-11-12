@@ -304,7 +304,7 @@ npx degit sveltejs/template svelte-app
   UI component dev & test
 - [`svelte-jest`](https://github.com/ktsn/svelte-jest)<sub>@ktsn</sub> -
   Jest Svelte component transformer
-  
+
 ## documenting
 
 - [`svelte-docs`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
@@ -545,6 +545,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Svelte actions for cross-platform gesture detection (work in progress)
 - [`@beyonk/svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub> -
   Scroll Spy component for Svelte
+- [`svelte-moveable`](https://github.com/daybrush/moveable/tree/master/packages/svelte-moveable)<sub>@daybrush</sub> -
+  Component for moveable, draggable, resizable, scalable, rotatable, and more
 
 ### async loading
 
