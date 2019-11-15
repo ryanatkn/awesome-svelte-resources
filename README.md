@@ -134,7 +134,7 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
 - [`mdsvex`](https://github.com/pngwn/MDsveX)<sub>@pngwn</sub> -
   A markdown preprocessor for Svelte
 - [`svelte-preprocess-markdown`](https://github.com/AlexxNB/svelte-preprocess-markdown)<sub>@AlexxNB</sub> -
-  A markdown preprocessor for Svelte
+  Write Svelte components in markdown syntax
 - [`svelte-ts-preprocess`](https://github.com/PaulMaly/svelte-ts-preprocess)<sub>@PaulMaly</sub> -
   Typescript preprocessor for Svelte 3
 - [`@pyoner/svelte-ts-preprocess`](https://github.com/pyoner/svelte-typescript)<sub>@pyoner</sub> -
