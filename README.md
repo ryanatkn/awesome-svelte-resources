@@ -437,6 +437,8 @@ filesystem-based routing solution along with a full app framework.
   A Javascript REPL (code editor and code results) component
 - [Simple Svelte Autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete)<sub>@pstanoev</sub> -
   Simple autocomplete / typeahead component for Svelte
+- [`svelte-ruler`](https://github.com/daybrush/ruler/tree/master/packages/svelte-ruler)<sub>@daybrush</sub> -
+  A Ruler component that can draw grids and scroll infinitely
 
 ### fonts and icons
 
