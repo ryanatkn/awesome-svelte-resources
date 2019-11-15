@@ -29,7 +29,6 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [electron templates](#electron-templates)
   - [mobile templates](#mobile-templates)
 - [testing](#testing)
-- [documenting](#documenting)
 - [components and libraries](#components-and-libraries)
   - [routers](#routers)
   - [ui component sets](#ui-component-sets)
@@ -305,11 +304,6 @@ npx degit sveltejs/template svelte-app
 - [`svelte-jest`](https://github.com/ktsn/svelte-jest)<sub>@ktsn</sub> -
   Jest Svelte component transformer
 
-## documenting
-
-- [`svelte-docs`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
-  A rapid way to write documentation for your Svelte components
-
 ## components and libraries
 
 If you have any submissions, updates, or ideas to improve
@@ -578,6 +572,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Development helper for inspecting and opening Svelte components in your editor
 - [`svelte-dev-helper`](https://github.com/ekhaled/svelte-dev-helper)<sub>@ekhaled</sub> -
   Helper for Svelte components to ease development. Used by `svelte-loader`
+- [`svelte-docs`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
+  A rapid way to write documentation for your Svelte components
 
 ### other components and libraries
 
