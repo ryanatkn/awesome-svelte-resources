@@ -441,6 +441,8 @@ filesystem-based routing solution along with a full app framework.
   Simple autocomplete / typeahead component for Svelte
 - [`svelte-ruler`](https://github.com/daybrush/ruler/tree/master/packages/svelte-ruler)<sub>@daybrush</sub> -
   A Ruler component that can draw grids and scroll infinitely
+- [`svelte-json-tree`](https://github.com/tanhauhau/svelte-json-tree)<sub>@tanhauhau</sub> -
+  JSON viewer component used in the Svelte REPL
 
 ### fonts and icons
 
