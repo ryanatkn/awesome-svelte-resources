@@ -274,6 +274,8 @@ npx degit sveltejs/template svelte-app
   Minimal setup for building svelte as a web component module
 - [nitro52/svelte-typescript-sass-template](https://github.com/nitro52/svelte-typescript-sass-template) -
   Typescript, Sass, Storybook, Webpack
+- [pngwn/svelte-react-template](https://github.com/pngwn/svelte-react-template) -
+  React via svelte-adapter, Rollup, Babel
 
 ### electron templates
 
