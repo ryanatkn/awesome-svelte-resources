@@ -593,6 +593,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Use Svelte components with Vue and React
 - [`svelte-css-vars`](https://github.com/kaisermann/svelte-css-vars)<sub>@kaisermann</sub> -
   Ever wanted to have reactive css variables in Svelte? What if I tell you there's a way?
+- [`svelte-adaptive-sensors`](https://github.com/pngwn/svelte-adaptive-sensors)<sub>@pngwn</sub> -
+  Sensors to deliver adaptive loading based on a user's device and network
 
 ## native
 
