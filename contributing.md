@@ -4,8 +4,8 @@ Hi, welcome!
 This repo tries to aggregate the Svelte community's resources
 as best it can within the limitations of a single markdown file.
 Eventually,
-[an official website](https://github.com/sveltejs/svelte/issues/1070)
-will probably supplant this project,
+[an official community website](https://github.com/sveltejs/community)
+will supplant this project,
 but until then, your help is appreciated in organizing information
 for this growing community.
 
