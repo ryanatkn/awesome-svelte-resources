@@ -37,6 +37,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [inputs and widgets](#inputs-and-widgets)
   - [fonts and icons](#fonts-and-icons)
   - [forms and validation](#forms-and-validation)
+  - [animation](#animation)
   - [images](#images)
   - [charts](#charts)
   - [time and date](#time-and-date)
@@ -471,6 +472,11 @@ See the [ui component sets](#ui-component-sets) section for more.
   A lightweight library for managing forms in Svelte
 - [`sveltejs-forms`](https://github.com/mdauner/sveltejs-forms)<sub>@mdauner</sub> -
   Form components using Yup for validation
+
+### animation
+
+- [`svelte-typewriter`](https://github.com/henriquehbr/svelte-typewriter)<sub>@henriquehbr</sub> -
+  A simple and reusable typewriter effect
 
 ### images
 
