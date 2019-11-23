@@ -650,6 +650,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Rich Harris - Computer, build me an app - JSConf EU 2018](https://www.youtube.com/watch?v=qqt6YxAZoOc)
 - [Rich Harris - Rethinking reactivity - YGLF 2019](https://www.youtube.com/watch?v=AdNJ3fydeao)
 - [Rich Harris - The Return of 'Write Less, Do More' - JSCAMP 2019](https://www.youtube.com/watch?v=BzX4aTRPzno)
+- [R. Mark Volkmann - Simplified Web App Development with Svelte - Midwest JS](https://www.youtube.com/watch?v=aoKpKSbKovU)
 
 ### podcasts and other videos
 
