@@ -502,6 +502,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   A lightweight datepicker with neat animations and a unique UX
 - [`svelte-flatpickr`](https://github.com/jacobmischka/svelte-flatpickr)<sub>@jacobmischka</sub> -
   Flatpickr component for Svelte
+- [keithj2780/svelte-calendar](https://github.com/keithj2780/svelte-calendar)<sub>@keithj2780</sub> -
+  Simple calendar component
 
 ### notifications
 
