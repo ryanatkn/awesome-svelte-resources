@@ -651,6 +651,7 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Rich Harris - Rethinking reactivity - YGLF 2019](https://www.youtube.com/watch?v=AdNJ3fydeao)
 - [Rich Harris - The Return of 'Write Less, Do More' - JSCAMP 2019](https://www.youtube.com/watch?v=BzX4aTRPzno)
 - [R. Mark Volkmann - Simplified Web App Development with Svelte - Midwest JS](https://www.youtube.com/watch?v=aoKpKSbKovU)
+- [Peter Allen - Re-rendering perceptions with Svelte - Bristech 2019](https://www.youtube.com/watch?v=fUfsHKR6X9s)
 
 ### podcasts and other videos
 
