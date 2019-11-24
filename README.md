@@ -7,9 +7,9 @@
 Please feel free to submit anything you find useful or interesting.
 See [contributing.md](contributing.md) for more.
 
-For [Sapper](https://github.com/sveltejs/sapper) resources,
-check out _(insert link here if someone makes it)_.
-
+The official successor to this project is
+[sveltejs/community](https://github.com/sveltejs/community).
+It's a work in progress, and your help is appreciated!
 See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
 and [other awesome lists](https://github.com/sindresorhus/awesome).
 
