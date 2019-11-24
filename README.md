@@ -595,6 +595,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Ever wanted to have reactive css variables in Svelte? What if I tell you there's a way?
 - [`svelte-adaptive-sensors`](https://github.com/pngwn/svelte-adaptive-sensors)<sub>@pngwn</sub> -
   Sensors to deliver adaptive loading based on a user's device and network
+- [`prism-svelte`](https://github.com/pngwn/prism-svelte)<sub>@pngwn</sub> -
+  Syntax highlighting for Svelte code with prismjs
 
 ## native
 
