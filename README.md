@@ -586,6 +586,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Helper for Svelte components to ease development. Used by `svelte-loader`
 - [`svelte-docs`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
   A rapid way to write documentation for your Svelte components
+- [`prism-svelte`](https://github.com/pngwn/prism-svelte)<sub>@pngwn</sub> -
+  Syntax highlighting for Svelte code with prismjs
 
 ### other components and libraries
 
@@ -595,8 +597,6 @@ See the [ui component sets](#ui-component-sets) section for more.
   Ever wanted to have reactive css variables in Svelte? What if I tell you there's a way?
 - [`svelte-adaptive-sensors`](https://github.com/pngwn/svelte-adaptive-sensors)<sub>@pngwn</sub> -
   Sensors to deliver adaptive loading based on a user's device and network
-- [`prism-svelte`](https://github.com/pngwn/prism-svelte)<sub>@pngwn</sub> -
-  Syntax highlighting for Svelte code with prismjs
 
 ## native
 
