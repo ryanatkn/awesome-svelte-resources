@@ -382,7 +382,7 @@ filesystem-based routing solution along with a full app framework.
 
 ### web component sets
 
-- [`zoo-web-components`](https://github.com/zooplus/zoo-web-components)<sub>@zooplus</sub> -
+- [`@zooplus/zoo-web-components`](https://github.com/zooplus/zoo-web-components)<sub>@zooplus</sub> -
   Web-components library built with Svelte
 
 ### layout and structure
@@ -586,7 +586,7 @@ See the [ui component sets](#ui-component-sets) section for more.
   Development helper for inspecting and opening Svelte components in your editor
 - [`svelte-dev-helper`](https://github.com/ekhaled/svelte-dev-helper)<sub>@ekhaled</sub> -
   Helper for Svelte components to ease development. Used by `svelte-loader`
-- [`svelte-docs`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
+- [`@svelte-docs/core`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
   A rapid way to write documentation for your Svelte components
 - [`prism-svelte`](https://github.com/pngwn/prism-svelte)<sub>@pngwn</sub> -
   Syntax highlighting for Svelte code with prismjs
