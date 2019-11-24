@@ -417,6 +417,8 @@ filesystem-based routing solution along with a full app framework.
   A smart popover component for Svelte
 - [`svelte-headroom`](https://github.com/collardeau/svelte-headroom)<sub>@collardeau</sub> -
   A Svelte component to hide your header on scroll
+- [`svelte-table`](https://github.com/dasDaniel/svelte-table)<sub>@dasDaniel</sub> -
+  A Table component with sorting and filtering
 
 ### inputs and widgets
 
