@@ -474,6 +474,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   A lightweight library for managing forms in Svelte
 - [`sveltejs-forms`](https://github.com/mdauner/sveltejs-forms)<sub>@mdauner</sub> -
   Form components using Yup for validation
+- [`svelte-formly`](https://github.com/arabdevelop/svelte-formly)<sub>@arabdevelop</sub> -
+  Form components and validations that are easy to extend
 
 ### animation
 
