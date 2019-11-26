@@ -419,6 +419,8 @@ filesystem-based routing solution along with a full app framework.
   A Svelte component to hide your header on scroll
 - [`svelte-table`](https://github.com/dasDaniel/svelte-table)<sub>@dasDaniel</sub> -
   A Table component with sorting and filtering
+- [`@egjs/svelte-infinitegrid`](https://github.com/naver/egjs-infinitegrid/tree/master/packages/svelte-infinitegrid)<sub>@naver</sub> -
+  A component wrapping egjs-infinitegrid for infinite card layouts
 
 ### inputs and widgets
 
