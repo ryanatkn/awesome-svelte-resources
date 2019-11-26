@@ -552,6 +552,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Redux binding to Svelte based on react-redux
 - [`svql`](https://github.com/pateketrueke/svql)<sub>@pateketrueke</sub> -
   Wrapper for FetchQL, a GraphQL query client
+- [`svelte-backed-store`](https://github.com/JohnPeel/svelte-backed-store)<sub>@JohnPeel</sub> -
+  Stores backed by localStorage or sessionStorage
 
 ### interaction
 
