@@ -49,6 +49,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [async loading](#async-loading)
   - [social and other 3rd party services](#social-and-other-3rd-party-services)
   - [development and documentation](#development-and-documentation)
+  - [syntax highlighting](#syntax-highlighting)
   - [other components and libraries](#other-components-and-libraries)
 - [native](#native)
 - [experiments](#experiments)
@@ -596,10 +597,13 @@ See the [ui component sets](#ui-component-sets) section for more.
   Helper for Svelte components to ease development. Used by `svelte-loader`
 - [`@svelte-docs/core`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
   A rapid way to write documentation for your Svelte components
+
+### syntax highlighting
+
 - [`prism-svelte`](https://github.com/pngwn/prism-svelte)<sub>@pngwn</sub> -
   Syntax highlighting for Svelte code with prismjs
 - [`highlightjs-svelte`](https://github.com/AlexxNB/highlightjs-svelte)<sub>@AlexxNB</sub> -
-  Svelte Language Definition for Highlight.js
+  Svelte language definition for Highlight.js
 
 ### other components and libraries
 
