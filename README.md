@@ -598,6 +598,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   A rapid way to write documentation for your Svelte components
 - [`prism-svelte`](https://github.com/pngwn/prism-svelte)<sub>@pngwn</sub> -
   Syntax highlighting for Svelte code with prismjs
+- [`highlightjs-svelte`](https://github.com/AlexxNB/highlightjs-svelte)<sub>@AlexxNB</sub> -
+  Svelte Language Definition for Highlight.js
 
 ### other components and libraries
 
