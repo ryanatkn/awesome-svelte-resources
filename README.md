@@ -502,6 +502,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper
 - [`svelte-fusioncharts`](https://github.com/priyanjitdey94/svelte-fusioncharts)<sub>@priyanjitdey94</sub> -
   Svelte component for FusionCharts JavaScript charting library
+- [`svelte-frappe-charts`](https://github.com/himynameisdave/svelte-frappe-charts)<sub>@himynameisdave</sub> - 
+  Svelte bindings for [`frappe-charts`](https://frappe.io/charts).
 
 ### time and date
 
