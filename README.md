@@ -657,6 +657,8 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [Svelte Markdown Editor](https://github.com/snipcart/svelte-markdown-editor)<sub>@thefln</sub> -
   Quick tuts + live demo to create a simple markdown editor app with Svelte.
 - send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
+- [Svelte Sapper Bulma Crud](https://github.com/danielschmitz/svelte-sapper-bulma-crud) -
+  A basic CRUD using Svelte, Sapper and Bulma. ([demo](https://svelte-sapper-bulma-crud.herokuapp.com/))
 
 ## media
 
