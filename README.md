@@ -502,7 +502,7 @@ See the [ui component sets](#ui-component-sets) section for more.
   Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper
 - [`svelte-fusioncharts`](https://github.com/priyanjitdey94/svelte-fusioncharts)<sub>@priyanjitdey94</sub> -
   Svelte component for FusionCharts JavaScript charting library
-- [`svelte-frappe-charts`](https://github.com/himynameisdave/svelte-frappe-charts)<sub>@himynameisdave</sub> - 
+- [`svelte-frappe-charts`](https://github.com/himynameisdave/svelte-frappe-charts)<sub>@himynameisdave</sub> -
   Svelte bindings for [`frappe-charts`](https://frappe.io/charts).
 
 ### time and date
@@ -656,7 +656,6 @@ See the [ui component sets](#ui-component-sets) section for more.
   An actively developed ecommerce website built using Svelte & Sapper
 - [Svelte Markdown Editor](https://github.com/snipcart/svelte-markdown-editor)<sub>@thefln</sub> -
   Quick tuts + live demo to create a simple markdown editor app with Svelte.
-- send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
 - [Svelte Sapper Bulma Crud](https://github.com/danielschmitz/svelte-sapper-bulma-crud) -
   A basic CRUD using Svelte, Sapper and Bulma. ([demo](https://svelte-sapper-bulma-crud.herokuapp.com/))
 
