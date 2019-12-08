@@ -479,6 +479,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Form components using Yup for validation
 - [`svelte-formly`](https://github.com/arabdevelop/svelte-formly)<sub>@arabdevelop</sub> -
   Form components and validations that are easy to extend
+- [`svelidation`](https://github.com/yazonnile/svelidation)<sub>@yazonnile</sub> -
+  Easily customizable library for validation scenarios in svelte components
 
 ### animation
 
