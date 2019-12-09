@@ -12,9 +12,6 @@ Please [direct your submissions](https://github.com/sveltejs/community/pulls)
 there instead of here.
 For the time being, we'll mirror everything between the two.
 
-Please feel free to submit anything you find useful or interesting.
-See [contributing.md](contributing.md) for more.
-
 See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
 and [other awesome lists](https://github.com/sindresorhus/awesome).
 
