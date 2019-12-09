@@ -515,6 +515,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Flatpickr component for Svelte
 - [keithj2780/svelte-calendar](https://github.com/keithj2780/svelte-calendar)<sub>@keithj2780</sub> -
   Simple calendar component
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar)<sub>@YogliB</sub> -
+  Wrapper around FullCalendar
 
 ### notifications
 
