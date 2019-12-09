@@ -4,12 +4,17 @@
 
 > useful resources for [Svelte](https://svelte.dev) v3+
 
+_Important!_ The official successor to this project,
+[sveltejs/community](https://github.com/sveltejs/community),
+has its work-in-progress live at
+[svelte-community.netlify.com](https://svelte-community.netlify.com/code/).
+Please [direct your submissions](https://github.com/sveltejs/community/pulls)
+there instead of here.
+For the time being, we'll mirror everything between the two.
+
 Please feel free to submit anything you find useful or interesting.
 See [contributing.md](contributing.md) for more.
 
-The official successor to this project is
-[sveltejs/community](https://github.com/sveltejs/community).
-It's a work in progress, and your help is appreciated!
 See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
 and [other awesome lists](https://github.com/sindresorhus/awesome).
 
