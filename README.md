@@ -707,6 +707,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Weekly curated blogs and tools for Svelte developers
 - [sveltejsnews](https://shershen08.github.io/sveltejsnews/) -
   Bi-weekly newsletter with news & links
+- [Svelte Jobs](https://sveltejobs.dev/) -
+  Svelte jobs from all over the world
 
 ## license
 
