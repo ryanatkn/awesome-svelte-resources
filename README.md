@@ -4,11 +4,13 @@
 
 > useful resources for [Svelte](https://svelte.dev) v3+
 
-Please feel free to submit anything you find useful or interesting.
-See [contributing.md](contributing.md) for more.
-
-For [Sapper](https://github.com/sveltejs/sapper) resources,
-check out _(insert link here if someone makes it)_.
+_Important!_ The official successor to this project,
+[sveltejs/community](https://github.com/sveltejs/community),
+has its work-in-progress live at
+[svelte-community.netlify.com](https://svelte-community.netlify.com/code/).
+Please [direct your submissions](https://github.com/sveltejs/community/pulls)
+there instead of here.
+For the time being, we'll mirror everything between the two.
 
 See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
 and [other awesome lists](https://github.com/sindresorhus/awesome).
@@ -37,6 +39,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [inputs and widgets](#inputs-and-widgets)
   - [fonts and icons](#fonts-and-icons)
   - [forms and validation](#forms-and-validation)
+  - [animation](#animation)
   - [images](#images)
   - [charts](#charts)
   - [time and date](#time-and-date)
@@ -48,6 +51,7 @@ and [other awesome lists](https://github.com/sindresorhus/awesome).
   - [async loading](#async-loading)
   - [social and other 3rd party services](#social-and-other-3rd-party-services)
   - [development and documentation](#development-and-documentation)
+  - [syntax highlighting](#syntax-highlighting)
   - [other components and libraries](#other-components-and-libraries)
 - [native](#native)
 - [experiments](#experiments)
@@ -134,7 +138,7 @@ Maybe they [should be](https://github.com/ryanatkn/awesome-svelte-resources/pull
 - [`mdsvex`](https://github.com/pngwn/MDsveX)<sub>@pngwn</sub> -
   A markdown preprocessor for Svelte
 - [`svelte-preprocess-markdown`](https://github.com/AlexxNB/svelte-preprocess-markdown)<sub>@AlexxNB</sub> -
-  A markdown preprocessor for Svelte
+  Write Svelte components in markdown syntax
 - [`svelte-ts-preprocess`](https://github.com/PaulMaly/svelte-ts-preprocess)<sub>@PaulMaly</sub> -
   Typescript preprocessor for Svelte 3
 - [`@pyoner/svelte-ts-preprocess`](https://github.com/pyoner/svelte-typescript)<sub>@pyoner</sub> -
@@ -270,6 +274,12 @@ npx degit sveltejs/template svelte-app
   Clone of official Svelte template with added HMR support using Nollup
 - [agusID/boilerplate-svelte](https://github.com/agusID/boilerplate-svelte) -
   Boilerplate with TypeScript, Webpack, Storybook, Travis CI, SCSS, Babel, EsLint, Prettier, Jest
+- [LunaTK/svelte-web-component-builder](https://github.com/LunaTK/svelte-web-component-builder) -
+  Minimal setup for building svelte as a web component module
+- [nitro52/svelte-typescript-sass-template](https://github.com/nitro52/svelte-typescript-sass-template) -
+  Typescript, Sass, Storybook, Webpack
+- [pngwn/svelte-react-template](https://github.com/pngwn/svelte-react-template) -
+  React via svelte-adapter, Rollup, Babel
 
 ### electron templates
 
@@ -375,7 +385,7 @@ filesystem-based routing solution along with a full app framework.
 
 ### web component sets
 
-- [`zoo-web-components`](https://github.com/zooplus/zoo-web-components)<sub>@zooplus</sub> -
+- [`@zooplus/zoo-web-components`](https://github.com/zooplus/zoo-web-components)<sub>@zooplus</sub> -
   Web-components library built with Svelte
 
 ### layout and structure
@@ -410,6 +420,10 @@ filesystem-based routing solution along with a full app framework.
   A smart popover component for Svelte
 - [`svelte-headroom`](https://github.com/collardeau/svelte-headroom)<sub>@collardeau</sub> -
   A Svelte component to hide your header on scroll
+- [`svelte-table`](https://github.com/dasDaniel/svelte-table)<sub>@dasDaniel</sub> -
+  A Table component with sorting and filtering
+- [`@egjs/svelte-infinitegrid`](https://github.com/naver/egjs-infinitegrid/tree/master/packages/svelte-infinitegrid)<sub>@naver</sub> -
+  A component wrapping egjs-infinitegrid for infinite card layouts
 
 ### inputs and widgets
 
@@ -433,6 +447,10 @@ filesystem-based routing solution along with a full app framework.
   A Javascript REPL (code editor and code results) component
 - [Simple Svelte Autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete)<sub>@pstanoev</sub> -
   Simple autocomplete / typeahead component for Svelte
+- [`svelte-ruler`](https://github.com/daybrush/ruler/tree/master/packages/svelte-ruler)<sub>@daybrush</sub> -
+  A Ruler component that can draw grids and scroll infinitely
+- [`svelte-json-tree`](https://github.com/tanhauhau/svelte-json-tree)<sub>@tanhauhau</sub> -
+  JSON viewer component used in the Svelte REPL
 
 ### fonts and icons
 
@@ -446,6 +464,8 @@ filesystem-based routing solution along with a full app framework.
   Font Awesome 5 for Svelte
 - [`svelte-feather-icons`](https://github.com/dylanblokhuis/svelte-feather-icons)<sub>@dylanblokhuis</sub> -
   Feather icons for Svelte
+- [`svelte-simple-icons`](https://github.com/beyonk-adventures/svelte-simple-icons)<sub>@beyonk-adventures</sub> -
+  SVG icons for popular brands
 
 ### forms and validation
 
@@ -459,6 +479,15 @@ See the [ui component sets](#ui-component-sets) section for more.
   A lightweight library for managing forms in Svelte
 - [`sveltejs-forms`](https://github.com/mdauner/sveltejs-forms)<sub>@mdauner</sub> -
   Form components using Yup for validation
+- [`svelte-formly`](https://github.com/arabdevelop/svelte-formly)<sub>@arabdevelop</sub> -
+  Form components and validations that are easy to extend
+- [`svelidation`](https://github.com/yazonnile/svelidation)<sub>@yazonnile</sub> -
+  Easily customizable library for validation scenarios in svelte components
+
+### animation
+
+- [`svelte-typewriter`](https://github.com/henriquehbr/svelte-typewriter)<sub>@henriquehbr</sub> -
+  A simple and reusable typewriter effect
 
 ### images
 
@@ -477,6 +506,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper
 - [`svelte-fusioncharts`](https://github.com/priyanjitdey94/svelte-fusioncharts)<sub>@priyanjitdey94</sub> -
   Svelte component for FusionCharts JavaScript charting library
+- [`svelte-frappe-charts`](https://github.com/himynameisdave/svelte-frappe-charts)<sub>@himynameisdave</sub> -
+  Svelte bindings for [`frappe-charts`](https://frappe.io/charts).
 
 ### time and date
 
@@ -484,6 +515,10 @@ See the [ui component sets](#ui-component-sets) section for more.
   A lightweight datepicker with neat animations and a unique UX
 - [`svelte-flatpickr`](https://github.com/jacobmischka/svelte-flatpickr)<sub>@jacobmischka</sub> -
   Flatpickr component for Svelte
+- [keithj2780/svelte-calendar](https://github.com/keithj2780/svelte-calendar)<sub>@keithj2780</sub> -
+  Simple calendar component
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar)<sub>@YogliB</sub> -
+  Wrapper around FullCalendar
 
 ### notifications
 
@@ -526,6 +561,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Redux binding to Svelte based on react-redux
 - [`svql`](https://github.com/pateketrueke/svql)<sub>@pateketrueke</sub> -
   Wrapper for FetchQL, a GraphQL query client
+- [`svelte-backed-store`](https://github.com/JohnPeel/svelte-backed-store)<sub>@JohnPeel</sub> -
+  Stores backed by localStorage or sessionStorage
 
 ### interaction
 
@@ -533,6 +570,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Svelte actions for cross-platform gesture detection (work in progress)
 - [`@beyonk/svelte-scrollspy`](https://github.com/beyonk-adventures/svelte-scrollspy)<sub>@beyonk-adventures</sub> -
   Scroll Spy component for Svelte
+- [`svelte-moveable`](https://github.com/daybrush/moveable/tree/master/packages/svelte-moveable)<sub>@daybrush</sub> -
+  Component for moveable, draggable, resizable, scalable, rotatable, and more
 
 ### async loading
 
@@ -564,6 +603,15 @@ See the [ui component sets](#ui-component-sets) section for more.
   Development helper for inspecting and opening Svelte components in your editor
 - [`svelte-dev-helper`](https://github.com/ekhaled/svelte-dev-helper)<sub>@ekhaled</sub> -
   Helper for Svelte components to ease development. Used by `svelte-loader`
+- [`@svelte-docs/core`](https://github.com/AlexxNB/svelte-docs)<sub>@AlexxNB</sub> -
+  A rapid way to write documentation for your Svelte components
+
+### syntax highlighting
+
+- [`prism-svelte`](https://github.com/pngwn/prism-svelte)<sub>@pngwn</sub> -
+  Syntax highlighting for Svelte code with prismjs
+- [`highlightjs-svelte`](https://github.com/AlexxNB/highlightjs-svelte)<sub>@AlexxNB</sub> -
+  Svelte language definition for Highlight.js
 
 ### other components and libraries
 
@@ -571,6 +619,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Use Svelte components with Vue and React
 - [`svelte-css-vars`](https://github.com/kaisermann/svelte-css-vars)<sub>@kaisermann</sub> -
   Ever wanted to have reactive css variables in Svelte? What if I tell you there's a way?
+- [`svelte-adaptive-sensors`](https://github.com/pngwn/svelte-adaptive-sensors)<sub>@pngwn</sub> -
+  Sensors to deliver adaptive loading based on a user's device and network
 
 ## native
 
@@ -608,9 +658,12 @@ See the [ui component sets](#ui-component-sets) section for more.
   Mood and Life Tracker built with Svelte
 - [palettes](https://github.com/gka/palettes)<sub>@gka</sub> -
   A tool for creating nice, percerptually correct and colorblind-safe color palettes
-- send [pull requests](https://github.com/ryanatkn/awesome-svelte-resources/pulls)!
-- [Litekart](https://github.com/itswadesh/sapper-ecommerce#readme)<sub>@itswadesh</sub> -
-  🛒A real and actively developed ecommerce built using Svelte & Sapper
+- [Litekart](https://github.com/itswadesh/sapper-ecommerce)<sub>@itswadesh</sub> -
+  An actively developed ecommerce website built using Svelte & Sapper
+- [Svelte Markdown Editor](https://github.com/snipcart/svelte-markdown-editor)<sub>@thefln</sub> -
+  Quick tuts + live demo to create a simple markdown editor app with Svelte.
+- [Svelte Sapper Bulma Crud](https://github.com/danielschmitz/svelte-sapper-bulma-crud) -
+  A basic CRUD using Svelte, Sapper and Bulma. ([demo](https://svelte-sapper-bulma-crud.herokuapp.com/))
 
 ## media
 
@@ -621,8 +674,11 @@ See the [ui component sets](#ui-component-sets) section for more.
 
 ### talks
 
-- [Rich Harris - Rethinking reactivity - YGLF 2019](https://www.youtube.com/watch?v=AdNJ3fydeao)
 - [Rich Harris - Computer, build me an app - JSConf EU 2018](https://www.youtube.com/watch?v=qqt6YxAZoOc)
+- [Rich Harris - Rethinking reactivity - YGLF 2019](https://www.youtube.com/watch?v=AdNJ3fydeao)
+- [Rich Harris - The Return of 'Write Less, Do More' - JSCAMP 2019](https://www.youtube.com/watch?v=BzX4aTRPzno)
+- [R. Mark Volkmann - Simplified Web App Development with Svelte - Midwest JS](https://www.youtube.com/watch?v=aoKpKSbKovU)
+- [Peter Allen - Re-rendering perceptions with Svelte - Bristech 2019](https://www.youtube.com/watch?v=fUfsHKR6X9s)
 
 ### podcasts and other videos
 
@@ -651,6 +707,8 @@ See the [ui component sets](#ui-component-sets) section for more.
   Weekly curated blogs and tools for Svelte developers
 - [sveltejsnews](https://shershen08.github.io/sveltejsnews/) -
   Bi-weekly newsletter with news & links
+- [Svelte Jobs](https://sveltejobs.dev/) -
+  Svelte jobs from all over the world
 
 ## license
 
