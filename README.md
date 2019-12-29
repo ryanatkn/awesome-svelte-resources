@@ -359,6 +359,8 @@ filesystem-based routing solution along with a full app framework.
   Filesystem-based router inspired by [Sapper's routing](https://sapper.svelte.dev/docs#Routing)
 - [`yrv`](https://github.com/pateketrueke/yrv)<sub>@pateketrueke</sub> -
   Basic router with queryParams and hash-based routing support
+- [`routify`](https://github.com/sveltech/routify)<sub>@sveltech</sub> -
+  Routes automated by your file structure
 
 ### ui component sets
 
