@@ -384,6 +384,8 @@ filesystem-based routing solution along with a full app framework.
   Easy-to-use, Customizable Material Design components for Svelte
 - [`svelte-chota`](https://github.com/alexxnb/svelte-chota)<sub>@AlexxNB</sub> -
   Svelte UI components based on super lightweight chota CSS framework.
+- [`svelte-mui`](https://github.com/vikignt/svelte-mui)<sub>@vikignt</sub> -
+- inspired by Google's Material Design
 
 ### web component sets
 
