@@ -4,7 +4,7 @@
 
 > useful resources for [Svelte](https://svelte.dev) v3+
 
-_Important!_ The official successor to this project,
+**_Important!_** The official successor to this project,
 [sveltejs/community](https://github.com/sveltejs/community),
 has its work-in-progress live at
 [svelte-community.netlify.com](https://svelte-community.netlify.com/code/).
