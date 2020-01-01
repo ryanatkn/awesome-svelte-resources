@@ -455,6 +455,8 @@ filesystem-based routing solution along with a full app framework.
   A Ruler component that can draw grids and scroll infinitely
 - [`svelte-json-tree`](https://github.com/tanhauhau/svelte-json-tree)<sub>@tanhauhau</sub> -
   JSON viewer component used in the Svelte REPL
+- [`svelte-checkbox`](https://github.com/HosseinShabani/svelte-checkbox)<sub>@HosseinShabani</sub> -
+  A checkbox component for Svelte (Cool animation, Customizable).
 
 ### fonts and icons
 
