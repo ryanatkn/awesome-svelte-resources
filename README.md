@@ -280,6 +280,10 @@ npx degit sveltejs/template svelte-app
   Typescript, Sass, Storybook, Webpack
 - [pngwn/svelte-react-template](https://github.com/pngwn/svelte-react-template) -
   React via svelte-adapter, Rollup, Babel
+- [hmmhmmhm/svelte-template](https://github.com/hmmhmmhm/svelte-template) -
+  Typescript, Parcel, Express
+- [hmmhmmhm/svelte-spa-template](https://github.com/hmmhmmhm/svelte-spa-template) -
+  Typescript, Parcel, Express for single page apps
 
 ### electron templates
 
