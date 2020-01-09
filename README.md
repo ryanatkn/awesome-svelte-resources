@@ -530,8 +530,9 @@ See the [ui component sets](#ui-component-sets) section for more.
 - [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar)<sub>@YogliB</sub> -
   Wrapper around FullCalendar
 - [`svelte-touch-datepicker`](https://github.com/SharifClick/svelte-touch-datepicker)<sub>@SharifClick</sub> -
+  A simple date picker - best for mobile web app (no dependencies)
 - [`svelte-touch-timepicker`](https://github.com/SharifClick/svelte-touch-timepicker)<sub>@SharifClick</sub> -
-  A simple date and time picker - best for mobile web app (no dependencies 🔥)
+  A simple time picker - best for mobile web app (no dependencies)
 
 ### notifications
 
