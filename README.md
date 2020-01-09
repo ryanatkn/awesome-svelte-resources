@@ -413,7 +413,7 @@ filesystem-based routing solution along with a full app framework.
 - [`multicarousel`](https://github.com/sciactive/multicarousel)<sub>@sciactive</sub> -
   A dependency free multiple item JavaScript carousel
 - [`svelte-swipe`](https://github.com/SharifClick/svelte-swipe)<sub>@SharifClick</sub> -
-  A carousel with touch support
+  Swipable items wrapper (no dependencies)
 - [`svelte-tabs`](https://github.com/joeattardi/svelte-tabs)<sub>@joeattardi</sub> -
   Tabs component for Svelte
 - [`svelte-media-query`](https://github.com/xelaok/svelte-media-query)<sub>@xelaok</sub> -
