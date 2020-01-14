@@ -604,6 +604,7 @@ See the [ui component sets](#ui-component-sets) section for more.
   A Facebook customer chat integration for Svelte / Sapper
 - [`@beyonk/svelte-trustpilot`](https://github.com/beyonk-adventures/svelte-trustpilot)<sub>@beyonk-adventures</sub> -
   Trustpilot Trustboxes for Svelte / Sapper
+- [`@dopry/svelte-auth0`](https://github.com/dopry/svelte-auth0)<sub>@dopry</sub> - Auth0 Integration Components for Svelte.
 
 ### development and documentation
 
