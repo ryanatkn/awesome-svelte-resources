@@ -173,6 +173,8 @@ those projects are listed under [components and libraries](#components-and-libra
   Svelte JavaScript syntax highlighting for vim
 - [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin)<sub>@leafOfTree</sub> -
   Vim syntax and indent plugin for .svelte files
+- [vim-svelte](https://github.com/burner/vim-svelte)<sub>@burner</sub> -
+  Vim syntax and indent plugin for .svelte files
 - [svelte-intellij](https://github.com/tomblachut/svelte-intellij)<sub>@tomblachut</sub> -
   Provides syntax highlighting of Svelte components in WebStorm and friends
 - [`svelte-language-server`](https://github.com/UnwrittenFun/svelte-language-server)<sub>@UnwrittenFun</sub> -
