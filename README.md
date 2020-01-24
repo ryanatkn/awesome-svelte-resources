@@ -4,13 +4,18 @@
 
 > useful resources for [Svelte](https://svelte.dev) v3+
 
-**_Important!_** The official successor to this project,
+```diff
+- DEPRECATION NOTICE
+```
+
+## :warning: **important** :warning: go to **[sveltejs/community](https://github.com/sveltejs/community)** instead
+
+The official successor to this project,
 **[sveltejs/community](https://github.com/sveltejs/community)**,
-has its work-in-progress live at
+is live at
 [svelte-community.netlify.com](https://svelte-community.netlify.com/code/).
 Please [direct your submissions](https://github.com/sveltejs/community/pulls)
 there instead of here.
-For the time being, we'll mirror everything between the two.
 
 See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
 and [other awesome lists](https://github.com/sindresorhus/awesome).
