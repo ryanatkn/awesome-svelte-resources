@@ -5,7 +5,7 @@
 > useful resources for [Svelte](https://svelte.dev) v3+
 
 ```diff
-- deprecated <3
+- deprecated for sveltejs/community <3
 ```
 
 ## :warning: **important** :warning: go to **[sveltejs/community](https://github.com/sveltejs/community)** instead
