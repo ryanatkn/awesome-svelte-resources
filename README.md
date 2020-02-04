@@ -375,6 +375,7 @@ filesystem-based routing solution along with a full app framework.
 
 ### ui component sets
 
+- [`carbon-components-svelte`](https://github.com/IBM/carbon-components-svelte)<sub>@IBM</sub> - Svelte implementation of the Carbon Design System
 - [`svelma`](https://github.com/c0bra/svelma)<sub>@c0bra</sub> -
   Bulma components for Svelte
 - [`smelte`](https://github.com/matyunya/smelte)<sub>@matyunya</sub> -
