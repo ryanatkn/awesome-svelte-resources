@@ -5,7 +5,7 @@
 > useful resources for [Svelte](https://svelte.dev) v3+
 
 ```diff
-- DEPRECATION NOTICE
+- deprecated for sveltejs/community <3
 ```
 
 ## :warning: **important** :warning: go to **[sveltejs/community](https://github.com/sveltejs/community)** instead
@@ -15,7 +15,7 @@ The official successor to this project,
 is live at
 [svelte-community.netlify.com](https://svelte-community.netlify.com/code/).
 Please [direct your submissions](https://github.com/sveltejs/community/pulls)
-there instead of here.
+there instead of here. <3
 
 See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
 and [other awesome lists](https://github.com/sindresorhus/awesome).
@@ -396,8 +396,8 @@ filesystem-based routing solution along with a full app framework.
   Easy-to-use, Customizable Material Design components for Svelte
 - [`svelte-chota`](https://github.com/alexxnb/svelte-chota)<sub>@AlexxNB</sub> -
   Svelte UI components based on super lightweight chota CSS framework.
-- [`svelte-mui`](https://github.com/vikignt/svelte-mui)<sub>@vikignt</sub> - inspired by Google's Material Design
-
+- [`svelte-mui`](https://github.com/vikignt/svelte-mui)<sub>@vikignt</sub> -
+  Simple Svelte UI components inspired by Google's Material Design
 
 ### web component sets
 
