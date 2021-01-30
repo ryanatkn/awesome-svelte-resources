@@ -5,16 +5,16 @@
 > useful resources for [Svelte](https://svelte.dev) v3+
 
 ```diff
-- deprecated for sveltejs/community <3
+- deprecated for svelte-society/sveltesociety.dev
 ```
 
-## :warning: **important** :warning: go to **[sveltejs/community](https://github.com/sveltejs/community)** instead
+## :warning: **important** :warning: go to **[svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)** instead
 
 The official successor to this project,
-**[sveltejs/community](https://github.com/sveltejs/community)**,
+**[svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)**,
 is live at
-[svelte-community.netlify.com](https://svelte-community.netlify.com/code/).
-Please [direct your submissions](https://github.com/sveltejs/community/pulls)
+[sveltesociety.dev](https://sveltesociety.dev).
+Please [direct your submissions](https://github.com/svelte-society/sveltesociety.dev/pulls)
 there instead of here. <3
 
 See also [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte)
